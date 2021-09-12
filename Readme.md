@@ -1,6 +1,6 @@
 # Unofficial 🇧🇳 Brunei COVID 🦠 Resources
 
-This was created to serve as a source of the latest relevant information that I would want access to as I found it a struggle to find the most up to date information. Souces will be listed to verify information
+This was created to serve as a source of the latest relevant information that I would want access to as I found it a struggle to find the most up to date information. Sources will be listed to verify information
 
 See a problem or room for improvement? If you can fix it, [open a PR](https://github.com/thewheat/covidbn-resources/pulls), otherwise [file an issue](https://github.com/thewheat/covidbn-resources/issues)
 
