@@ -101,17 +101,10 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Vaccinations
 
-- Starting Wednesday, 1 September 2021 due to supply issues 1st dose COVID-19 vaccination is not available to general public **except for exceptions listed below** who can come in a **walk-in basis** ([Source](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1012)) **(Note: supply of vaccines for these groups are limited)**
-    - **Elderly group** - Will only be given to those aged 60 years and above;
-    - **Pregnant Women group** – Required to bring along their **updated MCH appointment book**. Meanwhile pregnant women who are registered in private clinics/hospitals such as JPMC, must bring along their appointment book as proof;
-    - **Differently-abled Group** – Required to either bring their:
-        - Medical record;
-        - Confirmation letter from the Ministry of Education;
-        - Proof of registration with Pusat Bahagia; or
-        - Proof of registration with any NGOs involving differently-abled persons.    
-- **For those with bookings for 2nd dose:** check booking through BruHealth app in the event of a date change (e.g. brought forward from the original schedule)
-- **For those with bookings for 1st dose made before the announcement on 31 August 2021:** check booking through BruHealth to know of new date when supply comes (e.g. if original date was 1st Sept and new supply comes on 15th Sept, the new appointment will be changed to 16th September) ([source](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1014))
-
+- Starting Thursday, 16th September 2021 vaccination for first dose resumes ([Source - MoH website](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1029), [Source - Telegram post](https://t.me/govbnofficial/3059https://t.me/govbnofficial/3059))
+   - Vaccination appointment slots for those affected by the previously postponement from 1st September will be automatically shifted and they will be given priority in stages
+   - Due to limited vaccination slots, the public **may be given an appointment slot at different vaccination centres than the ones previously selected**
+   - Public is advised to **check the status of their vaccination appointment via the BruHealth app or short messaging services (SMS) from time to time** to ensure of the date of appointment slot and location of their vaccination centre.
 
 ------------------------------------------------------------------------------
 
