@@ -105,6 +105,8 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
    - Vaccination appointment slots for those affected by the previously postponement from 1st September will be automatically shifted and they will be given priority in stages
    - Due to limited vaccination slots, the public **may be given an appointment slot at different vaccination centres than the ones previously selected**
    - Public is advised to **check the status of their vaccination appointment via the BruHealth app or short messaging services (SMS) from time to time** to ensure of the date of appointment slot and location of their vaccination centre.
+   - 2021-09-16: The process of rescheduling vaccination slots for 
+those who were affected by the postponement of the first dose is still ongoing ([Source](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1031))
 
 ------------------------------------------------------------------------------
 
