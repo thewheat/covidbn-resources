@@ -82,7 +82,9 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Authorized Antigen Rapid Test (ART) Kits
 
-[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/LIST%20OF%20AUTHORISED%20COV19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%20as%20at%206.9.2021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%20as%20at%2013092021%20(1).pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+
+List below based on last update on 13 September 2021
 
 | No  | Name | Manufacturer | Detection | Sample Type |
 | --- | --- | --- | --- | --- |
@@ -95,6 +97,10 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 | 7   | ARISTA COVID-19 Antigen Rapid Test | Arista Biotech Pte. Ltd. Singapore | Antigen | Nasal |
 | 8   | NEWGENE Bioengineering COVID19 Antigen Detection Kit | New Gene (Hangzhou) Bioengineering Co., Ltd. China | Antigen | Sputum / Nasopharyngeal |
 | 9   | ALLTEST Covid-19 Antigen Test Oral Fluid Self-Testing | ALLTEST (Hangzhou) Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
+| 10  | Medomics SARs-Cov2 Antigen Test Kit (LFIA) | Jiangsu Medomics Medical Technology Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
+| 11  | Orawell COVID-19 Ag Rapid Saliva Test Device | Jiangsu Well Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
+| 12  | Veri-Q COVID-19 Ag Rapid Test | MiCo BioMed Co. Ltd. South Korea | Antigen | Nasopharyngeal / Nasal |
+| 13  | Flowflex SARS-CoV-2 Antigen Rapid Test | ACON Biotech (Hangzhou) Co. Ltd. China | Antigen | Nasal / Saliva |
 
 
 ------------------------------------------------------------------------------
