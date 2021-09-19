@@ -106,13 +106,14 @@ List below based on last update on 13 September 2021
 ------------------------------------------------------------------------------
 
 ## Vaccinations
-
+- AstraZeneca is the current default vaccine, Sinopharm available on request (Source: [Borneo Bulletin](https://borneobulletin.com.bn/astrazeneca-to-be-default-vaccine-sinopharm-available-on-request/) / [The Scoop](https://thescoop.co/2021/09/18/astrazeneca-will-be-default-vaccine-from-now-on/))
 - Starting Thursday, 16th September 2021 vaccination for first dose resumes ([Source - MoH website](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1029), [Source - Telegram post](https://t.me/govbnofficial/3059https://t.me/govbnofficial/3059))
    - Vaccination appointment slots for those affected by the previously postponement from 1st September will be automatically shifted and they will be given priority in stages
    - Due to limited vaccination slots, the public **may be given an appointment slot at different vaccination centres than the ones previously selected**
    - Public is advised to **check the status of their vaccination appointment via the BruHealth app or short messaging services (SMS) from time to time** to ensure of the date of appointment slot and location of their vaccination centre.
    - 2021-09-16: The process of rescheduling vaccination slots for 
 those who were affected by the postponement of the first dose is still ongoing ([Source](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1031))
+   - Those unable to attend booking or have made other bookings are advised to cancel the booking to give the opportunity to others (Source: [GOV.BN Telegram Press Release on 2021-09-19](https://t.me/govbnofficial/3093))
 
 ------------------------------------------------------------------------------
 
