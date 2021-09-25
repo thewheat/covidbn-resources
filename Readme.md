@@ -4,6 +4,15 @@ This was created to serve as a source of the latest relevant information that I 
 
 See a problem or room for improvement? If you can fix it, [open a PR](https://github.com/thewheat/covidbn-resources/pulls), otherwise [file an issue](https://github.com/thewheat/covidbn-resources/issues)
 
+* * * 
+
+### Starting at 6pm Saturday 25 September 2021, as per the provisions under Section 62A of the Infectious Diseases Act Chapter 204, only individuals who have the BruHealth app on their mobile phones or individuals who share the BruHealth app with other known individuals such as their caregivers, employers, managers or friends are allowed out of their household. Anyone who fails to comply with this directive will be subject to legal action.
+
+([Source: MoH - 24th Sept 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1040))
+
+* * * 
+
+
 **Table of Contents**
 
 - [Official Links](#official-links)
@@ -11,6 +20,8 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - [Contribute / Donate](#contribute--donate)
 - [Authorized Antigen Rapid Test (ART) Kits](#authorized-antigen-rapid-test-art-kits)
 - [Vaccinations](#vaccinations)
+   - [Vaccination Notes](#vaccination-notes)
+   - [Vaccination Side Effects](#vaccination-side-effects)
 - [Health Centres](#health-centres)
 - [Got Symptoms?](#got-symptoms)
 - [Swab Locations](#swab-locations)
@@ -52,7 +63,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - **Talian Darussalam 123**
     - ☎️ [123](tel:123)
     - [WhatsApp: +673 833 3123](https://api.whatsapp.com/send?phone=+673%20833%203123)
-- **Brunei Red Cresent (BRC)** ([source Instagram post](https://www.instagram.com/p/CTG3f9Oh0SZ/))
+- **Brunei Red Crescent (BRC)** ([source Instagram post](https://www.instagram.com/p/CTG3f9Oh0SZ/))
     - [Instagram: @brunei_redcrescent](https://instagram.com/brunei_redcrescent)
     - **BRC COVID-19 Help Desk**
         - _Hours_: 08:30am - 6:30pm
@@ -107,13 +118,49 @@ List below based on last update on 13 September 2021
 
 ## Vaccinations
 - AstraZeneca is the current default vaccine, Sinopharm available on request (Source: [Borneo Bulletin](https://borneobulletin.com.bn/astrazeneca-to-be-default-vaccine-sinopharm-available-on-request/) / [The Scoop](https://thescoop.co/2021/09/18/astrazeneca-will-be-default-vaccine-from-now-on/))
-- Starting Thursday, 16th September 2021 vaccination for first dose resumes ([Source - MoH website](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1029), [Source - Telegram post](https://t.me/govbnofficial/3059https://t.me/govbnofficial/3059))
+- Those unable to attend booking or have made other bookings are advised to cancel the booking to give the opportunity to others (Source: [GOV.BN Telegram Press Release on 2021-09-19](https://t.me/govbnofficial/3093))
+- Starting Thursday, 16th September 2021 vaccination for first dose resumes ([Source - MoH 15th Sept 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1029), [Source - Telegram post](https://t.me/govbnofficial/3059https://t.me/govbnofficial/3059))
    - Vaccination appointment slots for those affected by the previously postponement from 1st September will be automatically shifted and they will be given priority in stages
    - Due to limited vaccination slots, the public **may be given an appointment slot at different vaccination centres than the ones previously selected**
    - Public is advised to **check the status of their vaccination appointment via the BruHealth app or short messaging services (SMS) from time to time** to ensure of the date of appointment slot and location of their vaccination centre.
-   - 2021-09-16: The process of rescheduling vaccination slots for 
-those who were affected by the postponement of the first dose is still ongoing ([Source](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1031))
-   - Those unable to attend booking or have made other bookings are advised to cancel the booking to give the opportunity to others (Source: [GOV.BN Telegram Press Release on 2021-09-19](https://t.me/govbnofficial/3093))
+- Starting Friday, 24 September 2021, the Indoor Stadium Vaccination Centre will be open every Friday from 2:30 pm to 8:00 pmfor those **who have not received the first dose**. Anyone who does not yet have BruHealth or BruHIMS are advised to bring personal documents such as identity cards, passports or other official identification documents ([Source - MoH 23rd Sept 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1039))
+
+
+### Vaccination Notes
+(Source: [BruHealth app -> COVID-19 Vaccination](https://www.healthinfo.gov.bn/))
+- You cannot get COVID-19 infection from the vaccine
+- There are several brands of vaccines available at any one time; you will be allocated only ONE brand of the vaccine
+- It takes a few weeks for your body to build up immunity from the vaccine
+- No vaccine is 100% effective. You may still get COVID-19 infection even though you have been vaccinated but the severity of the infection will be a lot less
+- You must complete the full course of your vaccine to get adequate protection
+- **If you have previously experienced an anaphylaxis of severe allergic reaction to any vaccine, it is not advisable for you to receive COVID-19 vaccine**
+- After vaccination, you will still need to practise social responsibilities by
+   - Practising regular hand hygiene
+   - Practising proper cough and sneeze etiquette
+   - Avoiding public places and gatherings if you are unwell
+   - Wearing face masks if you are not feeling well but cannot avoid public places or crowds
+- Please avoid strenuous activity for 7 days after your vaccination (e.g. swimming, cycling, weight lifting, running, hiking, racket games) (Source: [Gov.BN Telegram Post 13th July](https://t.me/govbnofficial/2370))
+
+
+### Vaccination Side Effects
+(Source: [BruHealth app -> COVID-19 Vaccination](https://www.healthinfo.gov.bn/))
+
+- Common side effects
+   - Fever
+   - Soreness at the site of injection
+   - Feeling tired
+   - Headaches
+   - Aches and pains
+   - Feeling unwell
+- If any symptoms or suspected side effects from the vaccination occur, use the BruHealth app / Side-Effect Reporting Form / contact HAL 148 to report
+- For the **AstraZeneca vaccine**, rare occurrences of abnormal blood clotting have been reported in some countries. Currently, there is no clear evidence of any casaul link and the overall number of cases is very small. In accordance with guidance from the WOrld Health Organization and European Medicines Agency, the Ministry of Health is of the view that the AstraZeneca vaccine is safe for use, and that the benefits of vaccination outweigh the risks. Seek immediate medical attentioni if you experience
+   - Shortness of breath
+   - Chest pain
+   - Leg swelling
+   - Persistent abdominal pain
+   - Severe or persistent headaches
+   - Blurred vision
+   - Abnormal skin bruising beyond the site of vaccination after a few days
 
 ------------------------------------------------------------------------------
 
@@ -168,7 +215,7 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 ## Drive-Thru Swab Locations
 
-[Source](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1010)
+[Source - MoH 29th Aug 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1010)
 
 - Location: Bridex Drive-Thru Swab Centre / The Pusat Insani, Seria Drive-Thru Swab Centre
 - Hours: Monday to Thursday and Saturday, from 8:00 am to 8:00 pm.
@@ -235,12 +282,12 @@ Family members are required to send a change of clothing (including undergarment
 
 - **Primary contact:**
     - An individual who has been in close contact with a COVID-19 positive case (they can be detected by Bluetooth contact as well)
-    - Both the primary and secondary contacts will be ussed with a digital quarantine order
+    - Both the primary and secondary contacts will be used with a digital quarantine order
     - Primary contacts are required to take a swab test immediately on the first day (D1) and on the twelve day (D12)
     - If a primary contact tests positive in swab test, then secondary contacts will become primary contacts
 - **Secondary contact:**
     - An individual who has been in close contact with a primary contact and shares the same household
-    - The secondary househould contact is not required to take a swab test
+    - The secondary household contact is not required to take a swab test
 
 ------------------------------------------------------------------------------
 
@@ -295,7 +342,7 @@ Attach along with your screenshot error in BruHealth, a photo of your child's bi
 
 This means that date is fully booked.
 
-To reschedule or change vaccination site - The app doesnt allow you to change your 2nd dose vaccination site.
+To reschedule or change vaccination site - The app doesn't allow you to change your 2nd dose vaccination site.
 
 Kindly adhere to your 2nd dose appointment date and time.
 
