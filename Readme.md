@@ -6,9 +6,21 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * * 
 
-### Starting at 6pm Saturday 25 September 2021, as per the provisions under Section 62A of the Infectious Diseases Act Chapter 204, only individuals who have the BruHealth app on their mobile phones or individuals who share the BruHealth app with other known individuals such as their caregivers, employers, managers or friends are allowed out of their household. Anyone who fails to comply with this directive will be subject to legal action.
+## Operasi Pulih
 
-([Source: MoH - 24th Sept 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1040))
+([Source: GovBN Telegram Post on 2nd October 2021](https://t.me/govbnofficial/3233))
+
+### Starting Monday 4th October 2021 to Sunday 17th October
+
+1.  Enforcement agencies will step up surveillance and enforcement activities to ensure that the public will continue to comply with the restrictions issued by the Ministry of Health.
+2.  **The public are advised and required to remain at their respective residences from 8.00 p.m. to 4.00 a.m daily**. This is to restrict movement and reduce the risk of transmission of COVID-19. Exceptions are only granted for emergencies, urgent matters and critical frontline workers only.
+3.  In addition to ongoing efforts, Penghulu and Village Heads are expected to jointly monitor local residents to ensure their compliance with orders to control the spread of COVID-19 as well as to practise social distancing and not to hold any social gatherings.
+4. The hotline at the National Coordination Centre for COVID-19 (N3C) will operate 24 hours daily for the public to report incidents or violations of any regulations or Standard Operating Procedures (SOPs) to the authorities. The hotline numbers are as follows:
+    - ☎️ [8176148](tel:8176148)
+    - ☎️ [8175148](tel:8175148)
+    - ☎️ [8166148](tel:8166148)
+    - ☎️ [8155148](tel:8155148)
+
 
 * * * 
 
@@ -117,6 +129,32 @@ List below based on last update on 13 September 2021
 ------------------------------------------------------------------------------
 
 ## Vaccinations
+
+**Commencing Tuesday, 5 October 2021, the National Vaccination Programme will add-on 2,500 doses of COVID-19 vaccine injections per day** ([Source: MoH 2nd Oct 2021 press release via GovBN Telegram Post](https://t.me/govbnofficial/3237))
+- Open to all citizens and residents of Brunei Darussalam including the elderly, pregnant mothers and differently-abled persons; except those under the age of 18 years old
+- Priority are given to those who have difficulty in booking the first dose vaccination slots through the BruHealth app.
+- This service is only provided by **bookings which can be done via the WhatsApp app only to the numbers as listed below**
+   - Slots between 8:00 am until 12:00 noon: - [7460025](https://api.whatsapp.com/send?phone=+673%207460025)
+   - Slots between 12:00 noon until 4:00 pm – -[7460026](https://api.whatsapp.com/send?phone=+673%207460026)
+   - Slots between 4:00 pm until 8:00 pm - [7460027](https://api.whatsapp.com/send?phone=+673%207460027)
+- The booking time will commence on Monday, 4 October 2021 and the operation hours to receive bookings are on Monday to Thursday and Saturday, from 8:00 am to 12:00 noon only.
+- Successful bookings will receive an SMS (short messaging service) from the Ministry of Health within 24 hours from the day of booking.
+- The information required when making a slot booking are; Full name; Smart Card number; BruHIMS number (if available); and a mobile number for easy contact.
+- Any individual who does not possess BruHealth or BruHIMS at the time of booking, they will be arranged to get the vaccination at four vaccination centres as shown on the screen, where they will also be required to undergo an ART swab test before being vaccinated.
+- The operating hours for the additional vaccination slots service at all vaccination centres are as shown below.
+
+Vaccination Centres | Operating hours for the additional vaccination slots service | ART swab test (40 minutes before vaccination)
+--------------------|--------------------------------------------------------------|----------------------------------------------
+Indoor Stadium Vaccination Centre|**Monday – Saturday**: 8:00 am until 8:00 pm<BR>**Sunday**: 8:00 am until 2:00 pm|**Yes** (ART swab test will be conducted to those who do not have BruHealth & BruHIMS)
+Jubli Emas Bunut Health Centre Vaccination Centre|**Monday - Thursday & Saturday**: 2:00 pm until 3:00 pm|**No** (therefore required to have BruHealth & BruHIMS if making a booking at this vaccination centre)
+Pengiran Anak Puteri Rashidah Sa’adatul Bolkiah Institute of Health Sciences, Universiti Brunei Darussalam Vaccination Centre|**Monday - Thursday & Saturday**: 8:00 am until 4:30 pm|**No** (therefore required to have BruHealth & BruHIMS if making a booking at this vaccination centre)
+Learning and Development Centre, Suri Seri Begawan Hospital Vaccination Centre|**Monday - Thursday & Saturday**: 8:00 am until 8:00 pm<BR>**Sunday**:8:00 am until 2:00 pm|**Yes** (ART swab test will be conducted to those who do not have BruHealth & BruHIMS)
+Belalong Community Hall, Temburong Vaccination Centre|**Monday - Thursday & Saturday**: 8:15 am until 11:30 am, 1:45 pm until 3:30 pm|**Yes** (ART swab test will be conducted to those who do not have BruHealth & BruHIMS)
+Seri Kenangan Hall, Pekan Tutong Vaccination Centre|**Monday - Thursday & Saturday**: 8:00 am until 6:00 pm|**Yes** (ART swab test will be conducted to those who do not have BruHealth & BruHIMS)
+
+
+* * * 
+
 - AstraZeneca is the current default vaccine, Sinopharm available on request (Source: [Borneo Bulletin](https://borneobulletin.com.bn/astrazeneca-to-be-default-vaccine-sinopharm-available-on-request/) / [The Scoop](https://thescoop.co/2021/09/18/astrazeneca-will-be-default-vaccine-from-now-on/))
 - Those unable to attend booking or have made other bookings are advised to cancel the booking to give the opportunity to others (Source: [GOV.BN Telegram Press Release on 2021-09-19](https://t.me/govbnofficial/3093))
 - Starting Thursday, 16th September 2021 vaccination for first dose resumes ([Source - MoH 15th Sept 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1029), [Source - Telegram post](https://t.me/govbnofficial/3059https://t.me/govbnofficial/3059))
