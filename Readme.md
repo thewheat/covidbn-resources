@@ -105,9 +105,9 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Authorized Antigen Rapid Test (ART) Kits
 
-[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%20as%20at%2013092021%20(1).pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2029092021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
 
-List below based on last update on 13 September 2021
+List below based on last update on 29 September 2021
 
 | No  | Name | Manufacturer | Detection | Sample Type |
 | --- | --- | --- | --- | --- |
@@ -122,13 +122,33 @@ List below based on last update on 13 September 2021
 | 9   | ALLTEST Covid-19 Antigen Test Oral Fluid Self-Testing | ALLTEST (Hangzhou) Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
 | 10  | Medomics SARs-Cov2 Antigen Test Kit (LFIA) | Jiangsu Medomics Medical Technology Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
 | 11  | Orawell COVID-19 Ag Rapid Saliva Test Device | Jiangsu Well Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
-| 12  | Veri-Q COVID-19 Ag Rapid Test | MiCo BioMed Co. Ltd. South Korea | Antigen | Nasopharyngeal / Nasal |
+| 12  | Veri-Q COVID-19 Ag Rapid Test | MiCo BioMed Co. Ltd. Korea | Antigen | Nasopharyngeal / Nasal |
 | 13  | Flowflex SARS-CoV-2 Antigen Rapid Test | ACON Biotech (Hangzhou) Co. Ltd. China | Antigen | Nasal / Saliva |
-
+| 14  | Joysbio SARS-CoV-2  Antigen Rapid Test Kit (Professional use only) | Joysbio (Tianjian) Biotechnology Co. Ltd. China | Antigen | Saliva 
+| 15  | Wikang Medical SARS-CoV-2 Antigen Detection Kit (Self-testing use) | Xiamen Jiqing Biomedical Technology Co, Ltd. China | Antigen | Throat/Nasal 
+| 16  | Beright COVID-19  Antigen Rapid Test (Self-use) | Hangzhou Alltest Biotech Co. Ltd China | Antigen | Oral Fluid 
 
 ------------------------------------------------------------------------------
 
 ## Vaccinations
+
+- To see updates on free slots check
+   - [MoH Instagram account](https://www.instagram.com/mohbrunei/)
+   - [GOV.BN Telegram account](https://t.me/govbnofficial)
+
+* * * 
+
+**Commencing Sunday, 3 October 2021, as announced in the press conference on 29 September 2021, the Ministry of Health has opened additional vaccination time every Sunday specifically for employees in local companies at the Indoor Stadium Vaccination Centre**[Source: MoH 4th Oct 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1055)). 
+- Companies wishing to book their vaccination slots at the additional vaccination time can book via 
+   -  the WhatsApp app only, to the lines
+      - [8129148](https://api.whatsapp.com/send?phone=+673%208129148)
+      - [8139148](https://api.whatsapp.com/send?phone=+673%208139148)
+      - [8189148](https://api.whatsapp.com/send?phone=+673%208189148)
+      - [8146148](https://api.whatsapp.com/send?phone=+673%208146148)
+   or via email to [vacc.comp@moh.gov.bn](mailto:vacc.comp@moh.gov.bn)
+- The booking terms and conditions will be uploaded on the Ministry of Health's website. 
+
+* * * 
 
 **Commencing Tuesday, 5 October 2021, the National Vaccination Programme will add-on 2,500 doses of COVID-19 vaccine injections per day** ([Source: MoH 2nd Oct 2021 press release via GovBN Telegram Post](https://t.me/govbnofficial/3237))
 - Open to all citizens and residents of Brunei Darussalam including the elderly, pregnant mothers and differently-abled persons; except those under the age of 18 years old
