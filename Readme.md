@@ -146,6 +146,10 @@ List below based on last update on 18 October 2021
 
 * * * 
 
+**Commencing 10 October 2021 & 11 October 2021 updated operation hours of vaccination centres** [Source: MoH Press Release on10 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1061)
+ - Commencing Sunday, 10 October 2021, all vaccination centres in the country will be closed at 6:00 pm; and
+ - Commencing Monday, 11 October 2021, the Indoor Stadium Vaccination Centre will be open daily on a walk-in basis from 8:00 am to 6:00 pm for administration of first dose only, and is open to all citizens and residents of Brunei Darussalam holding yellow and purple smart cards only. However, the services on Sundays are still open to companies on a scheduled basis whether for locals or foreign workers.
+    
 **Commencing Sunday, 3 October 2021, as announced in the press conference on 29 September 2021, the Ministry of Health has opened additional vaccination time every Sunday specifically for employees in local companies at the Indoor Stadium Vaccination Centre**[Source: MoH 4th Oct 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1055)). 
 - Companies wishing to book their vaccination slots at the additional vaccination time can book via 
    -  the WhatsApp app only, to the lines
