@@ -150,7 +150,9 @@ List below based on last update on 18 October 2021
  - Commencing Sunday, 10 October 2021, all vaccination centres in the country will be closed at 6:00 pm; and
  - Commencing Monday, 11 October 2021, the Indoor Stadium Vaccination Centre will be open daily on a walk-in basis from 8:00 am to 6:00 pm for administration of first dose only, and is open to all citizens and residents of Brunei Darussalam holding yellow and purple smart cards only. However, the services on Sundays are still open to companies on a scheduled basis whether for locals or foreign workers.
     
-**Commencing Sunday, 3 October 2021, as announced in the press conference on 29 September 2021, the Ministry of Health has opened additional vaccination time every Sunday specifically for employees in local companies at the Indoor Stadium Vaccination Centre**[Source: MoH 4th Oct 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1055)). 
+* * * 
+
+**Commencing Sunday, 3 October 2021, as announced in the press conference on 29 September 2021, the Ministry of Health has opened additional vaccination time every Sunday specifically for employees in local companies at the Indoor Stadium Vaccination Centre** ([Source: MoH 4th Oct 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1055)). 
 - Companies wishing to book their vaccination slots at the additional vaccination time can book via 
    -  the WhatsApp app only, to the lines
       - [8129148](https://api.whatsapp.com/send?phone=+673%208129148)
@@ -166,9 +168,9 @@ List below based on last update on 18 October 2021
 - Open to all citizens and residents of Brunei Darussalam including the elderly, pregnant mothers and differently-abled persons; except those under the age of 18 years old
 - Priority are given to those who have difficulty in booking the first dose vaccination slots through the BruHealth app.
 - This service is only provided by **bookings which can be done via the WhatsApp app only to the numbers as listed below**
-   - Slots between 8:00 am until 12:00 noon: - [7460025](https://api.whatsapp.com/send?phone=+673%207460025)
-   - Slots between 12:00 noon until 4:00 pm – -[7460026](https://api.whatsapp.com/send?phone=+673%207460026)
-   - Slots between 4:00 pm until 8:00 pm - [7460027](https://api.whatsapp.com/send?phone=+673%207460027)
+   - Slots between 8:00 am until 12:00 noon: [7460025](https://api.whatsapp.com/send?phone=+673%207460025)
+   - Slots between 12:00 noon until 4:00 pm: [7460026](https://api.whatsapp.com/send?phone=+673%207460026)
+   - Slots between 4:00 pm until 8:00 pm: [7460027](https://api.whatsapp.com/send?phone=+673%207460027)
 - The booking time will commence on Monday, 4 October 2021 and the operation hours to receive bookings are on Monday to Thursday and Saturday, from 8:00 am to 12:00 noon only.
 - Successful bookings will receive an SMS (short messaging service) from the Ministry of Health within 24 hours from the day of booking.
 - The information required when making a slot booking are; Full name; Smart Card number; BruHIMS number (if available); and a mobile number for easy contact.
