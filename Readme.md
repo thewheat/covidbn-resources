@@ -271,7 +271,7 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 (Source: [BruHealth app -> Epidemic Map -> Medical Resources](https://www.healthinfo.gov.bn/) & [HAL 148](#contacts))
 
-- Sports Complex Screening Centre, RIPAS Hospital (7am-2am)
+- Sports Complex Screening Centre, RIPAS Hospital (8am-8pm starting 16th October 2021) (Source: [MoH Press Release on 15 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1066)
 - Suri Seri Begawan Hospital (24hrs) (Not for Pre-Departure Swab)
 - Drive-Thru Swab Centre Bridex (8am-8pm Monday-Thurs + Saturday) (Not for Pre-Departure Swab)
 - Drive-Thru Swab Centre Pusat Insani, Seria (8am-8pm Monday-Thurs + Saturday) (Not for Pre-Departure Swab)
