@@ -8,9 +8,10 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Operasi Pulih
 
+([Source: GovBN Telegram Post on 13th October 2021](https://t.me/govbnofficial/3374) - extension)
 ([Source: GovBN Telegram Post on 2nd October 2021](https://t.me/govbnofficial/3233))
 
-### Starting Monday 4th October 2021 to Sunday 17th October
+### Starting Monday 4th October 2021 to Sunday 31st October
 
 1.  Enforcement agencies will step up surveillance and enforcement activities to ensure that the public will continue to comply with the restrictions issued by the Ministry of Health.
 2.  **The public are advised and required to remain at their respective residences from 8.00 p.m. to 4.00 a.m daily**. This is to restrict movement and reduce the risk of transmission of COVID-19. Exceptions are only granted for emergencies, urgent matters and critical frontline workers only.
@@ -21,6 +22,9 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
     - ☎️ [8166148](tel:8166148)
     - ☎️ [8155148](tel:8155148)
 
+It is the responsibility of every employer, whether company or private employer, to ensure that employees adhere to the rules and regulations in dealing with and curbing the spread of the COVID-19 pandemic which still has yet to stabilise in the country.
+
+Those living alone who require assistance may obtain advice and assistance from their respective Village Heads or by contacting the above - mentioned National Coordinating Centre for COVID-19 hotline or Talian Kebajikan 141.
 
 * * * 
 
