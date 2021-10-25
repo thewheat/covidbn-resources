@@ -147,6 +147,25 @@ List below based on last update on 18 October 2021
    - [GOV.BN Telegram account](https://t.me/govbnofficial)
 
 * * * 
+**Commencing 26th October 2021: First Dose of Vaccination available as per walk-in basis** (Source: [GOVBN Telegram Post on 25th October 2021](https://t.me/govbnofficial/3539))
+- Available at all vaccination centers for all citizens and residents
+- Bring IC / Passport, Bru-HIMS card (if available)
+
+* * *
+
+**Announced 26th October 2021: Operating Hours of Vaccination Centers** (Source: [GOVBN Telegram Post on 25th October 2021](https://t.me/govbnofficial/3551))
+
+Vaccination Centres | Operating hours
+--------------------|----------------
+Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 5:00pm<BR>Friday: 2:00pm - 5:00pm<BR>Public Holidays: Closed
+UBD COVID-19 Vaccination Center|Monday - Thursday + Saturday: 8:00am - 4:30pm<BR>Friday, Sunday, Public Holidays: Closed
+Jubli Emas Bunut Health Centre|Monday - Thursday + Saturday: 8:00am - 3:00pm<BR>Friday, Sunday, Public Holidays: Closed
+Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:30am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
+Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
+Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
+
+
+* * * 
 
 **Announcment on 18th October 2021: Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years**  (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
 - The COVID-19 Vaccine Technical Committee at the Ministry of Health has approved the use of this vaccine for adolescents aged 12 to 17 years based on detailed research and evaluation, and considering the aspects of safety, efficacy and quality.
@@ -154,7 +173,7 @@ List below based on last update on 18 October 2021
 
 * * *
 
-**Commencing 10 October 2021 & 11 October 2021 updated operation hours of vaccination centres** [Source: MoH Press Release on10 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1061)
+**Commencing 10 October 2021 & 11 October 2021 updated operation hours of vaccination centres** ([Source: MoH Press Release on10 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1061))
  - Commencing Sunday, 10 October 2021, all vaccination centres in the country will be closed at 6:00 pm; and
  - Commencing Monday, 11 October 2021, the Indoor Stadium Vaccination Centre will be open daily on a walk-in basis from 8:00 am to 6:00 pm for administration of first dose only, and is open to all citizens and residents of Brunei Darussalam holding yellow and purple smart cards only. However, the services on Sundays are still open to companies on a scheduled basis whether for locals or foreign workers.
     
