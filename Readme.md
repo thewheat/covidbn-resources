@@ -8,10 +8,12 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Operasi Pulih
 
+
+([Source: GovBN Telegram Post on 26th October 2021](https://t.me/govbnofficial/3543) - extension 2)
 ([Source: GovBN Telegram Post on 13th October 2021](https://t.me/govbnofficial/3374) - extension)
 ([Source: GovBN Telegram Post on 2nd October 2021](https://t.me/govbnofficial/3233))
 
-### Starting Monday 4th October 2021 to Sunday 31st October
+### Starting Monday 4th October 2021 to Sunday 14th November
 
 1.  Enforcement agencies will step up surveillance and enforcement activities to ensure that the public will continue to comply with the restrictions issued by the Ministry of Health.
 2.  **The public are advised and required to remain at their respective residences from 8.00 p.m. to 4.00 a.m daily**. This is to restrict movement and reduce the risk of transmission of COVID-19. Exceptions are only granted for emergencies, urgent matters and critical frontline workers only.
