@@ -105,9 +105,9 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Authorized Antigen Rapid Test (ART) Kits
 
-[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2029092021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2018102021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
 
-List below based on last update on 29 September 2021
+List below based on last update on 18 October 2021
 
 | No  | Name | Manufacturer | Detection | Sample Type |
 | --- | --- | --- | --- | --- |
@@ -127,7 +127,10 @@ List below based on last update on 29 September 2021
 | 14  | Joysbio SARS-CoV-2  Antigen Rapid Test Kit (Professional use only) | Joysbio (Tianjian) Biotechnology Co. Ltd. China | Antigen | Saliva 
 | 15  | Wikang Medical SARS-CoV-2 Antigen Detection Kit (Self-testing use) | Xiamen Jiqing Biomedical Technology Co, Ltd. China | Antigen | Throat/Nasal 
 | 16  | Beright COVID-19  Antigen Rapid Test (Self-use) | Hangzhou Alltest Biotech Co. Ltd China | Antigen | Oral Fluid 
-
+| 17  | SALIXIUM COVID-19 Rapid Antigen Test | RESZON Diagnostics International Sdn. Bhd., Malaysia | Antigen | Saliva and Nasal
+| 18  | Genrui SARS-CoV-2 Antigen Test Kit | Genrui Biotech Inc., China | Antigen | Nasal
+| 19  | SARS-CoV-2 Antigen Rapid Test Kits for Self-Testing | Beijing Lepu Medical Technology Co., Ltd., China | Antigen | Nasal
+| 20  | SARS-CoV Ag Rapid Test Kit | Jiangsu Bioperfectus Technologies Co., Ltd., China | Antigen | Nasal
 ------------------------------------------------------------------------------
 
 ## Vaccinations
