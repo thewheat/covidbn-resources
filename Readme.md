@@ -146,6 +146,12 @@ List below based on last update on 18 October 2021
 
 * * * 
 
+**Announcment on 18th October 2021: Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years**  (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
+- The COVID-19 Vaccine Technical Committee at the Ministry of Health has approved the use of this vaccine for adolescents aged 12 to 17 years based on detailed research and evaluation, and considering the aspects of safety, efficacy and quality.
+- Supply will arrive in the country at a later date
+
+* * *
+
 **Commencing 10 October 2021 & 11 October 2021 updated operation hours of vaccination centres** [Source: MoH Press Release on10 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1061)
  - Commencing Sunday, 10 October 2021, all vaccination centres in the country will be closed at 6:00 pm; and
  - Commencing Monday, 11 October 2021, the Indoor Stadium Vaccination Centre will be open daily on a walk-in basis from 8:00 am to 6:00 pm for administration of first dose only, and is open to all citizens and residents of Brunei Darussalam holding yellow and purple smart cards only. However, the services on Sundays are still open to companies on a scheduled basis whether for locals or foreign workers.
