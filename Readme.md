@@ -43,6 +43,7 @@ Those living alone who require assistance may obtain advice and assistance from 
 - [Swab Locations](#swab-locations)
 - [Drive-Thru Swab Locations](#drive-thru-swab-locations)
 - [Essential Items for Isolation / Quarantine Centre](#essential-items-for-isolation--quarantine-centre)
+- [Home Isolation Policy](#home-isolation-policy)
 - [Digital Quarantine Order](#digital-quarantine-order)
     - [Primary & Secondary Contacts](#primary--secondary-contacts)
 - [Bruhealth Support Email Guideline / Information](#bruhealth-support-email-guideline--information)
@@ -293,6 +294,21 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
     - Services at the Centre are open to the public regardless of their BruHealth colour code. However, holders of the purple BruHealth code are advised to come between 5 pm and 7 pm only.
     - The service at this Swab Center **is not** for any individual who requires a swab test for outbound or pre-departure swab purposes. Swab tests for outbound or pre-departure swab purposes can be obtained at other swab centres as usual.
 
+
+------------------------------------------------------------------------------
+
+## Home Isolation Policy
+(Source: [MoH Press release 08 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1059), [MoH Press release 10 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1061), [GovBN Telegram Post on 10th October](https://t.me/govbnofficial/3335))
+    
+    
+- Commencing Friday, 8 October 2021, the Home Isolation Policy for COVID-19 patients is introduced
+- Patients who are identified as under Category 1, that is, patients which do not have any symptoms and Category 2a, that is, patients who have only mild symptoms; to undergo self-isolation at home only after obtaining assessment and confirmation from the Ministry of Health
+- Each COVID-19 patient managed under this policy will be required to undergo the following:
+   - Monitored by the Patient Management Team, Ministry of Health throughout the 14-day self-isolation;
+   - Mandatory to wear a red wristband for the purpose of identifying COVID-19 patients until the end of the isolation period; and
+   - Comply to all the directives from the Ministry of Health and ensure easy contact at any time. Patients who fail or defy in complying with this Home Isolation Policy may be subject to a compound fine of up to BND5,000, under the Infectious Diseases Act (Chapter 204).
+- Any patients who feel their symptoms worsen while in isolation at home should call the 991 Ambulance Emergency Line immediately so that they can be given treatment as soon as possible.
+- However, patients in Category 1 and Category 2a who are found to be more suitable to undergo treatment in isolation centres for certain reasons, they will be immediately transferred to those centres. This is to ensure they will be able to be given immediate treatment if their condition worsens. Therefore, anyone who is currently in isolation centres is advised to be patient and continue to be monitored at those centres. 
 
 ------------------------------------------------------------------------------
 
