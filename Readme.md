@@ -36,10 +36,10 @@ Those living alone who require assistance may obtain advice and assistance from 
 - [Official Links](#official-links)
 - [Help Line Contacts](#help-line-contacts)
 - [Contribute / Donate](#contribute--donate)
-- [Authorized Antigen Rapid Test (ART) Kits](#authorized-antigen-rapid-test-art-kits)
 - [Vaccinations](#vaccinations)
    - [Vaccination Notes](#vaccination-notes)
    - [Vaccination Side Effects](#vaccination-side-effects)
+- [Authorized Antigen Rapid Test (ART) Kits](#authorized-antigen-rapid-test-art-kits)
 - [Health Centres](#health-centres)
 - [Got Symptoms?](#got-symptoms)
 - [Swab Locations](#swab-locations)
@@ -110,43 +110,34 @@ Those living alone who require assistance may obtain advice and assistance from 
 
 ------------------------------------------------------------------------------
 
-## Authorized Antigen Rapid Test (ART) Kits
-
-[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2018102021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
-
-List below based on last update on 18 October 2021
-
-| No  | Name | Manufacturer | Detection | Sample Type |
-| --- | --- | --- | --- | --- |
-| 1   | Panbio COVID-19 Rapid Test Device (Nasopharyngeal) | bott Rapid Diagnostic. Jena GmBH, Jena, Germany | Antigen | Nasopharyngeal |
-| 2   | Panbio COVID-19 Rapid Test Device (Nasal) | Abbott Rapid Diagnostic. Jena GmBH, Jena, Germany | Antigen | Nasal |
-| 3   | Biocan Tellmefast Covid19 Antigen Test | Biocan Diagnostics Inc, Canada | Antigen | Saliva |
-| 4   | Innovita One Step Rapid Test - 2019-nCoV Ag Test (Latex Chromatography Assay) | Innovita (Tangshan) Biological Technology Co., Ltd | Antigen | Nasal |
-| 5   | QuickVue At-Home OTC COVID-19 Test | Quidel Corporation San Diego, USA | Antigen | Nasal |
-| 6   | Roche SARS-CoV-2 Antigen Self-Test Nasa | SD Biosensor (South Korea) Roche Diagnostic GmBH, Germany | Antigen | Nasal |
-| 7   | ARISTA COVID-19 Antigen Rapid Test | Arista Biotech Pte. Ltd. Singapore | Antigen | Nasal |
-| 8   | NEWGENE Bioengineering COVID19 Antigen Detection Kit | New Gene (Hangzhou) Bioengineering Co., Ltd. China | Antigen | Sputum / Nasopharyngeal |
-| 9   | ALLTEST Covid-19 Antigen Test Oral Fluid Self-Testing | ALLTEST (Hangzhou) Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
-| 10  | Medomics SARs-Cov2 Antigen Test Kit (LFIA) | Jiangsu Medomics Medical Technology Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
-| 11  | Orawell COVID-19 Ag Rapid Saliva Test Device | Jiangsu Well Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
-| 12  | Veri-Q COVID-19 Ag Rapid Test | MiCo BioMed Co. Ltd. Korea | Antigen | Nasopharyngeal / Nasal |
-| 13  | Flowflex SARS-CoV-2 Antigen Rapid Test | ACON Biotech (Hangzhou) Co. Ltd. China | Antigen | Nasal / Saliva |
-| 14  | Joysbio SARS-CoV-2  Antigen Rapid Test Kit (Professional use only) | Joysbio (Tianjian) Biotechnology Co. Ltd. China | Antigen | Saliva 
-| 15  | Wikang Medical SARS-CoV-2 Antigen Detection Kit (Self-testing use) | Xiamen Jiqing Biomedical Technology Co, Ltd. China | Antigen | Throat/Nasal 
-| 16  | Beright COVID-19  Antigen Rapid Test (Self-use) | Hangzhou Alltest Biotech Co. Ltd China | Antigen | Oral Fluid 
-| 17  | SALIXIUM COVID-19 Rapid Antigen Test | RESZON Diagnostics International Sdn. Bhd., Malaysia | Antigen | Saliva and Nasal
-| 18  | Genrui SARS-CoV-2 Antigen Test Kit | Genrui Biotech Inc., China | Antigen | Nasal
-| 19  | SARS-CoV-2 Antigen Rapid Test Kits for Self-Testing | Beijing Lepu Medical Technology Co., Ltd., China | Antigen | Nasal
-| 20  | SARS-CoV Ag Rapid Test Kit | Jiangsu Bioperfectus Technologies Co., Ltd., China | Antigen | Nasal
-------------------------------------------------------------------------------
-
 ## Vaccinations
 
-- To see updates on free slots check
+- To see updates on free slots check and location of Mobile COVID-19 Vaccination Clinic
    - [MoH Instagram account](https://www.instagram.com/mohbrunei/)
    - [GOV.BN Telegram account](https://t.me/govbnofficial)
+- AstraZeneca is the current default vaccine
+    - Sinopharm available on request (Source: [Borneo Bulletin](https://borneobulletin.com.bn/astrazeneca-to-be-default-vaccine-sinopharm-available-on-request/) / [The Scoop](https://thescoop.co/2021/09/18/astrazeneca-will-be-default-vaccine-from-now-on/))
+- Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
+
+* * *
+
+**Announcement on 28th October 2021: Shift of 2nd dose appointment dates** (Source: [MoH Press Release 28 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1081))
+
+- Appointment dates of second dose administration for adults will be shifted automatically in preparation for the implementation of the National Vaccination Programme for adolescents aged 12 to 17 years old
+- Some of the appointments will be brought forward while the rest will be slightly delayed
+
+* * *
+
+**Announcement on 27th October 2021: Consent Form for vaccination among adolescents aged 12 to 17 years old** (Source: [MoH Press Release 27 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1079))
+    
+- In preparation for the implementation of vaccination among adolescents aged 12 to 17 years old, consent form has begun to be distributed to parents and guardians through the Ministry of Education
+- Parents and guardians are requested to complete the form and to bring it along during the vaccination session for your children
+- It is hoped that this will contribute to a smooth administration of the COVID-19 vaccination when the programme commences in the near future. Mea
+- Meanwhile, for adolescents aged 12 to 17 years old who do not follow the official school system, a special vaccination session will be arranged at the end of the implementation of the vaccination programme for those aged 12 to 17 years old where the method of implementation will be announced at a later date.     
+
 
 * * * 
+
 **Commencing 26th October 2021: First Dose of Vaccination available as per walk-in basis** (Source: [GOVBN Telegram Post on 25th October 2021](https://t.me/govbnofficial/3539))
 - Available at all vaccination centers for all citizens and residents
 - Bring IC / Passport, Bru-HIMS card (if available)
@@ -164,19 +155,6 @@ Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + 
 Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
 Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
 
-
-* * * 
-
-**Announcment on 18th October 2021: Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years**  (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
-- The COVID-19 Vaccine Technical Committee at the Ministry of Health has approved the use of this vaccine for adolescents aged 12 to 17 years based on detailed research and evaluation, and considering the aspects of safety, efficacy and quality.
-- Supply will arrive in the country at a later date
-
-* * *
-
-**Commencing 10 October 2021 & 11 October 2021 updated operation hours of vaccination centres** ([Source: MoH Press Release on10 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1061))
- - Commencing Sunday, 10 October 2021, all vaccination centres in the country will be closed at 6:00 pm; and
- - Commencing Monday, 11 October 2021, the Indoor Stadium Vaccination Centre will be open daily on a walk-in basis from 8:00 am to 6:00 pm for administration of first dose only, and is open to all citizens and residents of Brunei Darussalam holding yellow and purple smart cards only. However, the services on Sundays are still open to companies on a scheduled basis whether for locals or foreign workers.
-    
 * * * 
 
 **Commencing Sunday, 3 October 2021, as announced in the press conference on 29 September 2021, the Ministry of Health has opened additional vaccination time every Sunday specifically for employees in local companies at the Indoor Stadium Vaccination Centre** ([Source: MoH 4th Oct 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1055)). 
@@ -190,40 +168,6 @@ Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30a
 - The booking terms and conditions will be uploaded on the Ministry of Health's website. 
 
 * * * 
-
-**Commencing Tuesday, 5 October 2021, the National Vaccination Programme will add-on 2,500 doses of COVID-19 vaccine injections per day** ([Source: MoH 2nd Oct 2021 press release via GovBN Telegram Post](https://t.me/govbnofficial/3237))
-- Open to all citizens and residents of Brunei Darussalam including the elderly, pregnant mothers and differently-abled persons; except those under the age of 18 years old
-- Priority are given to those who have difficulty in booking the first dose vaccination slots through the BruHealth app.
-- This service is only provided by **bookings which can be done via the WhatsApp app only to the numbers as listed below**
-   - Slots between 8:00 am until 12:00 noon: [7460025](https://api.whatsapp.com/send?phone=+673%207460025)
-   - Slots between 12:00 noon until 4:00 pm: [7460026](https://api.whatsapp.com/send?phone=+673%207460026)
-   - Slots between 4:00 pm until 8:00 pm: [7460027](https://api.whatsapp.com/send?phone=+673%207460027)
-- The booking time will commence on Monday, 4 October 2021 and the operation hours to receive bookings are on Monday to Thursday and Saturday, from 8:00 am to 12:00 noon only.
-- Successful bookings will receive an SMS (short messaging service) from the Ministry of Health within 24 hours from the day of booking.
-- The information required when making a slot booking are; Full name; Smart Card number; BruHIMS number (if available); and a mobile number for easy contact.
-- Any individual who does not possess BruHealth or BruHIMS at the time of booking, they will be arranged to get the vaccination at four vaccination centres as shown on the screen, where they will also be required to undergo an ART swab test before being vaccinated.
-- The operating hours for the additional vaccination slots service at all vaccination centres are as shown below.
-
-Vaccination Centres | Operating hours for the additional vaccination slots service | ART swab test (40 minutes before vaccination)
---------------------|--------------------------------------------------------------|----------------------------------------------
-Indoor Stadium Vaccination Centre|**Monday – Saturday**: 8:00 am until 8:00 pm<BR>**Sunday**: 8:00 am until 2:00 pm|**Yes** (ART swab test will be conducted to those who do not have BruHealth & BruHIMS)
-Jubli Emas Bunut Health Centre Vaccination Centre|**Monday - Thursday & Saturday**: 2:00 pm until 3:00 pm|**No** (therefore required to have BruHealth & BruHIMS if making a booking at this vaccination centre)
-Pengiran Anak Puteri Rashidah Sa’adatul Bolkiah Institute of Health Sciences, Universiti Brunei Darussalam Vaccination Centre|**Monday - Thursday & Saturday**: 8:00 am until 4:30 pm|**No** (therefore required to have BruHealth & BruHIMS if making a booking at this vaccination centre)
-Learning and Development Centre, Suri Seri Begawan Hospital Vaccination Centre|**Monday - Thursday & Saturday**: 8:00 am until 8:00 pm<BR>**Sunday**:8:00 am until 2:00 pm|**Yes** (ART swab test will be conducted to those who do not have BruHealth & BruHIMS)
-Belalong Community Hall, Temburong Vaccination Centre|**Monday - Thursday & Saturday**: 8:15 am until 11:30 am, 1:45 pm until 3:30 pm|**Yes** (ART swab test will be conducted to those who do not have BruHealth & BruHIMS)
-Seri Kenangan Hall, Pekan Tutong Vaccination Centre|**Monday - Thursday & Saturday**: 8:00 am until 6:00 pm|**Yes** (ART swab test will be conducted to those who do not have BruHealth & BruHIMS)
-
-
-* * * 
-
-- AstraZeneca is the current default vaccine, Sinopharm available on request (Source: [Borneo Bulletin](https://borneobulletin.com.bn/astrazeneca-to-be-default-vaccine-sinopharm-available-on-request/) / [The Scoop](https://thescoop.co/2021/09/18/astrazeneca-will-be-default-vaccine-from-now-on/))
-- Those unable to attend booking or have made other bookings are advised to cancel the booking to give the opportunity to others (Source: [GOV.BN Telegram Press Release on 2021-09-19](https://t.me/govbnofficial/3093))
-- Starting Thursday, 16th September 2021 vaccination for first dose resumes ([Source - MoH 15th Sept 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1029), [Source - Telegram post](https://t.me/govbnofficial/3059https://t.me/govbnofficial/3059))
-   - Vaccination appointment slots for those affected by the previously postponement from 1st September will be automatically shifted and they will be given priority in stages
-   - Due to limited vaccination slots, the public **may be given an appointment slot at different vaccination centres than the ones previously selected**
-   - Public is advised to **check the status of their vaccination appointment via the BruHealth app or short messaging services (SMS) from time to time** to ensure of the date of appointment slot and location of their vaccination centre.
-- Starting Friday, 24 September 2021, the Indoor Stadium Vaccination Centre will be open every Friday from 2:30 pm to 8:00 pmfor those **who have not received the first dose**. Anyone who does not yet have BruHealth or BruHIMS are advised to bring personal documents such as identity cards, passports or other official identification documents ([Source - MoH 23rd Sept 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1039))
-
 
 ### Vaccination Notes
 (Source: [BruHealth app -> COVID-19 Vaccination](https://www.healthinfo.gov.bn/))
@@ -263,6 +207,39 @@ Seri Kenangan Hall, Pekan Tutong Vaccination Centre|**Monday - Thursday & Saturd
 
 ------------------------------------------------------------------------------
 
+
+## Authorized Antigen Rapid Test (ART) Kits
+
+[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2018102021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+
+List below based on last update on 18 October 2021
+
+| No  | Name | Manufacturer | Detection | Sample Type |
+| --- | --- | --- | --- | --- |
+| 1   | Panbio COVID-19 Rapid Test Device (Nasopharyngeal) | bott Rapid Diagnostic. Jena GmBH, Jena, Germany | Antigen | Nasopharyngeal |
+| 2   | Panbio COVID-19 Rapid Test Device (Nasal) | Abbott Rapid Diagnostic. Jena GmBH, Jena, Germany | Antigen | Nasal |
+| 3   | Biocan Tellmefast Covid19 Antigen Test | Biocan Diagnostics Inc, Canada | Antigen | Saliva |
+| 4   | Innovita One Step Rapid Test - 2019-nCoV Ag Test (Latex Chromatography Assay) | Innovita (Tangshan) Biological Technology Co., Ltd | Antigen | Nasal |
+| 5   | QuickVue At-Home OTC COVID-19 Test | Quidel Corporation San Diego, USA | Antigen | Nasal |
+| 6   | Roche SARS-CoV-2 Antigen Self-Test Nasa | SD Biosensor (South Korea) Roche Diagnostic GmBH, Germany | Antigen | Nasal |
+| 7   | ARISTA COVID-19 Antigen Rapid Test | Arista Biotech Pte. Ltd. Singapore | Antigen | Nasal |
+| 8   | NEWGENE Bioengineering COVID19 Antigen Detection Kit | New Gene (Hangzhou) Bioengineering Co., Ltd. China | Antigen | Sputum / Nasopharyngeal |
+| 9   | ALLTEST Covid-19 Antigen Test Oral Fluid Self-Testing | ALLTEST (Hangzhou) Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
+| 10  | Medomics SARs-Cov2 Antigen Test Kit (LFIA) | Jiangsu Medomics Medical Technology Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
+| 11  | Orawell COVID-19 Ag Rapid Saliva Test Device | Jiangsu Well Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
+| 12  | Veri-Q COVID-19 Ag Rapid Test | MiCo BioMed Co. Ltd. Korea | Antigen | Nasopharyngeal / Nasal |
+| 13  | Flowflex SARS-CoV-2 Antigen Rapid Test | ACON Biotech (Hangzhou) Co. Ltd. China | Antigen | Nasal / Saliva |
+| 14  | Joysbio SARS-CoV-2  Antigen Rapid Test Kit (Professional use only) | Joysbio (Tianjian) Biotechnology Co. Ltd. China | Antigen | Saliva 
+| 15  | Wikang Medical SARS-CoV-2 Antigen Detection Kit (Self-testing use) | Xiamen Jiqing Biomedical Technology Co, Ltd. China | Antigen | Throat/Nasal 
+| 16  | Beright COVID-19  Antigen Rapid Test (Self-use) | Hangzhou Alltest Biotech Co. Ltd China | Antigen | Oral Fluid 
+| 17  | SALIXIUM COVID-19 Rapid Antigen Test | RESZON Diagnostics International Sdn. Bhd., Malaysia | Antigen | Saliva and Nasal
+| 18  | Genrui SARS-CoV-2 Antigen Test Kit | Genrui Biotech Inc., China | Antigen | Nasal
+| 19  | SARS-CoV-2 Antigen Rapid Test Kits for Self-Testing | Beijing Lepu Medical Technology Co., Ltd., China | Antigen | Nasal
+| 20  | SARS-CoV Ag Rapid Test Kit | Jiangsu Bioperfectus Technologies Co., Ltd., China | Antigen | Nasal
+
+------------------------------------------------------------------------------
+
+    
 ## Health Centres
 
 (Source: [BruHealth app -> Epidemic Map -> Medical Resources](https://www.healthinfo.gov.bn/))
