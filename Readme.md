@@ -210,32 +210,42 @@ Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30a
 
 ## Authorized Antigen Rapid Test (ART) Kits
 
-[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2018102021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2001112021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
 
-List below based on last update on 18 October 2021
+List below based on last update on 1st November 2021
 
 | No  | Name | Manufacturer | Detection | Sample Type |
 | --- | --- | --- | --- | --- |
-| 1   | Panbio COVID-19 Rapid Test Device (Nasopharyngeal) | bott Rapid Diagnostic. Jena GmBH, Jena, Germany | Antigen | Nasopharyngeal |
-| 2   | Panbio COVID-19 Rapid Test Device (Nasal) | Abbott Rapid Diagnostic. Jena GmBH, Jena, Germany | Antigen | Nasal |
-| 3   | Biocan Tellmefast Covid19 Antigen Test | Biocan Diagnostics Inc, Canada | Antigen | Saliva |
-| 4   | Innovita One Step Rapid Test - 2019-nCoV Ag Test (Latex Chromatography Assay) | Innovita (Tangshan) Biological Technology Co., Ltd | Antigen | Nasal |
+| 1   | Panbio COVID-19 Rapid Test Device (Nasopharyngeal) | Abott Rapid Diagnostic Jena GmBH, Jena, Germany | Antigen | Nasopharyngeal |
+| 2   | Panbio COVID-19 Rapid Test Device (Nasal) | Abbott Rapid Diagnostic Jena GmBH, Jena, Germany | Antigen | Nasal |
+| 3   | Biocan Tellmefast Covid-19 Antigen Test | Biocan Diagnostics Inc, Canada | Antigen | Saliva |
+| 4   | Innovita One Step Rapid Test (2019-nCoV Ag) | Innovita (Tangshan) Biological Technology Co., Ltd, Qian’an, Hebei, China | Antigen | Anterior Nasal / Saliva / Nasopharyngeal  |
 | 5   | QuickVue At-Home OTC COVID-19 Test | Quidel Corporation San Diego, USA | Antigen | Nasal |
-| 6   | Roche SARS-CoV-2 Antigen Self-Test Nasa | SD Biosensor (South Korea) Roche Diagnostic GmBH, Germany | Antigen | Nasal |
+| 6   | Roche SARS-CoV-2 Antigen Self-Test Nasal | SD Biosensor (South Korea) Roche Diagnostic GmBH, Germany | Antigen | Nasal |
 | 7   | ARISTA COVID-19 Antigen Rapid Test | Arista Biotech Pte. Ltd. Singapore | Antigen | Nasal |
-| 8   | NEWGENE Bioengineering COVID19 Antigen Detection Kit | New Gene (Hangzhou) Bioengineering Co., Ltd. China | Antigen | Sputum / Nasopharyngeal |
+| 8   | NEWGENE Bioengineering COVID19 Antigen Detection Kit | New Gene (Hangzhou) Bioengineering Co., Ltd. China | Antigen | Sputum / Nasopharyngeal / Nasal |
 | 9   | ALLTEST Covid-19 Antigen Test Oral Fluid Self-Testing | ALLTEST (Hangzhou) Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
 | 10  | Medomics SARs-Cov2 Antigen Test Kit (LFIA) | Jiangsu Medomics Medical Technology Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
 | 11  | Orawell COVID-19 Ag Rapid Saliva Test Device | Jiangsu Well Biotech Co. Ltd. China | Antigen | Saliva (Oral Fluid) |
-| 12  | Veri-Q COVID-19 Ag Rapid Test | MiCo BioMed Co. Ltd. Korea | Antigen | Nasopharyngeal / Nasal |
+| 12  | Veri-Q COVID-19 Ag Rapid Test | MiCo BioMed Co. Ltd. Korea | Antigen | Nasopharyngeal |
 | 13  | Flowflex SARS-CoV-2 Antigen Rapid Test | ACON Biotech (Hangzhou) Co. Ltd. China | Antigen | Nasal / Saliva |
-| 14  | Joysbio SARS-CoV-2  Antigen Rapid Test Kit (Professional use only) | Joysbio (Tianjian) Biotechnology Co. Ltd. China | Antigen | Saliva 
-| 15  | Wikang Medical SARS-CoV-2 Antigen Detection Kit (Self-testing use) | Xiamen Jiqing Biomedical Technology Co, Ltd. China | Antigen | Throat/Nasal 
+| 14  | Joysbio SARS-CoV-2  Antigen Rapid Test Kit (Professional use) | Joysbio (Tianjian) Biotechnology Co. Ltd. China | Antigen | Saliva / Nasal
+| 15  | Wikang Medical SARS-CoV-2 Antigen Detection Kit (Self-use) | Xiamen Jiqing, Biomedical Technology Co. Ltd. China | Antigen | Saliva / Throat / Nasal 
 | 16  | Beright COVID-19  Antigen Rapid Test (Self-use) | Hangzhou Alltest Biotech Co. Ltd China | Antigen | Oral Fluid 
 | 17  | SALIXIUM COVID-19 Rapid Antigen Test | RESZON Diagnostics International Sdn. Bhd., Malaysia | Antigen | Saliva and Nasal
 | 18  | Genrui SARS-CoV-2 Antigen Test Kit | Genrui Biotech Inc., China | Antigen | Nasal
 | 19  | SARS-CoV-2 Antigen Rapid Test Kits for Self-Testing | Beijing Lepu Medical Technology Co., Ltd., China | Antigen | Nasal
 | 20  | SARS-CoV Ag Rapid Test Kit | Jiangsu Bioperfectus Technologies Co., Ltd., China | Antigen | Nasal
+| 21  | SG Diagnostics COVID-19 Antigen Rapid Test Kit | SG Diagnostic Pte. Ltd., Singapore | Antigen | Nasal/Throat
+| 22  | JusChek COVID-19 Antigen Rapid Test | Hangzhou AllTest Biotech Co., Ltd., China | Antigen | Oral Fluid
+| 23  | Ninonasal NG-Test® SARS-CoV-2 Antigen Test Kit (Nasal) | NG Biotech, France | Antigen | Nasal 
+| 24  | LYHER Novel Coronavirus (COVID-19) Antigen Test Kit | Hangzou Laihe Biotech Co Ltd | Antigen | Saliva
+| 25  | Clinitest Rapid Covid-19 Antigen Test | Healgen Scientific Limited Liability Company, USA | Antigen | Nasopharyngeal / Nasal
+| 26  | INDICAID® COVID-19  Rapid Antigen Test | Phase Scientific International Ltd., Hong Kong | Antigen | Nasal
+| 27  | Rapid Response COVID-19 Antigen Rapid Test Device | BTNX Inc., Canada  | Antigen | Nasal / Nasopharyngeal
+| 28  | HOTGEN Coronavirus (2019-nCoV)-Antigen Test | Beijing Hotgen Biotech Co., Ltd., China | Antigen | Nasal
+| 29  | HIGIA SARS-CoV-2 Antigen Rapid Test Kit | Xiamen Higia Medical Technology Co., Ltd., China | Antigen | Saliva
+| 30  | iHealth Novel Corona Virus (SARS-CoV-2) | Symbion Asia Sdn Bhd. Malaysia | Antigen | Saliva
 
 ------------------------------------------------------------------------------
 
