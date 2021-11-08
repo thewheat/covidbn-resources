@@ -118,8 +118,37 @@ Those living alone who require assistance may obtain advice and assistance from 
 - AstraZeneca is the current default vaccine
     - Sinopharm available on request (Source: [Borneo Bulletin](https://borneobulletin.com.bn/astrazeneca-to-be-default-vaccine-sinopharm-available-on-request/) / [The Scoop](https://thescoop.co/2021/09/18/astrazeneca-will-be-default-vaccine-from-now-on/))
 - Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
+- Those who have not been vaccinated with the COVID-19 vaccine due to the unavailability of the BruHealth application, these individuals are advised to immediately proceed to get the COVID-19 vaccine injection at vaccination centres via walk-in.  However, they are required to return to their respective homes as soon as they have been vaccinated. The vaccination card can be shown to enforcement officers as vaccination verification, if required. (Source: [MoH Press Release 4th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1088))
+ 
+* * *
+
+**Commencing 8th November 2021: National Vaccination Programme for adolescents aged 12 to 17 years old** (Source: [MoH Press Release 5th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1089))
+
+- [Ministry of Education Media Statement on 4th November](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=861)
+- Vaccination Schedule:
+   - [Vaccination Schedule from Ministry of Education on 6th November 2021](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=864)
+   - [Vaccination Schedule from GOV.BN Telegram Post on 6th November 2021](https://t.me/govbnofficial/3693)
+- All adolescents that will be coming to receive the COVID-19 vaccine at the vaccination centres are required to:
+   - scan the BruHealth QR code during the registration process by teachers before entering the vaccination centre;
+   - bring their smart card and BruHims card (if available);
+   - bring the completed consent form, health screening form and flu desk screening question form;
+   - wear face mask at all time;
+   - practice physical distancing;
+   - bring umbrella and enough drinking water; and
+   - comply with all the instructions given by personnel at the vaccination centre.
+- In addition, all adolescents are also required to declare to health personnel at vaccination centres that:
+   - their BruHealth code is either green or yellow;
+   - they do not have flu-like symptoms;
+   - they are not issued with Quarantine Order or Self-Isolation Notice. For those who have recently recovered from COVID-19, they are to ensure that the date of their vaccination is not less than four weeks from the date they have been confirmed recovered.
+
+
+**Members of Public waiting to get 2nd dose but affected due to the Vaccination Programme for Adolescents aged 12-17 years old**
+- They are welcome to go via walk-in to the at Belalong Community Hall Vaccination Centre, Temburong starting from Wednesday, 10 November 2021, provided that the interval time between the first and second dose has reached the set period
+- The set period for the Moderna vaccine is 4 weeks, while for the Astra Zeneca vaccine is at least 6 weeks
+- The operation hours at the Belalong Community Hall Vaccination Centre, Temburong is from 8:15 am until 11:30 am and from 1:45 pm until 3:30 pm, every Monday to Thursday and every Saturday. 
 
 * * *
+
 
 **Announcement on 28th October 2021: Shift of 2nd dose appointment dates** (Source: [MoH Press Release 28 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1081))
 
@@ -127,16 +156,6 @@ Those living alone who require assistance may obtain advice and assistance from 
 - Some of the appointments will be brought forward while the rest will be slightly delayed
 
 * * *
-
-**Announcement on 27th October 2021: Consent Form for vaccination among adolescents aged 12 to 17 years old** (Source: [MoH Press Release 27 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1079))
-    
-- In preparation for the implementation of vaccination among adolescents aged 12 to 17 years old, consent form has begun to be distributed to parents and guardians through the Ministry of Education
-- Parents and guardians are requested to complete the form and to bring it along during the vaccination session for your children
-- It is hoped that this will contribute to a smooth administration of the COVID-19 vaccination when the programme commences in the near future. Mea
-- Meanwhile, for adolescents aged 12 to 17 years old who do not follow the official school system, a special vaccination session will be arranged at the end of the implementation of the vaccination programme for those aged 12 to 17 years old where the method of implementation will be announced at a later date.     
-
-
-* * * 
 
 **Commencing 26th October 2021: First Dose of Vaccination available as per walk-in basis** (Source: [GOVBN Telegram Post on 25th October 2021](https://t.me/govbnofficial/3539))
 - Available at all vaccination centers for all citizens and residents
