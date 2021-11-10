@@ -6,14 +6,50 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * * 
 
-## Operasi Pulih
+## Transition Phase
+([Source: GovBN Telegram Post on 9th November 2021](https://t.me/govbnofficial/3751))
 
+-  The Transition Phase will commence as soon as we reach full vaccination coverage of 70% of the population of Brunei Darussalam, that is, on Friday, 19th November 2021, for the following matters
+- The opening of Government offices for officers and staff who have completed their vaccinations – with office hours set at 8.00 a.m. to 2.00 p.m. and with Antigen Rapid Tests (ART) at intervals – every 2 weeks;
+- The opening of mosques, suraus and prayer halls nationwide, to individuals that have completed their vaccinations, and with attendance limits to be determined by suitable numbers based on physical distancing;
+- Mass gathering at public places including sport facilities, and the reopening of commercial premises such as restaurants, cafes, foodcourts, cinemas, arcades, indoor playgrounds, beauty premises (such as salons and barber shops), markets and “tamus” during the Transition Phase will be permitted for individuals that have completed their vaccinations, and will be limited to 50% venue capacity or not more than 200 persons (whichever is the lesser number), and this limit also applies to places of worship for other religions. The respective managements are also required to ensure that their employees are fully vaccinated, as follows:
+
+   - Updating the list of workers in the BruHealth application and ensuring that their workers have completed their vaccinations;
+   - Premises are required to register their respective QR codes in the BruHealth application and their respective capacities - premises are not allowed to accept customers beyond 50% of their capacity;
+   - The owners of premises must ensure that all individuals who enter their premises scan their BruHealth application upon entering (including all staff/personnel/volunteers);
+   - The owners of premises are to ensure that only individuals with green and yellow BruHealth codes are allowed to enter;
+   - The owners of premises need to ensure that all workers/staff/volunteers that are eligible to be vaccinated have been fully vaccinated;
+   - The use of facemasks (except when eating or drinking), physical distancing of at least 1.5 metres, self-health monitoring and occasional ART testing, as well as ensuring that premises have adequate ventilation.
+
+- Gatherings at private homes during this phase are permitted for individuals who have completed their vaccinations, and are limited to 10 to 30 persons only (depending on the size of the home);
+- The reopening of some of the schools for individuals that have completed their vaccinations, and conducting of Antigen Rapid Tests (ART) at regular intervals –
+every 2 weeks, for:
+   1. Higher education institutions;
+   2. Technical and vocational schools; and
+   3. Driving schools;
+- Individuals who are medically exempted from receiving vaccinations are not permitted to enter the aforementioned premises.
+- The mandatory vaccination requirement is extended to the teaching workforce, non-teaching school staff, staff and guardians at schools and children’s daycare centres, trainers and so on. However, those with health conditions such as allergies will be exempted from this requirement, that is, based on the health certification provided.
+- Meanwhile, planning and preparations for the reopening of schools are still under way, considering that fact the National Vaccination Programme is still being carried out for individuals aged from 12 to 17 years and children below 12 years of age have yet to be vaccinated. Procedures for the reopening of schools, and that children’s daycare centres and other learning institutions will be announced at a later date, that is, as soon as the COVID-19 Steering Committee has completed its review of the plans; and
+- Every business premise that is allowed to open during the Transition Phase is required to abide by all guidelines and SOPs that have been introduced.
+
+### Interim Period Before the Transition Phase
+
+- While awaiting the start of the Transition Phase on 19th November 2021, “Operasi Pulih” will be extended by another four (4) days from Monday, 15th November 2021 till Thursday, 18th November 2021, and involves the directive to stay at home from 8.00 p.m. to 4.00 a.m.
+- Once we enter the Transition Phase, “Operasi Pulih” will then be known as “Operasi Peralihan”
+- Stay-at-home period will be shortened to 10.00 p.m. to 4.00 a.m
+- This takes into account the prospect that the reopening of premises in the Transition Phase would help spur the economy and improve the well-being of all, alongside efforts to ensure that the COVID-19 situation continues to become increasingly stable.
+- As a safety precaution, the plan for the reopening of premises also warrants the need to ensure that all SOPs continue to be in place, such as physical distancing, venue capacity limits, the wearing of facemasks, maintaining cleanliness, and BruHealth mobile application use. Meanwhile the use of ART prior to entering premises is encouraged. Aside from these the Government will continue to formulate contingency plans in case of any unwanted eventualities in the future.
+- Individuals who are able to receive the second dose are advised to do so as soon as possible so as to help the country quickly reach the target of 70% of the population who have completed two doses of the vaccination. As a subsequent preparation for the implementation of the Endemic Phase, that is, when the COVID-19 full vaccination target reaches 80%, the Steering Committee is currently looking into the proposal to impose a fee for the ART test for individuals that have not completed their vaccinations but who intend to enter government or business premises in the country.
+
+* * *
+
+## Operasi Pulih
 
 ([Source: GovBN Telegram Post on 26th October 2021](https://t.me/govbnofficial/3543) - extension 2)
 ([Source: GovBN Telegram Post on 13th October 2021](https://t.me/govbnofficial/3374) - extension)
 ([Source: GovBN Telegram Post on 2nd October 2021](https://t.me/govbnofficial/3233))
 
-### Starting Monday 4th October 2021 to Sunday 14th November
+### Starting Monday 4th October 2021 to Thursday 14th November
 
 1.  Enforcement agencies will step up surveillance and enforcement activities to ensure that the public will continue to comply with the restrictions issued by the Ministry of Health.
 2.  **The public are advised and required to remain at their respective residences from 8.00 p.m. to 4.00 a.m daily**. This is to restrict movement and reduce the risk of transmission of COVID-19. Exceptions are only granted for emergencies, urgent matters and critical frontline workers only.
