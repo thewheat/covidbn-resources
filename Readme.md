@@ -176,12 +176,20 @@ Those living alone who require assistance may obtain advice and assistance from 
    - their BruHealth code is either green or yellow;
    - they do not have flu-like symptoms;
    - they are not issued with Quarantine Order or Self-Isolation Notice. For those who have recently recovered from COVID-19, they are to ensure that the date of their vaccination is not less than four weeks from the date they have been confirmed recovered.
+- ([From MoH Press Release 10 November 2021](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1094))
+   - For adolescents aged between 12-17 years who are no longer in schools under the administration of the Ministry of Education, they can book for their vaccination via the BruHealth application commencing 19 November 2021 or attend via walk-in to the Indoor Stadium Vaccination Centre commencing 20 November 2021. Both the BruHealth booking and walk-in basis will also be opened for adolescents who were unable to attend to the vaccination centres during the implementation of the vaccination programme from 8 to 19 November 2021 due to reasons such as undergoing self-isolation or quarantine order. 
+   - Students with special needs, will have appointments arranged at several vaccination centres where they will be given a priority in the form of a special lane (thanks to the collaboration of the Ministry of Health and the Ministry of Education). Whereas for students who are suffering from serious illness and are unable to attend to the vaccination centre, the Ministry of Health will arrange for vaccination service to be carried out at a special time and place; or at their respective homes on a suitable date that will be announced later. 
 
 
 **Members of Public waiting to get 2nd dose but affected due to the Vaccination Programme for Adolescents aged 12-17 years old**
-- They are welcome to go via walk-in to the at Belalong Community Hall Vaccination Centre, Temburong starting from Wednesday, 10 November 2021, provided that the interval time between the first and second dose has reached the set period
+- They are welcome to go via walk-in provided that the interval time between the first and second dose has reached the set period
 - The set period for the Moderna vaccine is 4 weeks, while for the Astra Zeneca vaccine is at least 6 weeks
-- The operation hours at the Belalong Community Hall Vaccination Centre, Temburong is from 8:15 am until 11:30 am and from 1:45 pm until 3:30 pm, every Monday to Thursday and every Saturday. 
+- From [MoH Press Release on 9th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1093) They are welcome to go via walk-in starting today to the following vaccination centres:
+   - **Indoor Stadium Vaccination Centre**, from 5 pm to 10 pm, every Monday to Thursday, and Sunday. In addition to that, from 8 am to 12 pm and 2pm to 10 pm on Friday, 12 November 2021; and from 8 am to 10 pm on Saturday, 13 November 2021.
+   - **Belalong Community Hall Vaccination Centre, Temburong**, from 8:15 am to 11:30 am and 1:45 pm to 3:30 pm, every Monday to Thursday and every Saturday.
+   - **Sungai Liang Health Centre**, from 1:45 pm to 4 pm every Monday to Thursday and every Saturday.
+   - **Lamunin Health Centre**, from 1:45 pm to 4 pm every Monday to Thursday and every Saturday.
+
 
 * * *
 
