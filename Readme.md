@@ -6,10 +6,23 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * * 
 
-## Transition Phase
+## Transition Phase - Operasi Peralihan
+([Source: MoH Press Release on 18th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1103))
 ([Source: GovBN Telegram Post on 9th November 2021](https://t.me/govbnofficial/3751))
 
--  The Transition Phase will commence as soon as we reach full vaccination coverage of 70% of the population of Brunei Darussalam, that is, on Friday, 19th November 2021, for the following matters
+- The Transition Phase commences on Friday, 19th November 2021, for the following matters
+- In the current Transition Phase, “Operasi Pulih” will then be known as “Operasi Peralihan”
+- Stay-at-home period will be shortened to 10.00 p.m. to 4.00 a.m
+- As a safety precaution, the plan for the reopening of premises also warrants the need to ensure that all SOPs continue to be in place, such as physical distancing, venue capacity limits, the wearing of facemasks, maintaining cleanliness, and BruHealth mobile application use. Meanwhile the use of ART prior to entering premises is encouraged. Aside from these the Government will continue to formulate contingency plans in case of any unwanted eventualities in the future.
+- During the Transition Phase, security and enforcement agencies will continue to monitor any incidents of violation of the directives or the Standard Operating Procedures – SOPs; to ensure the safety and the well-being of the public. In addition, members of the public can contact the National Coordination Centre for COVID-19, which operates 24 hours a day, for any complaints of violations of the guidelines. The hotline numbers that can be contacted are:
+    - ☎️ [8176148](tel:8176148)
+    - ☎️ [8175148](tel:8175148)
+    - ☎️ [8166148](tel:8166148)
+    - ☎️ [8155148](tel:8155148)
+
+
+### Details of Transition Phase
+
 - The opening of Government offices for officers and staff who have completed their vaccinations – with office hours set at 8.00 a.m. to 2.00 p.m. and with Antigen Rapid Tests (ART) at intervals – every 2 weeks;
 - The opening of mosques, suraus and prayer halls nationwide, to individuals that have completed their vaccinations, and with attendance limits to be determined by suitable numbers based on physical distancing;
 - Mass gathering at public places including sport facilities, and the reopening of commercial premises such as restaurants, cafes, foodcourts, cinemas, arcades, indoor playgrounds, beauty premises (such as salons and barber shops), markets and “tamus” during the Transition Phase will be permitted for individuals that have completed their vaccinations, and will be limited to 50% venue capacity or not more than 200 persons (whichever is the lesser number), and this limit also applies to places of worship for other religions. The respective managements are also required to ensure that their employees are fully vaccinated, as follows:
@@ -32,39 +45,8 @@ every 2 weeks, for:
 - Meanwhile, planning and preparations for the reopening of schools are still under way, considering that fact the National Vaccination Programme is still being carried out for individuals aged from 12 to 17 years and children below 12 years of age have yet to be vaccinated. Procedures for the reopening of schools, and that children’s daycare centres and other learning institutions will be announced at a later date, that is, as soon as the COVID-19 Steering Committee has completed its review of the plans; and
 - Every business premise that is allowed to open during the Transition Phase is required to abide by all guidelines and SOPs that have been introduced.
 
-### Interim Period Before the Transition Phase
-
-- While awaiting the start of the Transition Phase on 19th November 2021, “Operasi Pulih” will be extended by another four (4) days from Monday, 15th November 2021 till Thursday, 18th November 2021, and involves the directive to stay at home from 8.00 p.m. to 4.00 a.m.
-- Once we enter the Transition Phase, “Operasi Pulih” will then be known as “Operasi Peralihan”
-- Stay-at-home period will be shortened to 10.00 p.m. to 4.00 a.m
-- This takes into account the prospect that the reopening of premises in the Transition Phase would help spur the economy and improve the well-being of all, alongside efforts to ensure that the COVID-19 situation continues to become increasingly stable.
-- As a safety precaution, the plan for the reopening of premises also warrants the need to ensure that all SOPs continue to be in place, such as physical distancing, venue capacity limits, the wearing of facemasks, maintaining cleanliness, and BruHealth mobile application use. Meanwhile the use of ART prior to entering premises is encouraged. Aside from these the Government will continue to formulate contingency plans in case of any unwanted eventualities in the future.
-- Individuals who are able to receive the second dose are advised to do so as soon as possible so as to help the country quickly reach the target of 70% of the population who have completed two doses of the vaccination. As a subsequent preparation for the implementation of the Endemic Phase, that is, when the COVID-19 full vaccination target reaches 80%, the Steering Committee is currently looking into the proposal to impose a fee for the ART test for individuals that have not completed their vaccinations but who intend to enter government or business premises in the country.
 
 * * *
-
-## Operasi Pulih
-
-([Source: GovBN Telegram Post on 26th October 2021](https://t.me/govbnofficial/3543) - extension 2)
-([Source: GovBN Telegram Post on 13th October 2021](https://t.me/govbnofficial/3374) - extension)
-([Source: GovBN Telegram Post on 2nd October 2021](https://t.me/govbnofficial/3233))
-
-### Starting Monday 4th October 2021 to Thursday 14th November
-
-1.  Enforcement agencies will step up surveillance and enforcement activities to ensure that the public will continue to comply with the restrictions issued by the Ministry of Health.
-2.  **The public are advised and required to remain at their respective residences from 8.00 p.m. to 4.00 a.m daily**. This is to restrict movement and reduce the risk of transmission of COVID-19. Exceptions are only granted for emergencies, urgent matters and critical frontline workers only.
-3.  In addition to ongoing efforts, Penghulu and Village Heads are expected to jointly monitor local residents to ensure their compliance with orders to control the spread of COVID-19 as well as to practise social distancing and not to hold any social gatherings.
-4. The hotline at the National Coordination Centre for COVID-19 (N3C) will operate 24 hours daily for the public to report incidents or violations of any regulations or Standard Operating Procedures (SOPs) to the authorities. The hotline numbers are as follows:
-    - ☎️ [8176148](tel:8176148)
-    - ☎️ [8175148](tel:8175148)
-    - ☎️ [8166148](tel:8166148)
-    - ☎️ [8155148](tel:8155148)
-
-It is the responsibility of every employer, whether company or private employer, to ensure that employees adhere to the rules and regulations in dealing with and curbing the spread of the COVID-19 pandemic which still has yet to stabilise in the country.
-
-Those living alone who require assistance may obtain advice and assistance from their respective Village Heads or by contacting the above - mentioned National Coordinating Centre for COVID-19 hotline or Talian Kebajikan 141.
-
-* * * 
 
 
 **Table of Contents**
