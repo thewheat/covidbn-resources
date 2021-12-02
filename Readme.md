@@ -58,7 +58,7 @@ every 2 weeks, for:
    - [Vaccination Notes](#vaccination-notes)
    - [Vaccination Side Effects](#vaccination-side-effects)
 - [Authorized Antigen Rapid Test (ART) Kits](#authorized-antigen-rapid-test-art-kits)
-- [Authorized Antigen Rapid Test (ART) Certification Centres](#authorized-antigen-rapid-test-art--certification-centres)
+- [Authorized Antigen Rapid Test (ART) Certification Centres](#authorized-antigen-rapid-test-art-certification-centres)
 - [Health Centres](#health-centres)
 - [Got Symptoms?](#got-symptoms)
 - [Swab Locations](#swab-locations)
@@ -276,6 +276,8 @@ List below based on last update on 1st November 2021
 
 ## Authorized Antigen Rapid Test (ART) Certification Centres
     
+(Souce: [MoH Press Release on 22nd November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1116))
+
 - The Ministry of Health has appointed several companies to open ART Certification Centres to conduct ART testing for any individual who requires certified ART test results. 
 - Commences on Wednesday, 1 December 2021
 - To enter premises in Brunei Darussalam, the validity period for the ART test result is two (02) days, i.e. as will be displayed on the issued certificate. However, for the purpose of entry into foreign countries, the validity period of the certificate is subject to the conditions of entry into that country.   
