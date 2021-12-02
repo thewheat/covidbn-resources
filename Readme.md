@@ -163,34 +163,14 @@ every 2 weeks, for:
    - Students with special needs, will have appointments arranged at several vaccination centres where they will be given a priority in the form of a special lane (thanks to the collaboration of the Ministry of Health and the Ministry of Education). Whereas for students who are suffering from serious illness and are unable to attend to the vaccination centre, the Ministry of Health will arrange for vaccination service to be carried out at a special time and place; or at their respective homes on a suitable date that will be announced later. 
 
 
-**Members of Public waiting to get 2nd dose but affected due to the Vaccination Programme for Adolescents aged 12-17 years old**
-- They are welcome to go via walk-in provided that the interval time between the first and second dose has reached the set period
-- The set period for the Moderna vaccine is 4 weeks, while for the Astra Zeneca vaccine is at least 6 weeks
-- From [MoH Press Release on 9th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1093) They are welcome to go via walk-in starting today to the following vaccination centres:
-   - **Indoor Stadium Vaccination Centre**, from 5 pm to 10 pm, every Monday to Thursday, and Sunday. In addition to that, from 8 am to 12 pm and 2pm to 10 pm on Friday, 12 November 2021; and from 8 am to 10 pm on Saturday, 13 November 2021.
-   - **Belalong Community Hall Vaccination Centre, Temburong**, from 8:15 am to 11:30 am and 1:45 pm to 3:30 pm, every Monday to Thursday and every Saturday.
-   - **Sungai Liang Health Centre**, from 1:45 pm to 4 pm every Monday to Thursday and every Saturday.
-   - **Lamunin Health Centre**, from 1:45 pm to 4 pm every Monday to Thursday and every Saturday.
-
-
-* * *
-
-
-**Announcement on 28th October 2021: Shift of 2nd dose appointment dates** (Source: [MoH Press Release 28 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1081))
-
-- Appointment dates of second dose administration for adults will be shifted automatically in preparation for the implementation of the National Vaccination Programme for adolescents aged 12 to 17 years old
-- Some of the appointments will be brought forward while the rest will be slightly delayed
-
-* * *
-
-**Commencing 26th October 2021: First Dose of Vaccination available as per walk-in basis** (Source: [GOVBN Telegram Post on 25th October 2021](https://t.me/govbnofficial/3539))
-- Available at all vaccination centers for all citizens and residents
-- Bring IC / Passport, Bru-HIMS card (if available)
-
 * * *
 
 **Announced 26th October 2021: Operating Hours of Vaccination Centers** (Source: [GOVBN Telegram Post on 25th October 2021](https://t.me/govbnofficial/3551))
 
+
+Commencing 22 November 2021 the Indoor Stadium Vaccination Centre will be opened to the public for first and second doses, either via BruHealth booking or via walk-in. (Source: [MoH Press Release on 21st November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1106))
+
+           
 Vaccination Centres | Operating hours
 --------------------|----------------
 Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 5:00pm<BR>Friday: 2:00pm - 5:00pm<BR>Public Holidays: Closed
