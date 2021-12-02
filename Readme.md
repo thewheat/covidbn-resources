@@ -58,6 +58,7 @@ every 2 weeks, for:
    - [Vaccination Notes](#vaccination-notes)
    - [Vaccination Side Effects](#vaccination-side-effects)
 - [Authorized Antigen Rapid Test (ART) Kits](#authorized-antigen-rapid-test-art-kits)
+- [Authorized Antigen Rapid Test (ART) Certification Centres](#authorized-antigen-rapid-test-art--certification-centres)
 - [Health Centres](#health-centres)
 - [Got Symptoms?](#got-symptoms)
 - [Swab Locations](#swab-locations)
@@ -232,7 +233,6 @@ Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30a
 
 ------------------------------------------------------------------------------
 
-
 ## Authorized Antigen Rapid Test (ART) Kits
 
 [Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2001112021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
@@ -271,6 +271,30 @@ List below based on last update on 1st November 2021
 | 28  | HOTGEN Coronavirus (2019-nCoV)-Antigen Test | Beijing Hotgen Biotech Co., Ltd., China | Antigen | Nasal
 | 29  | HIGIA SARS-CoV-2 Antigen Rapid Test Kit | Xiamen Higia Medical Technology Co., Ltd., China | Antigen | Saliva
 | 30  | iHealth Novel Corona Virus (SARS-CoV-2) | Symbion Asia Sdn Bhd. Malaysia | Antigen | Saliva
+
+------------------------------------------------------------------------------
+
+## Authorized Antigen Rapid Test (ART) Certification Centres
+    
+- The Ministry of Health has appointed several companies to open ART Certification Centres to conduct ART testing for any individual who requires certified ART test results. 
+- Commences on Wednesday, 1 December 2021
+- To enter premises in Brunei Darussalam, the validity period for the ART test result is two (02) days, i.e. as will be displayed on the issued certificate. However, for the purpose of entry into foreign countries, the validity period of the certificate is subject to the conditions of entry into that country.   
+- Further information on the ART Certification Centres that are approved by the Ministry of Health will be released through a Press Statement of the Ministry of Health and will also be uploaded on the Ministry's website www.moh.gov.bn
+
+### ART Certification Centres:
+
+  1. Guardian Health and Beauty (B) Sdn Bhd
+  2. Vitaliv Health and Wellness Clinic
+  3. Dr Prema Clinic
+  4. Crystal Image Enterprise
+  5. M Clinic
+  6. ER Clinic
+  7. Chua & Arif Specialist Clinic
+  8. Dr Amir Clinic
+  9. UNI Clinic
+  10. Lee Clinic
+  11. Kosi Clinical Lab Sdn Bhd
+  12. Panaga Health Centre
 
 ------------------------------------------------------------------------------
 
