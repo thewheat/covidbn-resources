@@ -138,7 +138,24 @@ every 2 weeks, for:
     - Sinopharm available on request (Source: [Borneo Bulletin](https://borneobulletin.com.bn/astrazeneca-to-be-default-vaccine-sinopharm-available-on-request/) / [The Scoop](https://thescoop.co/2021/09/18/astrazeneca-will-be-default-vaccine-from-now-on/))
 - Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
 - Those who have not been vaccinated with the COVID-19 vaccine due to the unavailability of the BruHealth application, these individuals are advised to immediately proceed to get the COVID-19 vaccine injection at vaccination centres via walk-in.  However, they are required to return to their respective homes as soon as they have been vaccinated. The vaccination card can be shown to enforcement officers as vaccination verification, if required. (Source: [MoH Press Release 4th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1088))
- 
+
+
+* * *
+
+**Commencing 26th November 2021: Third dose** (Source: [MoH Press Release 25th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1111))
+
+- The third dose of the vaccine for people who are 50 years old 
+- The administration of the third dose is on a walk-in basis at any of the vaccination centres. Although the third dose is not mandatory, the public is encouraged to get it to ensure maximum protection can be obtained, especially for those with chronic diseases. 
+
+
+Vaccine | Suitable Time to Receive the Third Dose
+-|-
+Sinopharm | 3 months after the second dose
+AstraZeneca | 5-6 months after the second dose
+Moderna | 5-6 months after the second dose
+Pfizer | 5-6 months after the second dose
+
+
 * * *
 
 **Commencing 8th November 2021: National Vaccination Programme for adolescents aged 12 to 17 years old** (Source: [MoH Press Release 5th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1089))
