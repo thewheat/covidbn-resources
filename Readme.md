@@ -139,6 +139,11 @@ every 2 weeks, for:
 - Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
 - Those who have not been vaccinated with the COVID-19 vaccine due to the unavailability of the BruHealth application, these individuals are advised to immediately proceed to get the COVID-19 vaccine injection at vaccination centres via walk-in.  However, they are required to return to their respective homes as soon as they have been vaccinated. The vaccination card can be shown to enforcement officers as vaccination verification, if required. (Source: [MoH Press Release 4th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1088))
 
+* * * 
+
+**Commencing 29th November 2021: Blood Tests for 3,000 individuals who have received two-doses** (Source: [MoH Press Release 27th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1112))
+
+- The Ministry of Health in collaboration with Universiti Brunei Darussalam, Duke-NUS Medical School Singapore, and EVYD Technology will conduct a study on the level of neutralising antibodies produced by the COVID-19 vaccine among the population of Brunei Darussalam. This study will be conducted to compare the protective immunity or immunogenicity of the vaccines in which the findings of this study will be able to assist in devising a strategy for the COVID-19 vaccine booster programme and to optimise public health strategies in controlling the COVID-19 pandemic in the Brunei Darussalam. In this regard, commencing Monday, 29 November 2021, a total of 3,000 selected individuals from the population who have fully completed two-doses of the COVID-19 vaccine, that is either with Sinopharm, Oxford-AstraZeneca or Moderna vaccines will be invited via a short messaging service (SMS) to participate and attend for blood tests at the Pengiran Anak Puteri Rashidah Sa'adatul Bolkiah Institute of Health Sciences, Universiti Brunei Darussalam. Participants will also receive a follow-up appointment after they are administered with the booster dose to assess the effects of the additional dose. The selected people are urged to cooperate by participating in this upcoming study. 
 
 * * *
 
