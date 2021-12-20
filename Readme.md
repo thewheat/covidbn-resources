@@ -292,21 +292,18 @@ Pfizer | 5-6 months after the second dose
 * * *
 
 **Operating Hours of Vaccination Centers**
-- (Source: [GOVBN Telegram Post on 25th October 2021](https://t.me/govbnofficial/3551))
-- (Source: [MoH Press Release on 14th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1130) : updates for Indoor Stadium Vaccination Centre and Learning Development Centre, Suri Seri Begawan Hospital Vaccination Centre, Kuala Belait)
-
-Commencing 22 November 2021 the Indoor Stadium Vaccination Centre will be opened to the public for first and second doses, either via BruHealth booking or via walk-in. (Source: [MoH Press Release on 21st November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1106))
-
+- (Source: [GOVBN Telegram Post on 18th December 2021](https://t.me/govbnofficial/4271))
            
-Vaccination Centres | Operating hours
---------------------|----------------
-Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday: 2:30pm - 5:00pm<BR>Public Holidays: Closed
-UBD COVID-19 Vaccination Center|Monday - Thursday + Saturday: 8:00am - 4:30pm<BR>Friday, Sunday, Public Holidays: Closed
-Jubli Emas Bunut Health Centre|Monday - Thursday + Saturday: 8:00am - 3:00pm<BR>Friday, Sunday, Public Holidays: Closed
-Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday, Sunday, Public Holidays: Closed
-Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
-Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
-
+Vaccination Centres | Operating hours | Available for Walk-In
+--------------------|-----------------|----------------------
+Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday: 2:30pm - 5:00pm|Yes
+UBD COVID-19 Vaccination Center|Monday - Thursday + Saturday: 8:00am - 4:30pm|Yes
+Jubli Emas Bunut Health Centre|Monday - Thursday + Saturday: 8:00am - 3:00pm|Yes
+Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:00am - 12:00noon, 2:00pm - 5:00pm|Yes
+Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
+Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
+Medical Reception Station, Bolkiah Garison|Monday - Thursday: 8:00am - 12:00noon, 1:00pm - 5:00pm<BR>Friday 2:00pm - 8:00pm<BR>Saturday + Sunday: 8:00am - 12:00noon|No
+   
 * * * 
 
 **Commencing Sunday, 3 October 2021, as announced in the press conference on 29 September 2021, the Ministry of Health has opened additional vaccination time every Sunday specifically for employees in local companies at the Indoor Stadium Vaccination Centre** ([Source: MoH 4th Oct 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1055)). 
