@@ -13,6 +13,78 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - Swab services on both the Public Holidays can still be obtained at the Berakas Health Centre from 2 PM until 9PM and at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait from 7:30AM until 7:30PM. 
 
 * * *
+## Endemic Phase
+
+([Source: JPM Website](http://www.pmo.gov.bn/EPG/Home.aspx))
+([Source: GovBN Telegram Post on 12th December 2021](https://t.me/govbnofficial/4193))
+
+- Implmentation of the Early Endemic Phase which will be implemented for one (1) month, starting Wednesday, 15th December 2021 until Friday, 14th January 2022.
+- Movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home from 10.00 p.m. till 4.00 a.m., will be extended until Friday, 14th January 2022.
+
+### Measures or Guidelines for Early Endemic Phase
+
+1. All individuals are allowed to enter government and private premises, or attend events, regardless of their vaccination status. This is the general requirement for entry into any premises. However,
+   - Unvaccinated individuals are required to undergo Antigen Rapid Test (ART), for which the validity period of the test result is two (2) days.
+   - Children under 18 years old who have not received or completed their vaccinations are allowed to enter premises without the need for ART testing, provided that they are accompanied by a fully vaccinated adult.
+2. For mass and private gatherings, the venue capacity is limited to 75% of premise capacity or not more than 300 persons (whichever is the lesser number).
+   - Buffet service during functions and at restaurants is not permitted, except for dome serving, although distribution of take-home packaged meals are encouraged.
+3. For mosques, suraus and prayer halls: The Ministry of Religious Affairs will provide further details on the updated guidelines for this matter in due course.
+4. For government offices,
+   - Open at 75% of office capacity for offices and Government service counters while maintaining their respective Business Continuity Plans (BCP). The capacity limits includes its personnel and general public;
+   - Office hours resume to normal working hours, from 7.45 a.m. to 12.15 p.m. and from 1.30 p.m. to 4.30 p.m.
+   - Individuals who have completed their vaccinations are required to undergo biweekly ART testing whereby cost of tests will be borne by the Government;
+   - Government personnel who have not received or completed their vaccinations are allowed to return to work at their respective office with the condition that their work does not involve any direct interaction with the public. However, they are required to undergo ART testing, for which the validity period of the test result is two (2) days. The testing costs are as follows:
+      i- Personnel who have received one (1) vaccine dose or are unable to be vaccinated due to medical reasons, the ART testing cost will be borne by the Government; and
+      ii- Personnel who are unvaccinated by choice or for personal reasons are to bear the cost of ART testing personally. They need to undergo an ART test and obtain a negative ART test result certificate through a Ministry of Health’s accredited ART Centre, before entering any Government
+premise.
+   - The public – who wish to visit Government offices or service counters – who have not completed their vaccinations are required to show a negative ART test result certificate, for which the validity period of each ART test is two (2) days.
+5. For museums, galleries, libraries and activity centres for senior citizens:
+   - Open at 75% of premise capacity or not more than 300 persons (whichever is the lesser number); and
+   - Operating hours for museums, galleries and libraries are 8.00 a.m. to 2.00 p.m.
+6. For fitness and recreational facilities/activities:
+   - All indoor and outdoor sports, fitness and recreational facilities are allowed to operate at 75% of premise capacity or not more than 300 persons (whichever is the lesser number);
+   - Non-contact sports are permitted;
+   - Contact sports are allowed for skills training only;
+   - Sporting matches are not permitted; and
+   - Face masks should be worn except when engaging in high-intensity activity.
+7. For business premises including restaurants, cafés, food courts, cinemas, arcades,
+indoor playgrounds, beauty establishments (such as hair salons and barbershops),
+markets and “tamu”, sports facilities and music schools:
+   - Open at 75% of premise capacity or not more than 300 persons (whichever is the lesser number);
+   - Buffet service during functions and at restaurants is not permitted, except for dome serving, although distribution take-home packaged meals are encouraged; and
+   - Critical staff at private business offices and manufacturing and processing premises who have not completed their vaccinations are allowed to work on- site, under the condition that they have obtained negative ART test results, for which the validity period of each test result is two (2) days. The staff are also to be placed in areas that are not exposed to the public.
+
+### School Sessions
+
+- School sessions under the purview of the Ministry of Education and Ministry of
+Religious Affairs will commence on Monday, 3rd January 2022, whereas
+international schools will resume operations according to their respective school term
+calendars. Only fully vaccinated students will be allowed to return to their school
+physically and the subsequent reopening of schools will be implemented in stages, in
+accordance to the provided guidelines. Further details on this matter will be announced
+by the Ministry of Education and the Ministry of Religious Affairs in due course.
+
+### Cross-border activities
+The easing of restrictions on cross-border travel, that is, the resumption of
+outbound and inbound travel for non-essential travel via air transportation
+will start on Saturday, 1st January 2022. The details are as follows:
+
+- For exit-country travel: only citizens and residents of Brunei Darussalam who have completed two (2) vaccine doses between 14 days to six (6) months prior to the date of travel, or those who have received a booster dose beforehand, are permitted for outbound travel without exit-country approval from the Prime Minister’s Office. Currently, the booster dose vaccination programme gives priority to frontliners and individuals aged 50 and above, as well as those at high risk, and it will extended to members of the public who are eligible to receive the booster, starting Friday, 17th December, 2021, InsyaAllah.
+- Exit travel for citizens and residents of Brunei Darussalam who have not received their vaccination for health reasons for essential travel out of the country can be considered, by applying for exit travel approval from the Prime Minister’s Office beforehand.
+- For entry travel into Brunei Darussalam, only foreign nationals who have received two (2) doses of a vaccine, that is recognised by the World Health Organization (WHO), are permitted to enter the country. However, any individual who has received two (2) doses of a vaccine that is not recognised by the WHO can be considered for entry into Brunei Darussalam for essential travel, but are required to obey health requirements as per unvaccinated individuals, such as swab tests and to undergo quarantine;
+- All inbound travellers including citizens and residents of Brunei Darussalam who wish to enter the country are required to obtain a negative ART test result, taken not more than 24 hours prior to departure from the country of origin. This is in addition to the condition of obtaining a negative result forRT-PCR test conducted not more than 48 hours prior to departure from the country of origin. However, every citizen and resident of Brunei Darussalam who is unable to meet this requirement is required to undergo mandatory self-isolation at a designated hotel upon return to this country for a duration determined by the Ministry of Health;
+- Travel Health Insurance covering the COVID-19 pandemic from insurance companies registered in Brunei Darussalam is required for every citizen and resident who plans to exit Brunei Darussalam and foreigners who want to enter the country; and
+- Brunei Darussalam will begin the Travel Green List during the Early Endemic Phase on a trial basis, initially for four (4) countries, namely Australia, China, Singapore and the United Kingdom, in which foreign nationals from above-mentioned countries will be allowed to enter Brunei Darussalam for non-essential travel. However, these travellers will be required to undergo ART testing on the third (3) day after arriving in the country, at designated ART centres.
+
+
+**Aside from that, inbound travellers are still required to undergo mandatory self-isolation at (1) their residents or hotels (for vaccinated travellers); or (2) declared hotels (for medically-contraindicated unvaccinated travellers).**
+
+**Meanwhile, suspension of outbound and inbound travel via land and sea ports is still in place.**
+
+**Further details on this aforementioned topic can be found in the cross-border guidelines that will be issued soon together with all other relevant guidelines.**
+
+
+* * *
 
 ## Transition Phase - Operasi Peralihan
 ([Source: MoH Press Release on 18th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1103))
