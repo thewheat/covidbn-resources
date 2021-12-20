@@ -6,6 +6,14 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * * 
 
+**Closure for Christmas Day 25 December 2021 and New Year 1st January 2022** ([Source: MoH Press Release on 16th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1132))
+
+- Closure of swab centres and vaccination centres during the two Public Holidays
+- The closure will involve all vaccination centres and swab centres including the Raja Isteri Pengiran Anak Saleha Sports Complex Swab Centre (SPOC), the Drive-Thru Swab Centre at Bridex Hall, Jerudong and the Drive-Thru Swab Centre at Pusat Insani, Seria. 
+- Swab services on both the Public Holidays can still be obtained at the Berakas Health Centre from 2 PM until 9PM and at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait from 7:30AM until 7:30PM. 
+
+* * *
+
 ## Transition Phase - Operasi Peralihan
 ([Source: MoH Press Release on 18th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1103))
 ([Source: GovBN Telegram Post on 9th November 2021](https://t.me/govbnofficial/3751))
@@ -139,6 +147,29 @@ every 2 weeks, for:
 - Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
 - Those who have not been vaccinated with the COVID-19 vaccine due to the unavailability of the BruHealth application, these individuals are advised to immediately proceed to get the COVID-19 vaccine injection at vaccination centres via walk-in.  However, they are required to return to their respective homes as soon as they have been vaccinated. The vaccination card can be shown to enforcement officers as vaccination verification, if required. (Source: [MoH Press Release 4th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1088))
 
+
+
+**Update on Third Dose of Vaccine** (Source: [MoH Press Release 13th December 2021](http://www.moh.gov.bn/Lists/Latest news/NewDispForm.aspx?ID=1129))
+
+- Commencing this Friday, 17 December 2021, the third dose will start to be given to individuals aged 18 years and above, and have completed two doses of vaccination provided a period of 3 months has elapsed since the second dose was received, regardless of the type of vaccine that has been received
+- The change in this time period is following the assessment of the Vaccination Technical Committee which found that two doses of the COVID-19 vaccination may not provide adequate protection to the Omicron variant and a third dose should be given at least three months after the second dose was received in order to increase the vaccination protection against the threat of the variant.
+ - The administration of this third dose is on a walk-in basis at any vaccination centres. Meanwhile, for those wishing to book a third dose via the BruHealth app, bookings will be open at the end of December 2021. Members of the public are encouraged to get the third dose of the COVID-19 vaccine to ensure maximum protection can be obtained. 
+
+* * * 
+
+**Notice about non fully vaccinated Government employees and staff** (Source: [MoH Press Release 10th December 2021](http://www.moh.gov.bn/Lists/Latest news/NewDispForm.aspx?ID=1126))
+- Government employees and staff who have not completed the COVID-19 vaccine injection and are allowed to work at the office are required to undergo ART testing every two days
+- For Government employees who choose not to get the COVID-19 vaccination, they must bear the cost of the ART test themselves. A certified ART test can be obtained from an ART Certification Centre approved by the Ministry of Health where the validity period of the certificate is for two days
+- The approved ART Certification Centres will display the Art Certification Centre Logo sticker to make it easier for the public to identify the centres. 
+- Disciplinary action will be taken against any Government employees and staff who are not vaccinated and refuse to perform ART testing as directed.
+
+* * * 
+
+**Delayed Administration of the Vaccine** (Source: [MoH Press Release 6th December 2021](http://www.moh.gov.bn/Lists/Latest news/NewDispForm.aspx?ID=1122))
+- There are some situations where the administration of the vaccine has to be delayed
+- One such situation is that of former COVID-19 patients who have received regeneron while in treatment at the National Isolation Centre where they will only be able to receive the COVID-19 vaccine injections after 90 days of completing the treatment. In this regard, any former patients who are still within 90 days after completing the regeneron treatment and have not been able to receive the COVID-19 vaccine injection are advised to contact the National Isolation Centre during office hours for their Regeneron Treatment Card. The issuance of these cards is to provide confirmation that they are temporarily exempted from the COVID-19 vaccination and these cardholders are allowed to enter premises provided that they comply with the other SOPs
+- The cooperation of the public, especially heads of Government departments and owners or managers of premises are expected to allow Regeneron Treatment Cardholders to enter their respective premises once they have complied with the other SOPs. They are also exempted from performing the SARS-CoV-2 test either RT-PCR or Antigen Rapid Test within the 90-day period. 
+
 * * * 
 
 **Commencing 29th November 2021: Blood Tests for 3,000 individuals who have received two-doses** (Source: [MoH Press Release 27th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1112))
@@ -188,18 +219,19 @@ Pfizer | 5-6 months after the second dose
 
 * * *
 
-**Announced 26th October 2021: Operating Hours of Vaccination Centers** (Source: [GOVBN Telegram Post on 25th October 2021](https://t.me/govbnofficial/3551))
-
+**Operating Hours of Vaccination Centers**
+- (Source: [GOVBN Telegram Post on 25th October 2021](https://t.me/govbnofficial/3551))
+- (Source: [MoH Press Release on 14th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1130) : updates for Indoor Stadium Vaccination Centre and Learning Development Centre, Suri Seri Begawan Hospital Vaccination Centre, Kuala Belait)
 
 Commencing 22 November 2021 the Indoor Stadium Vaccination Centre will be opened to the public for first and second doses, either via BruHealth booking or via walk-in. (Source: [MoH Press Release on 21st November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1106))
 
            
 Vaccination Centres | Operating hours
 --------------------|----------------
-Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 5:00pm<BR>Friday: 2:00pm - 5:00pm<BR>Public Holidays: Closed
+Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday: 2:30pm - 5:00pm<BR>Public Holidays: Closed
 UBD COVID-19 Vaccination Center|Monday - Thursday + Saturday: 8:00am - 4:30pm<BR>Friday, Sunday, Public Holidays: Closed
 Jubli Emas Bunut Health Centre|Monday - Thursday + Saturday: 8:00am - 3:00pm<BR>Friday, Sunday, Public Holidays: Closed
-Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:30am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
+Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday, Sunday, Public Holidays: Closed
 Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
 Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm<BR>Friday, Sunday, Public Holidays: Closed
 
@@ -257,9 +289,9 @@ Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30a
 
 ## Authorized Antigen Rapid Test (ART) Kits
 
-[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2001112021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2015122021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
 
-List below based on last update on 1st November 2021
+List below based on last update on 15th December 2021
 
 | No  | Name | Manufacturer | Detection | Sample Type |
 | --- | --- | --- | --- | --- |
@@ -293,7 +325,20 @@ List below based on last update on 1st November 2021
 | 28  | HOTGEN Coronavirus (2019-nCoV)-Antigen Test | Beijing Hotgen Biotech Co., Ltd., China | Antigen | Nasal
 | 29  | HIGIA SARS-CoV-2 Antigen Rapid Test Kit | Xiamen Higia Medical Technology Co., Ltd., China | Antigen | Saliva
 | 30  | iHealth Novel Corona Virus (SARS-CoV-2) | Symbion Asia Sdn Bhd. Malaysia | Antigen | Saliva
-
+| 31  | Fastep COVID-19 Antigen Rapid Test | Assure Tech (Hangzhou) Co.,LTD, China | Antigen | Nasopharyngeal / Oropharyngeal 
+| 32  | StrongStep SARS-CoV2 Rapid Antigen Test | Nanjing Liming Bio-product Co.Ltd, China | Antigen | Nasal / Oropharyngeal
+| 33  | Gensure COVID-19 Antigen Rapid Test Kit | Gensure Biotech Inc., China | Antigen | Nasal / Saliva
+| 34  | Lituo COVID-19 Antigen Self-Test Kit | Zhuhai Lituo Biotechnology Co. Ltd., China | Antigen | Saliva
+| 35  | BIO-RAD Coronavirus Ag Rapid Test | Zhejiang Orient Gene Biotech Co., Ltd., China | Antigen | Nasopharyngeal / Nasal
+| 36  | Cas- Envision SARS-CoV-2 Antigen Rapid Detection Kit | Shenzhen CAS-Envision Medical Technology Co. Ltd., China| Antigen | Nasal / Saliva
+| 37  | Vstrip COVID-19 Antigen Test | PANION & BF Biotech Inc., Xizhi Factory, Taiwan | Antigen | Nasal / Nasopharyngeal
+| 38  | TESTSEALAB COVID-19 Antigen Test | Hangzhou TestSea Biotechnology Co. Ltd., China | Antigen | Nasal
+| 39  | Babio SARS-CoV-2 Antigen Rapid Detection Kit | Jinan Babio Biotechnology Co., Ltd., China | Antigen | Nasal / Saliva
+| 40  | Longsee 2019-nCoV Ag Rapid Detection Kit | Guangdong Longsee Biomedical Co., Ltd., China | Antigen | Saliva
+| 41  | Norman Novel Coronavirus Antigen Testing Kit | Nanjing Norman Biological Technology Co., Ltd., China | Antigen |  Nasal / Saliva
+| 42  | Lysun COVID-19 Antigen Rapid Test Device | Hangzhou Lysun Biotechnology Co., Ltd., China | Antigen | Nasal
+| 43  | INVBIO Coronavirus (SARS-CoV-2) Antigen Rapid Test Cassette | Innovation Biotech (Beijing) Co., Ltd., China | Antigen | Nasal
+| 44  | AndLucky® COVID-19 Antigen Rapid Test |  Zhejiang Anji Saianfu Biotech Co., Ltd., China |  Antigen | Nasal / Nasopharyngeal / Oropharyngeal 
 ------------------------------------------------------------------------------
 
 ## Authorized Antigen Rapid Test (ART) Certification Centres
