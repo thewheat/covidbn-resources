@@ -13,6 +13,86 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - Swab services on both the Public Holidays can still be obtained at the Berakas Health Centre from 2 PM until 9PM and at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait from 7:30AM until 7:30PM. 
 
 * * *
+
+**Endemic Phase** ([Source: GovBN Telegram Post on 12th December 2021](https://t.me/govbnofficial/4193))
+- Implmentation of the Early Endemic Phase which will be implemented for one (1) month, starting Wednesday, 15th December 2021 until Friday, 14th January 2022.
+- Movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home from 10.00 p.m. till 4.00 a.m., will be extended until Friday, 14th January 2022.
+- Details in "[Endemic Phase](#endemic-phase)" below
+
+* * *
+
+
+**Table of Contents**
+
+- [Official Links](#official-links)
+- [Help Line Contacts](#help-line-contacts)
+- [Contribute / Donate](#contribute--donate)
+- [Endemic Phase](#endemic-phase)
+- [Transition Phase - Operasi Peralihan](#transition-phase---operasi-peralihan)
+- [Vaccinations](#vaccinations)
+   - [Vaccination Notes](#vaccination-notes)
+   - [Vaccination Side Effects](#vaccination-side-effects)
+- [Authorized Antigen Rapid Test (ART) Kits](#authorized-antigen-rapid-test-art-kits)
+- [Authorized Antigen Rapid Test (ART) Certification Centres](#authorized-antigen-rapid-test-art-certification-centres)
+- [Health Centres](#health-centres)
+- [Got Symptoms?](#got-symptoms)
+- [Swab Locations](#swab-locations)
+- [Drive-Thru Swab Locations](#drive-thru-swab-locations)
+- [Essential Items for Isolation / Quarantine Centre](#essential-items-for-isolation--quarantine-centre)
+- [Home Isolation Policy](#home-isolation-policy)
+- [Digital Quarantine Order](#digital-quarantine-order)
+    - [Primary & Secondary Contacts](#primary--secondary-contacts)
+- [Bruhealth Support Email Guideline / Information](#bruhealth-support-email-guideline--information)
+    - [1. Digital QO Related](#1-digital-qo-related)
+    - [2. Healthcode (Red/Yellow) Issues](#2-healthcode-redyellow-issues)
+    - [3. Invalid BN Issues/ Verification failed. Please input correct BN Number](#3-invalid-bn-issues-verification-failed-please-input-correct-bn-number)
+    - [4. IC is invalid / Authentication Failed](#4-ic-is-invalid--authentication-failed)
+    - [5. Birth Certificate is invalid](#5-birth-certificate-is-invalid)
+    - [6. Cannot book an appointment - clicking date does not allow me to book](#6-cannot-book-an-appointment---clicking-date-does-not-allow-me-to-book)
+    - [7. I forgot my BN Number](#7-i-forgot-my-bn-number)
+    - [8. Other BruHealth issues](#8-other-bruhealth-issues)
+
+------------------------------------------------------------------------------
+
+## Official Links
+
+- [Ministry of Health's (MoH) COVID-19 page](http://www.moh.gov.bn/SitePages/COVID-19.aspx)
+- [MoH Latest Press Releases](http://www.moh.gov.bn/SitePages/Latest%20News.aspx)
+- [MoH Instagram: @mohbrunei](https://www.instagram.com/mohbrunei/)
+- [Telegram: @govbnofficial](https://t.me/govbnofficial) - Latest Press Releases and Guidelines from all departments
+- [BruHealth website](https://www.healthinfo.gov.bn/) / [BruHealth Android App](https://play.google.com/store/apps/details?id=egnc.moh.bruhealth&hl=en&gl=US) / [BruHealth iOS App](https://apps.apple.com/us/app/bruhealth/id1509620170)
+- [MoH's About BruHealth Homepage](http://www.moh.gov.bn/bruhealth)
+
+------------------------------------------------------------------------------
+
+## Help Line Contacts
+
+- **Health Advice Line**
+    - _Hours_: 7.45am - 12.15pm, 1.30pm - 4.30pm (Monday - Thursday & Saturday), 8am - 12pm (Friday)
+    - ☎️ [148](tel:148)
+    - [Telegram: @HAL_148 / +673 737 0095](https://t.me/HAL_148)
+    - [WhatsApp: +673 737 0095](https://api.whatsapp.com/send?phone=+673%20737%200095)
+    - [askhal@moh.gov.bn](mailto:askhal@moh.gov.bn)
+- **Talian Darussalam 123**
+    - ☎️ [123](tel:123)
+    - [WhatsApp: +673 833 3123](https://api.whatsapp.com/send?phone=+673%20833%203123)
+
+------------------------------------------------------------------------------
+
+## Contribute / Donate
+
+- [BIBD COVID Relief Fund](http://www.bibd.com.bn/media-centre/covid-19-awareness/)
+- [Baiduri COVID Relief Fund](https://www.mofe.gov.bn/Press%20Room/Press%20Release%2007.09.2021%20[Malay]%20-%20Pembukaan%20Akaun%20COVID-19%20Relief%20Fund%20di%20Bank%20Baiduri.pdf) (via [MoFE Press Releases](https://www.mofe.gov.bn/Sitepages/Press-Releases.aspx))
+- **Ministry of Education**
+    - [Donate Device: Laptop / Tablet](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=820)
+    - [Donate Data](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=817)
+- [Imagine - Learn at Home & Covid-19 Relief Donations](https://app.imagine.com.bn/adac/donate.php)
+- [Progresif - Donate Data](https://progresif.com/how-to-donate-data/)
+- [Volunteer](https://sukarelawanbelia.com/) ([Source Telegram Post](https://t.me/govbnofficial/2962))
+- [Ministry of Health - Donation of Variety of Items e.g. Detergent, Hygiene Products, Dry Food, Cltohes, Electric Appliances](https://www.instagram.com/p/CTZY2nth-zE/)
+
+------------------------------------------------------------------------------
+
 ## Endemic Phase
 
 ([Source: JPM Website](http://www.pmo.gov.bn/EPG/Home.aspx))
@@ -83,8 +163,7 @@ will start on Saturday, 1st January 2022. The details are as follows:
 
 **Further details on this aforementioned topic can be found in the cross-border guidelines that will be issued soon together with all other relevant guidelines.**
 
-
-* * *
+------------------------------------------------------------------------------
 
 ## Transition Phase - Operasi Peralihan
 ([Source: MoH Press Release on 18th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1103))
@@ -125,77 +204,6 @@ every 2 weeks, for:
 - Meanwhile, planning and preparations for the reopening of schools are still under way, considering that fact the National Vaccination Programme is still being carried out for individuals aged from 12 to 17 years and children below 12 years of age have yet to be vaccinated. Procedures for the reopening of schools, and that children’s daycare centres and other learning institutions will be announced at a later date, that is, as soon as the COVID-19 Steering Committee has completed its review of the plans; and
 - Every business premise that is allowed to open during the Transition Phase is required to abide by all guidelines and SOPs that have been introduced.
 
-
-* * *
-
-
-**Table of Contents**
-
-- [Official Links](#official-links)
-- [Help Line Contacts](#help-line-contacts)
-- [Contribute / Donate](#contribute--donate)
-- [Vaccinations](#vaccinations)
-   - [Vaccination Notes](#vaccination-notes)
-   - [Vaccination Side Effects](#vaccination-side-effects)
-- [Authorized Antigen Rapid Test (ART) Kits](#authorized-antigen-rapid-test-art-kits)
-- [Authorized Antigen Rapid Test (ART) Certification Centres](#authorized-antigen-rapid-test-art-certification-centres)
-- [Health Centres](#health-centres)
-- [Got Symptoms?](#got-symptoms)
-- [Swab Locations](#swab-locations)
-- [Drive-Thru Swab Locations](#drive-thru-swab-locations)
-- [Essential Items for Isolation / Quarantine Centre](#essential-items-for-isolation--quarantine-centre)
-- [Home Isolation Policy](#home-isolation-policy)
-- [Digital Quarantine Order](#digital-quarantine-order)
-    - [Primary & Secondary Contacts](#primary--secondary-contacts)
-- [Bruhealth Support Email Guideline / Information](#bruhealth-support-email-guideline--information)
-    - [1. Digital QO Related](#1-digital-qo-related)
-    - [2. Healthcode (Red/Yellow) Issues](#2-healthcode-redyellow-issues)
-    - [3. Invalid BN Issues/ Verification failed. Please input correct BN Number](#3-invalid-bn-issues-verification-failed-please-input-correct-bn-number)
-    - [4. IC is invalid / Authentication Failed](#4-ic-is-invalid--authentication-failed)
-    - [5. Birth Certificate is invalid](#5-birth-certificate-is-invalid)
-    - [6. Cannot book an appointment - clicking date does not allow me to book](#6-cannot-book-an-appointment---clicking-date-does-not-allow-me-to-book)
-    - [7. I forgot my BN Number](#7-i-forgot-my-bn-number)
-    - [8. Other BruHealth issues](#8-other-bruhealth-issues)
-
-------------------------------------------------------------------------------
-
-## Official Links
-
-- [Ministry of Health's (MoH) COVID-19 page](http://www.moh.gov.bn/SitePages/COVID-19.aspx)
-- [MoH Latest Press Releases](http://www.moh.gov.bn/SitePages/Latest%20News.aspx)
-- [MoH Instagram: @mohbrunei](https://www.instagram.com/mohbrunei/)
-- [Telegram: @govbnofficial](https://t.me/govbnofficial) - Latest Press Releases and Guidelines from all departments
-- [BruHealth website](https://www.healthinfo.gov.bn/) / [BruHealth Android App](https://play.google.com/store/apps/details?id=egnc.moh.bruhealth&hl=en&gl=US) / [BruHealth iOS App](https://apps.apple.com/us/app/bruhealth/id1509620170)
-- [MoH's About BruHealth Homepage](http://www.moh.gov.bn/bruhealth)
-
-------------------------------------------------------------------------------
-
-## Help Line Contacts
-
-- **Health Advice Line**
-    - _Hours_: 7.45am - 12.15pm, 1.30pm - 4.30pm (Monday - Thursday & Saturday), 8am - 12pm (Friday)
-    - ☎️ [148](tel:148)
-    - [Telegram: @HAL_148 / +673 737 0095](https://t.me/HAL_148)
-    - [WhatsApp: +673 737 0095](https://api.whatsapp.com/send?phone=+673%20737%200095)
-    - [askhal@moh.gov.bn](mailto:askhal@moh.gov.bn)
-- **Talian Darussalam 123**
-    - ☎️ [123](tel:123)
-    - [WhatsApp: +673 833 3123](https://api.whatsapp.com/send?phone=+673%20833%203123)
-
-------------------------------------------------------------------------------
-
-## Contribute / Donate
-
-- [BIBD COVID Relief Fund](http://www.bibd.com.bn/media-centre/covid-19-awareness/)
-- [Baiduri COVID Relief Fund](https://www.mofe.gov.bn/Press%20Room/Press%20Release%2007.09.2021%20[Malay]%20-%20Pembukaan%20Akaun%20COVID-19%20Relief%20Fund%20di%20Bank%20Baiduri.pdf) (via [MoFE Press Releases](https://www.mofe.gov.bn/Sitepages/Press-Releases.aspx))
-- **Ministry of Education**
-    - [Donate Device: Laptop / Tablet](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=820)
-    - [Donate Data](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=817)
-- [Imagine - Learn at Home & Covid-19 Relief Donations](https://app.imagine.com.bn/adac/donate.php)
-- [Progresif - Donate Data](https://progresif.com/how-to-donate-data/)
-- [Volunteer](https://sukarelawanbelia.com/) ([Source Telegram Post](https://t.me/govbnofficial/2962))
-- [Ministry of Health - Donation of Variety of Items e.g. Detergent, Hygiene Products, Dry Food, Cltohes, Electric Appliances](https://www.instagram.com/p/CTZY2nth-zE/)
-
 ------------------------------------------------------------------------------
 
 ## Vaccinations
@@ -208,9 +216,15 @@ every 2 weeks, for:
 - Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
 - Those who have not been vaccinated with the COVID-19 vaccine due to the unavailability of the BruHealth application, these individuals are advised to immediately proceed to get the COVID-19 vaccine injection at vaccination centres via walk-in.  However, they are required to return to their respective homes as soon as they have been vaccinated. The vaccination card can be shown to enforcement officers as vaccination verification, if required. (Source: [MoH Press Release 4th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1088))
 
+* * *
 
+**Booking of Third Dose** (Source: [GOV.BN Post on 21st December 2021](https://t.me/govbnofficial/4301))
 
-**Update on Third Dose of Vaccine** (Source: [MoH Press Release 13th December 2021](http://www.moh.gov.bn/Lists/Latest news/NewDispForm.aspx?ID=1129))
+- Starts 22 December 2021 at 12:00 noon via the BruHealth iOS/Android app (update to the newest version) for slots from 23 December 2021
+- Third dose via walk-in is still open only to the elderly, pregnant mothers and differently-abled persons.
+- Currently, the administration of the third dose or booster dose in Brunei Darussalam is using the Pfizer-BioNTech or Moderna vaccine, subject to stock availability at the vaccination centre. Scientific studies have found that the use of both types of vaccines as a third dose or booster dose are effective and safe to enhance the immunity in the body and provide protection against the COVID-19 infection, regardless of the type of initial vaccine that has been received as the first and second dose.
+
+**Update on Third Dose of Vaccine** (Source: [MoH Press Release 13th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1129))
 
 - Commencing this Friday, 17 December 2021, the third dose will start to be given to individuals aged 18 years and above, and have completed two doses of vaccination provided a period of 3 months has elapsed since the second dose was received, regardless of the type of vaccine that has been received
 - The change in this time period is following the assessment of the Vaccination Technical Committee which found that two doses of the COVID-19 vaccination may not provide adequate protection to the Omicron variant and a third dose should be given at least three months after the second dose was received in order to increase the vaccination protection against the threat of the variant.
@@ -218,7 +232,7 @@ every 2 weeks, for:
 
 * * * 
 
-**Notice about non fully vaccinated Government employees and staff** (Source: [MoH Press Release 10th December 2021](http://www.moh.gov.bn/Lists/Latest news/NewDispForm.aspx?ID=1126))
+**Notice about non fully vaccinated Government employees and staff** (Source: [MoH Press Release 10th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1126))
 - Government employees and staff who have not completed the COVID-19 vaccine injection and are allowed to work at the office are required to undergo ART testing every two days
 - For Government employees who choose not to get the COVID-19 vaccination, they must bear the cost of the ART test themselves. A certified ART test can be obtained from an ART Certification Centre approved by the Ministry of Health where the validity period of the certificate is for two days
 - The approved ART Certification Centres will display the Art Certification Centre Logo sticker to make it easier for the public to identify the centres. 
@@ -226,7 +240,7 @@ every 2 weeks, for:
 
 * * * 
 
-**Delayed Administration of the Vaccine** (Source: [MoH Press Release 6th December 2021](http://www.moh.gov.bn/Lists/Latest news/NewDispForm.aspx?ID=1122))
+**Delayed Administration of the Vaccine** (Source: [MoH Press Release 6th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1122))
 - There are some situations where the administration of the vaccine has to be delayed
 - One such situation is that of former COVID-19 patients who have received regeneron while in treatment at the National Isolation Centre where they will only be able to receive the COVID-19 vaccine injections after 90 days of completing the treatment. In this regard, any former patients who are still within 90 days after completing the regeneron treatment and have not been able to receive the COVID-19 vaccine injection are advised to contact the National Isolation Centre during office hours for their Regeneron Treatment Card. The issuance of these cards is to provide confirmation that they are temporarily exempted from the COVID-19 vaccination and these cardholders are allowed to enter premises provided that they comply with the other SOPs
 - The cooperation of the public, especially heads of Government departments and owners or managers of premises are expected to allow Regeneron Treatment Cardholders to enter their respective premises once they have complied with the other SOPs. They are also exempted from performing the SARS-CoV-2 test either RT-PCR or Antigen Rapid Test within the 90-day period. 
