@@ -181,17 +181,6 @@ every 2 weeks, for:
 - **Talian Darussalam 123**
     - ☎️ [123](tel:123)
     - [WhatsApp: +673 833 3123](https://api.whatsapp.com/send?phone=+673%20833%203123)
-- **Brunei Red Crescent (BRC)** ([source Instagram post](https://www.instagram.com/p/CTG3f9Oh0SZ/))
-    - [Instagram: @brunei_redcrescent](https://instagram.com/brunei_redcrescent)
-    - **BRC COVID-19 Help Desk**
-        - _Hours_: 08:30am - 6:30pm
-        - ☎️ [+673 8260420](tel:+6738260420) / [WhatsApp](https://api.whatsapp.com/send?phone=+673%208260420)
-        - ☎️ [+673 8260320](tel:+6738260320) / [WhatsApp](https://api.whatsapp.com/send?phone=+673%208260320)
-        - ☎️ [+673 8260360](tel:+6738260360) / [WhatsApp](https://api.whatsapp.com/send?phone=+673%208260360)
-        - ☎️ [+673 8260370](tel:+6738260370) / [WhatsApp](https://api.whatsapp.com/send?phone=+673%208260370)
-        - ☎️ [+673 8260390](tel:+6738260390) / [WhatsApp](https://api.whatsapp.com/send?phone=+673%208260390)
-    - **BRC Helpline**: ☎️ [+673 7121989](tel:+6737121989) / [WhatsApp](https://api.whatsapp.com/send?phone=+673%207121989)
-    - **COVID-19 Operation Hotline**: ☎️ [+673 8260380](tel:+6738260380) / [WhatsApp](https://api.whatsapp.com/send?phone=+673%208260380)
 
 ------------------------------------------------------------------------------
 
