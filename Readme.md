@@ -4,14 +4,6 @@ This was created to serve as a source of the latest relevant information that I 
 
 See a problem or room for improvement? If you can fix it, [open a PR](https://github.com/thewheat/covidbn-resources/pulls), otherwise [file an issue](https://github.com/thewheat/covidbn-resources/issues)
 
-* * * 
-
-**Closure for Christmas Day 25 December 2021 and New Year 1st January 2022** ([Source: MoH Press Release on 16th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1132))
-
-- Closure of swab centres and vaccination centres during the two Public Holidays
-- The closure will involve all vaccination centres and swab centres including the Raja Isteri Pengiran Anak Saleha Sports Complex Swab Centre (SPOC), the Drive-Thru Swab Centre at Bridex Hall, Jerudong and the Drive-Thru Swab Centre at Pusat Insani, Seria. 
-- Swab services on both the Public Holidays can still be obtained at the Berakas Health Centre from 2 PM until 9PM and at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait from 7:30AM until 7:30PM. 
-
 * * *
 
 **Endemic Phase** ([Source: GovBN Telegram Post on 12th December 2021](https://t.me/govbnofficial/4193))
