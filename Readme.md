@@ -410,8 +410,8 @@ List below based on last update on 12th Januaryy 2022
 ------------------------------------------------------------------------------
 
 ## Authorized Antigen Rapid Test (ART) Certification Centres
-    
-(Souce: [MoH Press Release on 22nd November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1116))
+ 
+(Source: [MoH Press Release on 22nd November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1116))
 
 - The Ministry of Health has appointed several companies to open ART Certification Centres to conduct ART testing for any individual who requires certified ART test results. 
 - Commences on Wednesday, 1 December 2021
@@ -420,18 +420,24 @@ List below based on last update on 12th Januaryy 2022
 
 ### ART Certification Centres:
 
-  1. Guardian Health and Beauty (B) Sdn Bhd
-  2. Vitaliv Health and Wellness Clinic
-  3. Dr Prema Clinic
-  4. Crystal Image Enterprise
-  5. M Clinic
-  6. ER Clinic
-  7. Chua & Arif Specialist Clinic
-  8. Dr Amir Clinic
-  9. UNI Clinic
-  10. Lee Clinic
-  11. Kosi Clinical Lab Sdn Bhd
-  12. Panaga Health Centre
+[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/Pusat-pusat%20pesijilan%20ART%201%20December%202021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+
+List below based on PDF retrieved on 23rd Januaryy 2022
+
+| No  | Name | Brand | Cost |
+| --- | --- | --- | --- |
+|  1  | Guardian Health and Beauty (B) Sdn Bhd | Alltest / Flowflex / Medomics / Innovita | $7.50 - $11.00 |
+|  2  | Dr Prema Clinic | Acon / Flowflex / Roche | $20.00 |
+|  3  | Vitaliv Health and Wellness Clinic | Mico Biomed Veri-Q | $15.00 |
+|  4  | Crystal Image Enterprise | Newgene / Salixium / Alltest | $20.00 |
+|  5  | M Clinic | Newgene | $20.00 |
+|  6  | ER Clinic | Flowflex | $10.00 |
+|  7  | Chua & Arif Specialist Clinic | Flowflex / Alltest | $10.00 |
+|  8  | Dr Amir Clinic | Flowflex / Newgene | $18.00 |
+|  9  | UNI Clinic | Newgene / 1copy™ | $20.00 |
+|  10 | Lee Clinic & Dispensary | Flowflex | $16.00 |
+|  11 | Kosi Clinical Lab Sdn Bhd | Alltest / Newgene | $20.00 |
+|  12 | Panaga Health Centre, Brunei Shell Co.Sdn.Bhd | Flowflex | $20.00 |
 
 ------------------------------------------------------------------------------
 
