@@ -90,10 +90,11 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 ([Source: JPM Website](http://www.pmo.gov.bn/EPG/Home.aspx))
 ([Source: GovBN Telegram Post on 12th December 2021](https://t.me/govbnofficial/4193))
 ([Source: GovBN Telegram Post on 10th January 2022](https://t.me/govbnofficial/4495))
+([Source: GovBN Telegram Post on 9th February 2022](https://t.me/govbnofficial/4786))
 
 
-- Early Endemic Phase will be extended for one (1) month, starting Saturday, 15th January 2022 until Monday, 14th February 2022.
-- The movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home will also be extended until Monday, 14th February 2022, but the period will be shortened to 12.00 a.m. to 4.00 a.m. 
+- Early Endemic Phase will be extended for one (1) month, starting Tuesday, 15th February 2022 until Monday, 14th March 2022.
+- The movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until  Monday, 14th March 2022. 
 
 ### Measures or Guidelines for Early Endemic Phase
 
@@ -130,13 +131,7 @@ markets and “tamu”, sports facilities and music schools:
 
 ### School Sessions
 
-- School sessions under the purview of the Ministry of Education and Ministry of
-Religious Affairs will commence on Monday, 3rd January 2022, whereas
-international schools will resume operations according to their respective school term
-calendars. Only fully vaccinated students will be allowed to return to their school
-physically and the subsequent reopening of schools will be implemented in stages, in
-accordance to the provided guidelines. Further details on this matter will be announced
-by the Ministry of Education and the Ministry of Religious Affairs in due course.
+- School sessions under the purview of the Ministry of Education and Ministry of Religious Affairs will commence on Monday, 3rd January 2022, whereas international schools will resume operations according to their respective school term calendars. Only fully vaccinated students will be allowed to return to their school physically and the subsequent reopening of schools will be implemented in stages, in accordance to the provided guidelines. Further details on this matter will be announced by the Ministry of Education and the Ministry of Religious Affairs in due course.
 
 ### Cross-border activities
 The easing of restrictions on cross-border travel, that is, the resumption of
