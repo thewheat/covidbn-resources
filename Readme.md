@@ -6,9 +6,9 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * *
 
-**Endemic Phase** ([Source: GovBN Telegram Post on 10th January 2022](https://t.me/govbnofficial/4495))
-- Early Endemic Phase will be extended for one (1) month, starting Saturday, 15th January 2022 until Monday, 14th February 2022.
-- The movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home will also be extended until Monday, 14th February 2022, but the period will be shortened to 12.00 a.m. to 4.00 a.m. 
+**Endemic Phase** ([Source: GovBN Telegram Post on 9th February 2022](https://t.me/govbnofficial/4786))
+- Early Endemic Phase will be extended for one (1) month, starting Tuesday, 15th February 2022 until Monday, 14th March 2022.
+- The movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until  Monday, 14th March 2022. 
 - Details in "[Endemic Phase](#endemic-phase)" below
 
 * * *
