@@ -482,9 +482,8 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 - Sports Complex Screening Centre, RIPAS Hospital (8am-8pm starting 16th October 2021) (Source: [MoH Press Release on 15 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1066)
 - Suri Seri Begawan Hospital (24hrs) (Not for Pre-Departure Swab)
-- Drive-Thru Swab Centre Bridex (8am-8pm Monday-Thurs + Saturday) (Not for Pre-Departure Swab)
-- Drive-Thru Swab Centre Pusat Insani, Seria (8am-8pm Monday-Thurs + Saturday) (Not for Pre-Departure Swab)
-
+- Drive-Thru Swab Centre Bridex (Not for Pre-Departure Swab)
+- Drive-Thru Swab Centre Pusat Insani, Seria (Not for Pre-Departure Swab)
 
 ------------------------------------------------------------------------------
 
@@ -492,8 +491,15 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 [Source - MoH 29th Aug 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1010)
 
-- Location: Bridex Drive-Thru Swab Centre / The Pusat Insani, Seria Drive-Thru Swab Centre
-- Hours: Monday to Thursday and Saturday, from 8:00 am to 8:00 pm.
+- Locations
+    - Bridex Drive-Thru Swab Centre, Jerudong
+    - The Pusat Insani, Seria Drive-Thru Swab Centre
+- Hours
+    - Monday to Thursday and Saturday, from 8:00 am to 8:00 pm.
+    - Bridex Drive-Thru updated hours ([Source - MoH 7th Feb 2022 press release](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1159))
+       - Monday to Thursday and Saturday: 8:00 AM until 7:15 PM
+       - Friday: 8:00 AM until 11:00 AM, 2:15 PM until 7:15 PM
+       - Sunday: 8:00 AM until 5:00 PM
 - Book via QueUp app ([Android](https://play.google.com/store/apps/details?id=bn.com.dotroot.queueup) / [iOS](https://apps.apple.com/bn/app/queup/id1267313350))
 - Guidelines:
     - This service is only for individuals who have a **valid Bru-HIMS number**;
