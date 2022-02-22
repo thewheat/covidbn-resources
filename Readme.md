@@ -285,14 +285,14 @@ Pfizer | 5-6 months after the second dose
 
 **Operating Hours of Vaccination Centers**
 - (Source: [GOVBN Telegram Post on 18th December 2021](https://t.me/govbnofficial/4271))
-
+- UBD COVID-19 Vaccination Center has been put on hold effective 31st December 2021 (Source: [GOVBN Telegram Post on 2nd January 2022](https://t.me/govbnofficial/4412))
            
 **Temporary Closure of Jubli Emas Bunut Health Centre and Indoor Stadium from 15th February 2022 until 26 February 2022** (Source: [MoH 14th Februrary 2022 press info](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1164))
            
+
 Vaccination Centres | Operating hours | Available for Walk-In
 --------------------|-----------------|----------------------
 Indoor Stadium, Hassanal Bolkiah National Sports Complex|**Closed from 15th Feb 2022 - 26th Feb 2022**<BR>Monday - Thursday + Saturday + Sunday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday: 2:30pm - 5:00pm.|Yes
-UBD COVID-19 Vaccination Center|Monday - Thursday + Saturday: 8:00am - 4:30pm|Yes
 Jubli Emas Bunut Health Centre|**Closed from 15th Feb 2022 - 26th Feb 2022**<BR>Monday - Thursday + Saturday: 8:00am - 3:00pm|Yes
 Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:00am - 12:00noon, 2:00pm - 5:00pm|Yes
 Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
