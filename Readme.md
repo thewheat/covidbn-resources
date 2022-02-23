@@ -485,10 +485,12 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 - Berakas Health Centre
 - Pengkalan Batu Health Centre
+- Sungai Kelugos Health Centre
 - Belait Health Centre
 - Seria Health Centre
 - Suri Seri Begawan Hospital Emergency Department
 - Pengiran Isteri Hajah Mariam Hospital Emergency Department
+- Raja Isteri Pengiran Anak Saleha Hospital ILI Clinic
 - Raja Isteri Pengiran Anak Saleha Hospital Emergency Department (for severe symptom)
 
 
@@ -502,6 +504,12 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 - Suri Seri Begawan Hospital (24hrs) (Not for Pre-Departure Swab)
 - Drive-Thru Swab Centre Bridex (Not for Pre-Departure Swab)
 - Drive-Thru Swab Centre Pusat Insani, Seria (Not for Pre-Departure Swab)
+- Jerudong Park Medical Centre (JPMC)
+- Panaga Health Centre starting
+
+
+**16th February - Additional Swab locations** (Source: [MoH Press Release 16th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1165))
+- In addition, to facilitate the provision of services to the public, especially to individuals travelling abroad, swabs for RT-PCR test can be done at Jerudong Park Medical Centre (JPMC) commencing on Thursday, 17 February 2022 and Panaga Health Centre starting Friday, 18 February 2022. Swab services performed at such centres will incur appropriate charges, which will likely include administration charges.
 
 ------------------------------------------------------------------------------
 
