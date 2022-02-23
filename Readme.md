@@ -4,6 +4,18 @@ This was created to serve as a source of the latest relevant information that I 
 
 See a problem or room for improvement? If you can fix it, [open a PR](https://github.com/thewheat/covidbn-resources/pulls), otherwise [file an issue](https://github.com/thewheat/covidbn-resources/issues)
 
+
+* * *
+
+**Swab Centres open on public holidays National Day of Brunei Darussalam on 23 February 2022 and Isra' Mikraj Celebration on 28 February 2022** (Source: [MoH press release on 21st February 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/4964))
+
+- Raja Isteri Pengiran Anak Saleh Hospital Sports Complex Swab Centre (SPOC), from 8am to 8pm;
+- Bridex Hall Drive-Thru Swab Centre, from 9 am to 4:30 pm;
+- Jerudong and Pusat Insani Drive-Thru Swab Centre, from Seria, 9 am to 4:30 pm;
+- Berakas Health Centre, from 2pm to 8:45 pm;
+- SARI 2 Centre, Suri Seri Begawan Hospital, Kuala Belait from 7.30 am to 6 pm.
+
+
 * * *
 
 **Endemic Phase** ([Source: GovBN Telegram Post on 9th February 2022](https://t.me/govbnofficial/4786))
@@ -597,6 +609,30 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
     - Individuals who interacted face-to-face with a positive case for more than 30 minutes and at a distance of less than 1 meter in an enclosed area or indoors.
     - Be in the same vehicle and sit at close range (no more than two seats) with a positive case for more than 15 minutes.
 
+- If you find out that you are a close contact to a positive case follow the steps below (Source: [MoH press release on 19th February 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/4926))
+
+   - immediately report it in BruHealth that you have been in close contact within the last 2 days
+   - perform ART tests and report the ART test results to the portal displayed on the current screen (www.moh.gov.bn/ARTReport/)
+   - Members of the public are advised not to wait for the Ministry of Health to contact you as there is a possibility of delays. Let us together bear the responsibility in tackling the spread of the COVID-19 infection
+   - Failure to report a positive ART test result to the portal is an offense under the Infectious Diseases Act Chapter 204.
+
+- (Source: [MoH press release on 21st February 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/4964))
+	
+   - Updated the SOP for monitoring of COVID-19 Positive Cases, i.e. those whose BruHealth code has changed to purple or those who have reported positive ART results on the Ministry's portal. 
+   - These cases will receive a short message (SMS) from the Ministry of Health containing instructions for SMS recipients to update their health status through the link provided to enable the Ministry of Health to monitor the health condition of the individual.
+
+   - Updated the definition of First Day (Day 1) for COVID-19 cases and close contacts
+	
+      - COVID-19 case: BruHealth code changes to purple
+      - Close contact: BruHealth code changes to red
+
+   - For contacts with red code and is undergoing isolation, suddenly obtains a positive ART result
+	
+      - BruHealth code will change to purple after they have uploaded their ART results in the web portal
+      - The day resets into the First Day of his or her new isolation period
+      - In the event of any delay in changing the BruHealth color code for any case or contact, the individual concerned is advised to be patient and continue to isolate themselves from others.
+
+	
 ------------------------------------------------------------------------------
 
 ## Essential Items for Isolation / Quarantine Centre
