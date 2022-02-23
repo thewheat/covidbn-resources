@@ -570,6 +570,12 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
  - Meanwhile, the Ministry of Health is collaborating with Unified National Networks Company (UNN) for sending a short message (SMS) to individuals who have been confirmed positive and have a purple BruHealth code starting, Tuesday, February 15 2022. Members of the public are advised to ensure that their phone numbers are updated in their respective Bru-HIMS account.
 
+- Updated the definition of "close contact" or primary contacts as follows (Source: [MoH Press Release 16th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1165))
+    - Individuals living in the same household with a positive case.
+    - A colleague working in the same room or space with a positive case or sitting next to a positive case.
+    - Individuals who interacted face-to-face with a positive case for more than 30 minutes and at a distance of less than 1 meter in an enclosed area or indoors.
+    - Be in the same vehicle and sit at close range (no more than two seats) with a positive case for more than 15 minutes.
+
 ------------------------------------------------------------------------------
 
 ## Essential Items for Isolation / Quarantine Centre
@@ -622,14 +628,21 @@ Family members are required to send a change of clothing (including undergarment
 ([Source Telegram Post](https://t.me/govbnofficial/2966) / [Source Instagram Post](https://www.instagram.com/p/CTY6Fefhr_d/))
 
 - **Primary contact:**
-    - An individual who has been in close contact with a COVID-19 positive case (they can be detected by Bluetooth contact as well)
-    - Both the primary and secondary contacts will be used with a digital quarantine order
+    - Updated the definition of "close contact" or primary contacts as follows (Source: [MoH Press Release 16th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1165))
+       - Individuals living in the same household with a positive case.
+       - A colleague working in the same room or space with a positive case or sitting next to a positive case.
+       - Individuals who interacted face-to-face with a positive case for more than 30 minutes and at a distance of less than 1 meter in an enclosed area or indoors.
+       - Be in the same vehicle and sit at close range (no more than two seats) with a positive case for more than 15 minutes.
+    - Old Definition: An individual who has been in close contact with a COVID-19 positive case (they can be detected by Bluetooth contact as well)
+    - Both the primary and secondary contacts will be issued with a digital quarantine order
     - Primary contacts are required to take a swab test immediately on the first day (D1) and on the twelve day (D12)
     - If a primary contact tests positive in swab test, then secondary contacts will become primary contacts
 - **Secondary contact:**
     - An individual who has been in close contact with a primary contact and shares the same household
     - The secondary household contact is not required to take a swab test
 
+   
+   
 ------------------------------------------------------------------------------
 
 ## BruHealth Support Email Guideline / Information
