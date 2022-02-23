@@ -31,6 +31,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - [Swab Locations](#swab-locations)
 - [Drive-Thru Swab Locations](#drive-thru-swab-locations)
 - [COVID Positive Categories](#covid-positive-categories)
+- [COVID Positive Management](#covid-positive-management)
 - [Essential Items for Isolation / Quarantine Centre](#essential-items-for-isolation--quarantine-centre)
 - [Home Isolation Policy](#home-isolation-policy)
 - [Digital Quarantine Order](#digital-quarantine-order)
@@ -553,8 +554,23 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 - Category 3: cases that have signs of infection as well as lung infection or pneumonia.
 - Category 4: cases that have lung infection or pneumonia and require oxygen support. These cases normally require close monitoring at the Intensive Care Unit.
 - Category 5: critical cases where the COVID-19 infection has caused multiple organ failure. These cases normally require ventilators or heart/lung machine (ECMO).   
+   
+## COVID Positive Management
+   
+(Source: [MoH Press Release 14 February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1161))
+   
+- Management of positive cases in isolation centers will focus on cases in Categories 3, 4 and 5 that require medical treatment only
+- Cases in Categories 1 and 2 will be allowed to undergo self-isolation at home
+   - Each family or one household will be given a 'health package' that contains necessities such as Antigen Rapid Test (ART) kit, blood oxygen level monitor (oximeter), simple medication and health information leaflets;
+   - The Ministry of Health has collaborated with the Ministry of Transport and Infocommunications, the E-Government National Centre (EGNC) and Comquest Sdn. Bhd. namely the operator for Talian Darussalam 123, for the implemantation of tasks such as assessment of the health status of newly confirmed positive COVID-19 cases; monitoring of positive cases undergoing self-isolation at home; and delivery of ART kits and health packages commencing Tuesday, 15 February 2022;
+ 
+- Confirmation of COVID-19 infection status will be extended to the use of ART i.e. not only relying on RT-PCR swab testing alone. However, members of the public who are not close contact to a positive case are required to have two positive ART tests and subsequently register the results of the positive ART test on the portal displayed on the screen now (http://www.moh.gov.bn/ARTreport) or by contacting Talian Darussalam 123;
+ 
+- Contact tracing will focus more on primary contacts, high-risk contacts and other vulnerable groups where these close contacts are required to report their health status through the Self-Assessment Tool in the BruHealth app. The quarantine period for the close contacts has been updated to 5 days where they are required to undergo ART testing on the first day and the fifth day and are only allowed to complete the quarantine if both ART tests are negative. The close contacts can use their own ART kit. However, close contacts who require an ART kit can call Talian Darussalam 123. Meanwhile, the Prime Minister's Office will also issue a Guideline for civil servants who have been given a Red Code in the BruHealth app in the near future. Therefore, other contacts such as secondary contacts are no longer required to undergo quarantine and are advised to monitor their own health status and conduct ART tests if they start to show symptoms of the infection.
 
-   ------------------------------------------------------------------------------
+ - Meanwhile, the Ministry of Health is collaborating with Unified National Networks Company (UNN) for sending a short message (SMS) to individuals who have been confirmed positive and have a purple BruHealth code starting, Tuesday, February 15 2022. Members of the public are advised to ensure that their phone numbers are updated in their respective Bru-HIMS account.
+
+------------------------------------------------------------------------------
 
 ## Essential Items for Isolation / Quarantine Centre
 
