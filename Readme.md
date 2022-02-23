@@ -30,6 +30,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - [Got Symptoms?](#got-symptoms)
 - [Swab Locations](#swab-locations)
 - [Drive-Thru Swab Locations](#drive-thru-swab-locations)
+- [COVID Positive Categories](#covid-positive-categories)
 - [Essential Items for Isolation / Quarantine Centre](#essential-items-for-isolation--quarantine-centre)
 - [Home Isolation Policy](#home-isolation-policy)
 - [Digital Quarantine Order](#digital-quarantine-order)
@@ -529,6 +530,18 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 - However, patients in Category 1 and Category 2a who are found to be more suitable to undergo treatment in isolation centres for certain reasons, they will be immediately transferred to those centres. This is to ensure they will be able to be given immediate treatment if their condition worsens. Therefore, anyone who is currently in isolation centres is advised to be patient and continue to be monitored at those centres. 
 
 ------------------------------------------------------------------------------
+
+## COVID Positive Categories
+   
+(Source: [MoH Press Release 26th August 2021](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1007))
+   
+- Category 1: cases that do not have any signs of infection.
+- Category 2: cases that have signs of infection but do not have lung infection or pneumonia.
+- Category 3: cases that have signs of infection as well as lung infection or pneumonia.
+- Category 4: cases that have lung infection or pneumonia and require oxygen support. These cases normally require close monitoring at the Intensive Care Unit.
+- Category 5: critical cases where the COVID-19 infection has caused multiple organ failure. These cases normally require ventilators or heart/lung machine (ECMO).   
+
+   ------------------------------------------------------------------------------
 
 ## Essential Items for Isolation / Quarantine Centre
 
