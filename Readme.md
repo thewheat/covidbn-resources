@@ -201,6 +201,18 @@ every 2 weeks, for:
 - To see updates on free slots check and location of Mobile COVID-19 Vaccination Clinic
    - [MoH Instagram account](https://www.instagram.com/mohbrunei/)
    - [GOV.BN Telegram account](https://t.me/govbnofficial)
+
+**Current Vaccines**
+
+([Source PDF](https://www.moh.gov.bn/Shared%20Documents/2019%20ncov/Details%20of%20COVID-19%20Vaccine%20in%20Brunei.pdf) via [MoH COVID-19 Page](https://www.moh.gov.bn/SitePages/COVID-19.aspx))
+
+| No  | Name of Vaccine | Other Name | Manufacturing Site |
+| --- | --- | --- | --- |
+| 1   | SARS-CoV-2 Vaccine (vero cell), Inactivated | Sinopharm BBIBP-CorV | Beijing Institute of Biological Products, Beijing |
+| 2   | COVID-19 Vaccine AstraZeneca Solution for Injection | AstraZeneca Vaxzevria | 1. SK Bioscience Co Limited, Republic of Korea<BR >2. Laboratorio Universal Farma, Espanase<BR >3. Seqirus Pty Ltd, Australia<BR >4. Daiichi Sankyo Biotech Co., Japan<BR >5. Siam Bioscience, Thailand<BR > |
+| 3   | Moderna Covid-19 Vaccine (mRNA-1273 Vaccine) | Moderna Spikevax | Rovi Pharma Industrial Services, S.A. Spain |
+| 4   | Pfizer BioNTech Covid-19 mRNA Vaccine (nucleoside modified) | Pfizer/Biontech Comirnaty | BioNTech Manufacturing GmbH, Germany |
+
 - AstraZeneca is the current default vaccine
     - Sinopharm available on request (Source: [Borneo Bulletin](https://borneobulletin.com.bn/astrazeneca-to-be-default-vaccine-sinopharm-available-on-request/) / [The Scoop](https://thescoop.co/2021/09/18/astrazeneca-will-be-default-vaccine-from-now-on/))
 - Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
