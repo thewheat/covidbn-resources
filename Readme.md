@@ -366,9 +366,9 @@ Medical Reception Station, Bolkiah Garison|Monday - Thursday: 8:00am - 12:00noon
 
 ## Authorized Antigen Rapid Test (ART) Kits
 
-[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2012012022.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+[Source PDF](https://www.moh.gov.bn/Shared%20Documents/2019%20ncov/antigen%20kit%20list/LIST%20OF%20AUTHORISED%20COV-19%20AG%20TEST%20KITS%20IN%20BRUNEI%20DARUSSALAM%2014022022.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
 
-List below based on last update on 12th Januaryy 2022
+List below based on last update on 23rd February 2022
 
 | No  | Name | Manufacturer | Detection | Sample Type |
 | --- | --- | --- | --- | --- |
@@ -420,6 +420,7 @@ List below based on last update on 12th Januaryy 2022
 | 46  | ENCODE SARS-COV-2 Antigen Rapid Test Device | Zhuhai Encode Medical Engineering Co., Ltd., China | Antigen | Nasal / Oropharyngeal
 | 47  | Multi G COVID-19 Check-Sal Antigen Rapid Test | Multi-G bvba, Belgium | Antigen | Saliva
 | 48  | Global Select COVID19 Antigen Rapid Test | Zhejiang Jilong Biotechnology Co., Ltd., China | Antigen | Saliva
+| 49  | ZhongShan COVID-19 Rapid Antigen Test | ZhongShan Biotech Co. Ltd., China | Antigen | Nasopharyngeal /Oropharyngeal
 ------------------------------------------------------------------------------
 
 ## Authorized Antigen Rapid Test (ART) Certification Centres
