@@ -45,7 +45,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
     - [6. Cannot book an appointment - clicking date does not allow me to book](#6-cannot-book-an-appointment---clicking-date-does-not-allow-me-to-book)
     - [7. I forgot my BN Number](#7-i-forgot-my-bn-number)
     - [8. Other BruHealth issues](#8-other-bruhealth-issues)
-
+- [Medical Service related disruptions/changes](#medical-service-related-disruptions-changes)
 ------------------------------------------------------------------------------
 
 ## Official Links
@@ -722,3 +722,19 @@ Attach along with your screenshot error in BruHealth, add photo of IC for verifi
     - BN Number:
     - Issue: Invalid BN
 
+------------------------------------------------------------------------------
+
+## Medical Service related disruptions/changes
+
+   
+### Temporary transfer of services and change for Dental Services
+- Source: [MoH Press Info 13th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1163)
+- Transfer from Pengiran Anak Puteri Hajah Muta-Wakillah Hayatul Bolkiah (PAPHMHB) Health Centre to National Dental Centre, Berakas
+- Starting 12th February to a date to be determined
+- ART tests will be performed for all patients
+- Only emergency treatments will be given
+- Consultations available via
+   - Phone: ☎️ [811 7981](tel:8117981) / ☎️ [811 7936](tel:8117936)
+   - WhatsApp: [+673 811 7635](https://api.whatsapp.com/send?phone=+673%8117635)
+   - Hours: Monday - Thursday, Saturday: 8.00am - 11.30am, 1:45pm - 3:30pm
+	   
