@@ -48,6 +48,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - [Home Isolation Policy](#home-isolation-policy)
 - [Digital Quarantine Order](#digital-quarantine-order)
     - [Primary & Secondary Contacts](#primary--secondary-contacts)
+- [AskMOH](askmoh)
 - [Bruhealth Support Email Guideline / Information](#bruhealth-support-email-guideline--information)
     - [1. Digital QO Related](#1-digital-qo-related)
     - [2. Healthcode (Red/Yellow) Issues](#2-healthcode-redyellow-issues)
@@ -699,9 +700,58 @@ Family members are required to send a change of clothing (including undergarment
     - The secondary household contact is not required to take a swab test
 
    
-   
 ------------------------------------------------------------------------------
 
+## AskMOH
+
+### What is the purpose of the Ministry of Health updating the current Health Protocols?
+[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4948)
+- When we first started having COVID we didn't really know what it was about
+- As we go along they evolve so the disease profile changes
+- Now with Omicron, it is more infectious but mild symptoms and it happens in a short time
+- With these changes it allowed us to review all the measures in place so we can lessen quarantine period and use new technology (like ART kits) so it can lessen the burden of the public
+- Changes based on what is seen in other countries and scientific findings
+
+### When should members of the public get a PCR test if ART testing is now the default detection tool for COVID-19?
+[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4949)
+- PCR is part of Protocol 1: only for specific groups of people e.g.
+   - travelling to a place that requires PCR
+   - referred by a doctor (e.g. going for medical procedure thtat requires PCR)
+- PCR also for equivocal results e.g. first ART test positive but second one negative. PCR will be the final say if person is COVID positive or not
+
+	
+### Are ART test effective in detecting COVID-19?
+[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4950)
+- Before decidinig tot use ART as thte default testing tool made sure backed by scientific evidences
+- ART kit is very powerful and certainly the most practical so do not have to queue in line as results come out in a short time
+- ART will catch you at the time you are infectious
+- PCR can detect small amounts but it may be segments of virus that are no longer infectious
+	
+### What are the Ministry of Health’s efforts in resolving the change of red code issue for close contacts who are allowed to be discharged?
+[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4951)
+- Context: for close contacts who have had 2 negative ART tests and are discharged but Bruhealth code is still red
+- Changing code is done manually
+- There is a list that is being processed and there is a backlog
+- Working with vendor to automate to clear backlog
+- Hopefully to be done by end of the week
+	
+### What should the management of a premise do if they found their staff to be positive for COVID-19?
+[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4955)
+- Do not panic
+- Do not send all workers for PCR, follow new protocols
+   - COVID Positive: self-isolate, do ART
+   - Close contacts: do ART, segregrate if needed
+- Follow definition of close contacts
+- Not necessary to 
+   - close shop
+   - do fogging (using normal disinfection home products is sufficient)
+   
+	
+
+	   
+------------------------------------------------------------------------------
+
+	
 ## BruHealth Support Email Guideline / Information
 
 Details below based on auto response when sending an email to the BruHealth Support email: [bruhealth.support@moh.gov.bn](mailto:bruhealth.support@moh.gov.bn)
@@ -787,3 +837,6 @@ Attach along with your screenshot error in BruHealth, add photo of IC for verifi
    - WhatsApp: [+673 811 7635](https://api.whatsapp.com/send?phone=+673%8117635)
    - Hours: Monday - Thursday, Saturday: 8.00am - 11.30am, 1:45pm - 3:30pm
 	   
+
+	
+------------------------------------------------------------------------------
