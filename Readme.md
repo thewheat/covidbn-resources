@@ -56,6 +56,19 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - [Telegram: @govbnofficial](https://t.me/govbnofficial) - Latest Press Releases and Guidelines from all departments
 - [BruHealth website](https://www.healthinfo.gov.bn/) / [BruHealth Android App](https://play.google.com/store/apps/details?id=egnc.moh.bruhealth&hl=en&gl=US) / [BruHealth iOS App](https://apps.apple.com/us/app/bruhealth/id1509620170)
 - [MoH's About BruHealth Homepage](http://www.moh.gov.bn/bruhealth)
+- [Prime Minister's Office](https://www.pmo.gov.bn/)
+   - [Mass Gathering Guidelines](https://www.pmo.gov.bn/EPG/Perkumpulan-ramai.aspx)
+   - [Religious Gathering Guidelines](https://www.pmo.gov.bn/EPG/Perkumpulan-agama.aspx)
+   - [Shopping and Leisure Guidelines](https://www.pmo.gov.bn/EPG/Membeli-Belah-dan-Riadah.aspx)
+   - [Food and Beverage Guidelines](https://www.pmo.gov.bn/EPG/Makan-Minum.aspx)
+   - [Entertainment Guidelines](https://www.pmo.gov.bn/EPG/Hiburan-dan-Permainan.aspx)
+   - [Sports and Recreation Guidelines](https://www.pmo.gov.bn/EPG/Sukan-dan-Rekreasi.aspx)
+   - [Wellbeing](https://www.pmo.gov.bn/EPG/Kesejahteraan.aspx)
+   - [Public Services Guidelines](https://www.pmo.gov.bn/EPG/Perkhidmatan%20Awam.aspx)
+   - [Education Guidelines](https://www.pmo.gov.bn/EPG/Pendidikan-dan-Pembelajaran.aspx)
+   - [Guidelines for Early Endemic Phase](https://www.pmo.gov.bn/EPG/Home.aspx)
+   - [Travel Applications](https://www.pmo.gov.bn/travelportal/Home.aspx) / [Travel Guidelines](https://www.pmo.gov.bn/EPG/Perjalanan.aspx)
+
 
 ------------------------------------------------------------------------------
 
