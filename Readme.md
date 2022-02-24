@@ -42,6 +42,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - [Got Symptoms?](#got-symptoms)
 - [Swab Locations](#swab-locations)
 - [Drive-Thru Swab Locations](#drive-thru-swab-locations)
+- [COVID Health Protocol](#covid-health-protocol)
 - [COVID Positive Categories](#covid-positive-categories)
 - [COVID Positive Management](#covid-positive-management)
 - [Essential Items for Isolation / Quarantine Centre](#essential-items-for-isolation--quarantine-centre)
@@ -579,6 +580,49 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 ------------------------------------------------------------------------------
 
+## COVID Health Protocol
+
+**Updated: 15 February 2022** (Source: [GOVBN Telegram Post on 15th February 2022](https://t.me/govbnofficial/4868 15th Feb))
+
+### PROTOCOL 1 Received a referral from a doctor to undergo a PCR test
+1. Get a PCR swab test.
+2. Self-isolate immediately from household members and others while awaiting for the PCR result.
+3. If your result is positive or your BruHealth code turns purple, wait for an SMS from the Ministry of Health and then a call from Talian Darussalam (TD) 123 for further management.
+
+### PROTOCOL 2 If you have flu-like symptoms / PROTOCOL 3 No symptoms but tested positive on ART test
+
+   1. Self-isolate immediately from household members and others. 
+   2. Perform an ART test using your own ART kit. 
+   3. If your result is positive, repeat the second ART test within 24-hours. 
+   4.
+      1. If your second ART test result is positive, this means you are confirmed positive for COVID-19. Report your ART test via www.moh.gov.bn/ARTReport or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
+      2. If your second ART test result is negative, you will need to go to the nearest swab centre (within 24-hours) for a PCR test, and then self-isolate at home. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management. If your PCR test result is negative, you will be notified via SMS. Make sure your number is updated in your Bru-HIMS account.
+   5. During the call from TD 123, you will be assigned with an infection category 
+      - **Category 1 and Category 2A**
+         - continue self-isolation at home and will be contacted by TD 123 throughout the period of isolation until discharge. 
+      - **Category 2B until Category 5**
+         - will receive a call from TD 123 to be transferred to a COVID-19 Isolation Centre.
+
+
+### PROTOCOL 4 Identified as a close contact of a positive case
+
+   1. You will receive a call from TD 123. Self-isolate immediately from household members and others. 
+   2. Perform an ART test on the first day using your own ART or call TD 123 if you don't have an ART kit.
+   3.
+      1. If your result is positive, this means you are confirmed positive for COVID-19. Report your ART test via www.moh.gov.bn/ARTReport or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
+      2. If your ART result is negative:
+         - **SCENARIO 1: have not had any symptoms for 5 days of self-isolation**
+             - Continue self-isolation for 5 days. Perform ART test on Day-5 and upload the test results of the Day-1 and Day-5 at www.moh.gov.bn/ARTReport.
+            - If you need any assistance, call TD 123.
+         - **SCENARIO 2: you develop symptoms during your 5 days self-isolation period**
+             - Perform ART testing immediately. If your result is positive, this means you are confirmed positive for COVID-19.
+            - Report your ART test via www.moh.gov.bn/ARTReport or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
+         -If your ART test result is negative, you will need to continue self-isolation until Day-5. Perform ART test on Day-5 and upload the test results of the Day-1 and Day-5 at www.moh.gov.bn/ARTReport. If you need any assistance, call TD 123.
+         - POSITIVE ART TEST ON DAY-5
+             - This means you have tested positive for COVID-19. Report your ART test via www.moh.gov.bn/ARTReport or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
+
+------------------------------------------------------------------------------
+
 ## COVID Positive Categories
    
 (Source: [MoH Press Release 26th August 2021](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1007))
@@ -588,7 +632,9 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 - Category 3: cases that have signs of infection as well as lung infection or pneumonia.
 - Category 4: cases that have lung infection or pneumonia and require oxygen support. These cases normally require close monitoring at the Intensive Care Unit.
 - Category 5: critical cases where the COVID-19 infection has caused multiple organ failure. These cases normally require ventilators or heart/lung machine (ECMO).   
-   
+
+------------------------------------------------------------------------------
+
 ## COVID Positive Management
    
 (Source: [MoH Press Release 14 February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1161))
@@ -633,7 +679,7 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
       - The day resets into the First Day of his or her new isolation period
       - In the event of any delay in changing the BruHealth color code for any case or contact, the individual concerned is advised to be patient and continue to isolate themselves from others.
 
-	
+
 ------------------------------------------------------------------------------
 
 ## Essential Items for Isolation / Quarantine Centre
