@@ -582,7 +582,7 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 ## COVID Health Protocol
 
-**Updated: 15 February 2022** (Source: [GOVBN Telegram Post on 15th February 2022](https://t.me/govbnofficial/4868 15th Feb))
+**Updated: 15 February 2022** (Source: [GOVBN Telegram Post on 15th February 2022](https://t.me/govbnofficial/4868))
 
 ### PROTOCOL 1 Received a referral from a doctor to undergo a PCR test
 1. Get a PCR swab test.
