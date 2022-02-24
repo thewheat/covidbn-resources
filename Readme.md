@@ -98,6 +98,23 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
     - ☎️ [123](tel:123)
     - [WhatsApp: +673 833 3123](https://api.whatsapp.com/send?phone=+673%20833%203123)
 
+- **COVID-19 General Queries** (Source: [GOVBN Telegram Post on 17th Febrary 2022](https://t.me/govbnofficial/4905))
+    - ☎️ [148](tel:148)
+    - [Telegram: @HAL_148 / +673 737 0095](https://t.me/HAL_148)
+    - [WhatsApp: +673 737 0095](https://api.whatsapp.com/send?phone=+673%20737%200095)
+    - Topics:
+        - Health protocol if you are confirmed positive with COVID-19
+        - BruHealth Red code appeals:
+    	    - Secondary Contact Appeals
+    	    - Misclick Appeals
+    	    - Red code due to flight data after completing QO at hotels
+    	    - Red code due to close contact unknown or address issues
+        - Food request for COVID-19 patients
+        - COVID-19 vaccine related queries
+        - Quarantine Order queries
+        - BruHealth App queries
+        - COVID-19 guidelines and latest development
+
 ------------------------------------------------------------------------------
 
 ## Contribute / Donate
