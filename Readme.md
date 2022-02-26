@@ -242,7 +242,7 @@ every 2 weeks, for:
 
 ------------------------------------------------------------------------------
 
-# BruHealth Codes
+## BruHealth Codes
 
 (Source: [MoH page on BruHealth Features](https://www.moh.gov.bn/bruhealth/SitePages/Features.aspx))
 - Green: Healthy.
