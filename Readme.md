@@ -33,6 +33,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - [Contribute / Donate](#contribute--donate)
 - [Endemic Phase](#endemic-phase)
 - [Transition Phase - Operasi Peralihan](#transition-phase---operasi-peralihan)
+- [BruHealth Codes](#bruhealth-codes)
 - [Vaccinations](#vaccinations)
    - [Vaccination Notes](#vaccination-notes)
    - [Vaccination Side Effects](#vaccination-side-effects)
@@ -238,6 +239,17 @@ every 2 weeks, for:
 - The mandatory vaccination requirement is extended to the teaching workforce, non-teaching school staff, staff and guardians at schools and children’s daycare centres, trainers and so on. However, those with health conditions such as allergies will be exempted from this requirement, that is, based on the health certification provided.
 - Meanwhile, planning and preparations for the reopening of schools are still under way, considering that fact the National Vaccination Programme is still being carried out for individuals aged from 12 to 17 years and children below 12 years of age have yet to be vaccinated. Procedures for the reopening of schools, and that children’s daycare centres and other learning institutions will be announced at a later date, that is, as soon as the COVID-19 Steering Committee has completed its review of the plans; and
 - Every business premise that is allowed to open during the Transition Phase is required to abide by all guidelines and SOPs that have been introduced.
+
+------------------------------------------------------------------------------
+
+# BruHealth Codes
+
+(Source: [MoH page on BruHealth Features](https://www.moh.gov.bn/bruhealth/SitePages/Features.aspx))
+- Green: Healthy.
+- Yellow: Mild risk. Take extra precautions.
+- Red: Individuals with influenza like symptoms / with recent travel history / contact with a confirmed case.
+- Purple: Confirmed COVID-19 patient.
+- Blue: Recovered patient and still undergoing 14-day quarantine period.
 
 ------------------------------------------------------------------------------
 
