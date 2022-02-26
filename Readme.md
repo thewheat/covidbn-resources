@@ -709,6 +709,10 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
       - In the event of any delay in changing the BruHealth color code for any case or contact, the individual concerned is advised to be patient and continue to isolate themselves from others.
 
 
+- (Source: [MoH Press Release on 24 February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1169))
+
+    - A new update that will be implemented in the process of monitoring and recovery of COVID-19 patients and close contacts through the BruHealth application which will be launched in the near future. In this update, COVID-19 positive patients and close contacts can submit their ART test results on their BruHealth application on designated days without using the currently available ART Report portal, and the supply of ART for patients and close contacts can also be applied through the BruHealth application. In addition, patients can also submit their self-triage survey during their quarantine period through the BruHealth application to enable the Ministry of Health to manage and monitor patient health better and more efficiently. With this update, BruHealth's color code will also change automatically according to the health reports and ART tests submitted. In the meantime, the public is also advised to constantly update their health status daily to help the Ministry of Health to monitor their health.
+
 ------------------------------------------------------------------------------
 
 ## Essential Items for Isolation / Quarantine Centre
@@ -746,7 +750,12 @@ Family members are required to send a change of clothing (including undergarment
 ------------------------------------------------------------------------------
 
 ## Digital Quarantine Order
+	
+**Ceasing the issuance of digital Quarantine Order** (Source: [MoH Press Release on 24 February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1169))
 
+- Following the reduction of the quarantine period for COVID-19 cases and contacts which was announced in the previous Ministry of Health's Press Conference, the Ministry of Health has ceased the issuance of digital Quarantine Order on the BruHealth application commencing today. This is to facilitate the transition of people whose BruHealth code has changed from purple or red to green or yellow. Members of the public are advised to check their BruHealth colour code before leaving the house.
+
+	
 ([Source Telegram Post](https://t.me/govbnofficial/2709))
 
 - Issued in Bruhealth app
