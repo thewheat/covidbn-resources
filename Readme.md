@@ -7,17 +7,6 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * *
 
-**Swab Centres open on public holidays National Day of Brunei Darussalam on 23 February 2022 and Isra' Mikraj Celebration on 28 February 2022** (Source: [MoH press release on 21st February 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/4964))
-
-- Raja Isteri Pengiran Anak Saleh Hospital Sports Complex Swab Centre (SPOC), from 8am to 8pm;
-- Bridex Hall Drive-Thru Swab Centre, from 9 am to 4:30 pm;
-- Jerudong and Pusat Insani Drive-Thru Swab Centre, from Seria, 9 am to 4:30 pm;
-- Berakas Health Centre, from 2pm to 8:45 pm;
-- SARI 2 Centre, Suri Seri Begawan Hospital, Kuala Belait from 7.30 am to 6 pm.
-
-
-* * *
-
 **Endemic Phase** ([Source: GovBN Telegram Post on 9th February 2022](https://t.me/govbnofficial/4786))
 - Early Endemic Phase will be extended for one (1) month, starting Tuesday, 15th February 2022 until Monday, 14th March 2022.
 - The movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until  Monday, 14th March 2022. 
@@ -357,13 +346,13 @@ Pfizer | 5-6 months after the second dose
 - (Source: [GOVBN Telegram Post on 18th December 2021](https://t.me/govbnofficial/4271))
 - UBD COVID-19 Vaccination Center has been put on hold effective 31st December 2021 (Source: [GOVBN Telegram Post on 2nd January 2022](https://t.me/govbnofficial/4412))
            
-**Temporary Closure of Jubli Emas Bunut Health Centre from 15th February 2022 until 26 February 2022 - services transfered to Indoor Stadium** (Source: [MoH 14th Februrary 2022 press info](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1164))
+**Temporary Closure of Jubli Emas Bunut Health Centre extended from 1st March 2022 until 14 March 2022 - services transfered to Indoor Stadium** (Source: [MoH 28th Februrary 2022 press info](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1171))
            
 
 Vaccination Centres | Operating hours | Available for Walk-In
 --------------------|-----------------|----------------------
 Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday: 2:30pm - 5:00pm.|Yes
-Jubli Emas Bunut Health Centre|**Closed from 15th Feb 2022 - 26th Feb 2022**<BR>Monday - Thursday + Saturday: 8:00am - 3:00pm|Yes
+Jubli Emas Bunut Health Centre|**Closed from 1st March 2022 - 14th March 2022**<BR>Monday - Thursday + Saturday: 8:00am - 3:00pm|Yes
 Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:00am - 12:00noon, 2:00pm - 5:00pm|Yes
 Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
 Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
