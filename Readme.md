@@ -262,83 +262,11 @@ every 2 weeks, for:
 - AstraZeneca is the current default vaccine
     - Sinopharm available on request (Source: [Borneo Bulletin](https://borneobulletin.com.bn/astrazeneca-to-be-default-vaccine-sinopharm-available-on-request/) / [The Scoop](https://thescoop.co/2021/09/18/astrazeneca-will-be-default-vaccine-from-now-on/))
 - Pfizer-BioNTech vaccine will be used for vaccination of adolescents aged 12 to 17 years (Source: [MoH Press Release 18 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1070))
+- Third dose or booster dose
+   - using the Pfizer-BioNTech or Moderna vaccine, subject to stock (Source: [GOV.BN Post on 21st December 2021](https://t.me/govbnofficial/4301))
+   - given to individuals aged 18 years and above, and have completed two doses of vaccination provided a period of 3 months has elapsed since the second dose was received, regardless of the type of vaccine that has been received  (Source: [GOV.BN Post on 21st December 2021](https://t.me/govbnofficial/4301))
+   - Third dose via walk-in is still open only to the elderly, pregnant mothers and differently-abled persons (Source: [GOV.BN Post on 21st December 2021](https://t.me/govbnofficial/4301)
 - Those who have not been vaccinated with the COVID-19 vaccine due to the unavailability of the BruHealth application, these individuals are advised to immediately proceed to get the COVID-19 vaccine injection at vaccination centres via walk-in.  However, they are required to return to their respective homes as soon as they have been vaccinated. The vaccination card can be shown to enforcement officers as vaccination verification, if required. (Source: [MoH Press Release 4th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1088))
-
-* * *
-
-**Booking of Third Dose** (Source: [GOV.BN Post on 21st December 2021](https://t.me/govbnofficial/4301))
-
-- Starts 22 December 2021 at 12:00 noon via the BruHealth iOS/Android app (update to the newest version) for slots from 23 December 2021
-- Third dose via walk-in is still open only to the elderly, pregnant mothers and differently-abled persons.
-- Currently, the administration of the third dose or booster dose in Brunei Darussalam is using the Pfizer-BioNTech or Moderna vaccine, subject to stock availability at the vaccination centre. Scientific studies have found that the use of both types of vaccines as a third dose or booster dose are effective and safe to enhance the immunity in the body and provide protection against the COVID-19 infection, regardless of the type of initial vaccine that has been received as the first and second dose.
-
-**Update on Third Dose of Vaccine** (Source: [MoH Press Release 13th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1129))
-
-- Commencing this Friday, 17 December 2021, the third dose will start to be given to individuals aged 18 years and above, and have completed two doses of vaccination provided a period of 3 months has elapsed since the second dose was received, regardless of the type of vaccine that has been received
-- The change in this time period is following the assessment of the Vaccination Technical Committee which found that two doses of the COVID-19 vaccination may not provide adequate protection to the Omicron variant and a third dose should be given at least three months after the second dose was received in order to increase the vaccination protection against the threat of the variant.
- - The administration of this third dose is on a walk-in basis at any vaccination centres. Meanwhile, for those wishing to book a third dose via the BruHealth app, bookings will be open at the end of December 2021. Members of the public are encouraged to get the third dose of the COVID-19 vaccine to ensure maximum protection can be obtained. 
-
-* * * 
-
-**Notice about non fully vaccinated Government employees and staff** (Source: [MoH Press Release 10th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1126))
-- Government employees and staff who have not completed the COVID-19 vaccine injection and are allowed to work at the office are required to undergo ART testing every two days
-- For Government employees who choose not to get the COVID-19 vaccination, they must bear the cost of the ART test themselves. A certified ART test can be obtained from an ART Certification Centre approved by the Ministry of Health where the validity period of the certificate is for two days
-- The approved ART Certification Centres will display the Art Certification Centre Logo sticker to make it easier for the public to identify the centres. 
-- Disciplinary action will be taken against any Government employees and staff who are not vaccinated and refuse to perform ART testing as directed.
-
-* * * 
-
-**Delayed Administration of the Vaccine** (Source: [MoH Press Release 6th December 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1122))
-- There are some situations where the administration of the vaccine has to be delayed
-- One such situation is that of former COVID-19 patients who have received regeneron while in treatment at the National Isolation Centre where they will only be able to receive the COVID-19 vaccine injections after 90 days of completing the treatment. In this regard, any former patients who are still within 90 days after completing the regeneron treatment and have not been able to receive the COVID-19 vaccine injection are advised to contact the National Isolation Centre during office hours for their Regeneron Treatment Card. The issuance of these cards is to provide confirmation that they are temporarily exempted from the COVID-19 vaccination and these cardholders are allowed to enter premises provided that they comply with the other SOPs
-- The cooperation of the public, especially heads of Government departments and owners or managers of premises are expected to allow Regeneron Treatment Cardholders to enter their respective premises once they have complied with the other SOPs. They are also exempted from performing the SARS-CoV-2 test either RT-PCR or Antigen Rapid Test within the 90-day period. 
-
-* * * 
-
-**Commencing 29th November 2021: Blood Tests for 3,000 individuals who have received two-doses** (Source: [MoH Press Release 27th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1112))
-
-- The Ministry of Health in collaboration with Universiti Brunei Darussalam, Duke-NUS Medical School Singapore, and EVYD Technology will conduct a study on the level of neutralising antibodies produced by the COVID-19 vaccine among the population of Brunei Darussalam. This study will be conducted to compare the protective immunity or immunogenicity of the vaccines in which the findings of this study will be able to assist in devising a strategy for the COVID-19 vaccine booster programme and to optimise public health strategies in controlling the COVID-19 pandemic in the Brunei Darussalam. In this regard, commencing Monday, 29 November 2021, a total of 3,000 selected individuals from the population who have fully completed two-doses of the COVID-19 vaccine, that is either with Sinopharm, Oxford-AstraZeneca or Moderna vaccines will be invited via a short messaging service (SMS) to participate and attend for blood tests at the Pengiran Anak Puteri Rashidah Sa'adatul Bolkiah Institute of Health Sciences, Universiti Brunei Darussalam. Participants will also receive a follow-up appointment after they are administered with the booster dose to assess the effects of the additional dose. The selected people are urged to cooperate by participating in this upcoming study. 
-
-* * *
-
-**Commencing 26th November 2021: Third dose** (Source: [MoH Press Release 25th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1111))
-
-- The third dose of the vaccine for people who are 50 years old 
-- The administration of the third dose is on a walk-in basis at any of the vaccination centres. Although the third dose is not mandatory, the public is encouraged to get it to ensure maximum protection can be obtained, especially for those with chronic diseases. 
-
-
-Vaccine | Suitable Time to Receive the Third Dose
--|-
-Sinopharm | 3 months after the second dose
-AstraZeneca | 5-6 months after the second dose
-Moderna | 5-6 months after the second dose
-Pfizer | 5-6 months after the second dose
-
-
-* * *
-
-**Commencing 8th November 2021: National Vaccination Programme for adolescents aged 12 to 17 years old** (Source: [MoH Press Release 5th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1089))
-
-- [Ministry of Education Media Statement on 4th November](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=861)
-- Vaccination Schedule:
-   - [Vaccination Schedule from Ministry of Education on 6th November 2021](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=864)
-   - [Vaccination Schedule from GOV.BN Telegram Post on 6th November 2021](https://t.me/govbnofficial/3693)
-- All adolescents that will be coming to receive the COVID-19 vaccine at the vaccination centres are required to:
-   - scan the BruHealth QR code during the registration process by teachers before entering the vaccination centre;
-   - bring their smart card and BruHims card (if available);
-   - bring the completed consent form, health screening form and flu desk screening question form;
-   - wear face mask at all time;
-   - practice physical distancing;
-   - bring umbrella and enough drinking water; and
-   - comply with all the instructions given by personnel at the vaccination centre.
-- In addition, all adolescents are also required to declare to health personnel at vaccination centres that:
-   - their BruHealth code is either green or yellow;
-   - they do not have flu-like symptoms;
-   - they are not issued with Quarantine Order or Self-Isolation Notice. For those who have recently recovered from COVID-19, they are to ensure that the date of their vaccination is not less than four weeks from the date they have been confirmed recovered.
-- ([From MoH Press Release 10 November 2021](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1094))
-   - For adolescents aged between 12-17 years who are no longer in schools under the administration of the Ministry of Education, they can book for their vaccination via the BruHealth application commencing 19 November 2021 or attend via walk-in to the Indoor Stadium Vaccination Centre commencing 20 November 2021. Both the BruHealth booking and walk-in basis will also be opened for adolescents who were unable to attend to the vaccination centres during the implementation of the vaccination programme from 8 to 19 November 2021 due to reasons such as undergoing self-isolation or quarantine order. 
-   - Students with special needs, will have appointments arranged at several vaccination centres where they will be given a priority in the form of a special lane (thanks to the collaboration of the Ministry of Health and the Ministry of Education). Whereas for students who are suffering from serious illness and are unable to attend to the vaccination centre, the Ministry of Health will arrange for vaccination service to be carried out at a special time and place; or at their respective homes on a suitable date that will be announced later. 
-
 
 * * *
 
@@ -358,18 +286,6 @@ Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am,
 Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
 Medical Reception Station, Bolkiah Garison|Monday - Thursday: 8:00am - 12:00noon, 1:00pm - 5:00pm<BR>Friday 2:00pm - 8:00pm<BR>Saturday + Sunday: 8:00am - 12:00noon|No
    
-* * * 
-
-**Commencing Sunday, 3 October 2021, as announced in the press conference on 29 September 2021, the Ministry of Health has opened additional vaccination time every Sunday specifically for employees in local companies at the Indoor Stadium Vaccination Centre** ([Source: MoH 4th Oct 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1055)). 
-- Companies wishing to book their vaccination slots at the additional vaccination time can book via 
-   -  the WhatsApp app only, to the lines
-      - [8129148](https://api.whatsapp.com/send?phone=+673%208129148)
-      - [8139148](https://api.whatsapp.com/send?phone=+673%208139148)
-      - [8189148](https://api.whatsapp.com/send?phone=+673%208189148)
-      - [8146148](https://api.whatsapp.com/send?phone=+673%208146148)
-   or via email to [vacc.comp@moh.gov.bn](mailto:vacc.comp@moh.gov.bn)
-- The booking terms and conditions will be uploaded on the Ministry of Health's website. 
-
 * * * 
 
 ### Vaccination Notes
