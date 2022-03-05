@@ -7,6 +7,15 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * *
 
+
+**Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
+- BruHealth application now has an "ART" feature to report ART results in the BruHealth application
+- Use of the previously used ARTreport website has been discontinued
+- Members of the public are also reminded to update their health status in the BruHealth application daily to help the Ministry of Health to monitor your health. 
+
+
+* * *
+
 **Endemic Phase** ([Source: GovBN Telegram Post on 9th February 2022](https://t.me/govbnofficial/4786))
 - Early Endemic Phase will be extended for one (1) month, starting Tuesday, 15th February 2022 until Monday, 14th March 2022.
 - The movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until  Monday, 14th March 2022. 
@@ -517,6 +526,8 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 ## COVID Health Protocol
 
 **Updated: 15 February 2022** (Source: [GOVBN Telegram Post on 15th February 2022](https://t.me/govbnofficial/4868))
+**Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
+
 
 ### PROTOCOL 1 Received a referral from a doctor to undergo a PCR test
 1. Get a PCR swab test.
@@ -529,7 +540,7 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
    2. Perform an ART test using your own ART kit. 
    3. If your result is positive, repeat the second ART test within 24-hours. 
    4.
-      1. If your second ART test result is positive, this means you are confirmed positive for COVID-19. Report your ART test via www.moh.gov.bn/ARTReport or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
+      1. If your second ART test result is positive, this means you are confirmed positive for COVID-19. Report your ART test via BruHealth "ART" feature or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
       2. If your second ART test result is negative, you will need to go to the nearest swab centre (within 24-hours) for a PCR test, and then self-isolate at home. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management. If your PCR test result is negative, you will be notified via SMS. Make sure your number is updated in your Bru-HIMS account.
    5. During the call from TD 123, you will be assigned with an infection category 
       - **Category 1 and Category 2A**
@@ -543,17 +554,17 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
    1. You will receive a call from TD 123. Self-isolate immediately from household members and others. 
    2. Perform an ART test on the first day using your own ART or call TD 123 if you don't have an ART kit.
    3.
-      1. If your result is positive, this means you are confirmed positive for COVID-19. Report your ART test via www.moh.gov.bn/ARTReport or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
+      1. If your result is positive, this means you are confirmed positive for COVID-19. Report your ART test via BruHealth "ART" feature or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
       2. If your ART result is negative:
          - **SCENARIO 1: have not had any symptoms for 5 days of self-isolation**
-             - Continue self-isolation for 5 days. Perform ART test on Day-5 and upload the test results of the Day-1 and Day-5 at www.moh.gov.bn/ARTReport.
+             - Continue self-isolation for 5 days. Perform ART test on Day-5 and upload the test results of the Day-1 and Day-5 at BruHealth "ART" feature.
             - If you need any assistance, call TD 123.
          - **SCENARIO 2: you develop symptoms during your 5 days self-isolation period**
              - Perform ART testing immediately. If your result is positive, this means you are confirmed positive for COVID-19.
-            - Report your ART test via www.moh.gov.bn/ARTReport or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
-         -If your ART test result is negative, you will need to continue self-isolation until Day-5. Perform ART test on Day-5 and upload the test results of the Day-1 and Day-5 at www.moh.gov.bn/ARTReport. If you need any assistance, call TD 123.
+            - Report your ART test via BruHealth "ART" feature or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
+         -If your ART test result is negative, you will need to continue self-isolation until Day-5. Perform ART test on Day-5 and upload the test results of the Day-1 and Day-5 at BruHealth "ART" feature. If you need any assistance, call TD 123.
          - POSITIVE ART TEST ON DAY-5
-             - This means you have tested positive for COVID-19. Report your ART test via www.moh.gov.bn/ARTReport or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
+             - This means you have tested positive for COVID-19. Report your ART test via BruHealth "ART" feature or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
 
 ------------------------------------------------------------------------------
 
@@ -579,7 +590,7 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
    - The Ministry of Health has collaborated with the Ministry of Transport and Infocommunications, the E-Government National Centre (EGNC) and Comquest Sdn. Bhd. namely the operator for Talian Darussalam 123, for the implemantation of tasks such as assessment of the health status of newly confirmed positive COVID-19 cases; monitoring of positive cases undergoing self-isolation at home; and delivery of ART kits and health packages commencing Tuesday, 15 February 2022;
  
 - Confirmation of COVID-19 infection status will be extended to the use of ART i.e. not only relying on RT-PCR swab testing alone. However, members of the public who are not close contact to a positive case are required to have two positive ART tests and subsequently register the results of the positive ART test on the portal displayed on the screen now (http://www.moh.gov.bn/ARTreport) or by contacting Talian Darussalam 123;
- 
+	- BruHealth "ART" feature has replaced ART Report ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
 - Contact tracing will focus more on primary contacts, high-risk contacts and other vulnerable groups where these close contacts are required to report their health status through the Self-Assessment Tool in the BruHealth app. The quarantine period for the close contacts has been updated to 5 days where they are required to undergo ART testing on the first day and the fifth day and are only allowed to complete the quarantine if both ART tests are negative. The close contacts can use their own ART kit. However, close contacts who require an ART kit can call Talian Darussalam 123. Meanwhile, the Prime Minister's Office will also issue a Guideline for civil servants who have been given a Red Code in the BruHealth app in the near future. Therefore, other contacts such as secondary contacts are no longer required to undergo quarantine and are advised to monitor their own health status and conduct ART tests if they start to show symptoms of the infection.
 
  - Meanwhile, the Ministry of Health is collaborating with Unified National Networks Company (UNN) for sending a short message (SMS) to individuals who have been confirmed positive and have a purple BruHealth code starting, Tuesday, February 15 2022. Members of the public are advised to ensure that their phone numbers are updated in their respective Bru-HIMS account.
