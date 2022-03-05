@@ -7,6 +7,13 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * *
 
+**No longer need to call TD123 to report ART test results** (Source: [MoH Press Release on 5th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5094))
+
+With the launch of the ART feature in the BruHealth application on 26 February 2022 that allows members of the public to report their ART results or request for ART kit supplies, members of the public no longer now need to call Talian Darussalam 123 to report their ART test results or request for ART kits. Completing the self-triage in the ART feature will also allow a case to be categorized according to Categories 1, 2A or 2B.
+
+
+* * * 
+
 **Virtual School for 2 weeks & gathering guidelines** ([Source: MoH Press Release 4th March 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1175))
 
 
