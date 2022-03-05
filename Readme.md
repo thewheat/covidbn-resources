@@ -61,6 +61,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - [COVID Positive Management](#covid-positive-management)
 - [Essential Items for Isolation / Quarantine Centre](#essential-items-for-isolation--quarantine-centre)
 - [Home Isolation Policy](#home-isolation-policy)
+- [Home Isolation Notice](#home-isolation-notice)
 - [Digital Quarantine Order](#digital-quarantine-order)
     - [Primary & Secondary Contacts](#primary--secondary-contacts)
 - [AskMOH](askmoh)
@@ -693,11 +694,27 @@ Family members are required to send a change of clothing (including undergarment
 
 ------------------------------------------------------------------------------
 
+## Home Isolation Notice
+	
+(Source: [MoH Press Release on 5th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5094))
+	
+The “Home Isolation Notice” feature has been introduced to replace the Digital Quarantine Order feature which was discontinued on 24 February 2022. This feature is specific to only COVID-19 confirmed cases i.e. those in Categories 1 or 2A. These new features include:
+
+- Daily health status report;
+- In-app notifications on the date of the respective ART tests;
+- Self-isolation period that is adjusted automatically with the update of ART results;
+
+With this new “Home Isolation Notice” feature, the short message service (SMS) previously issued to confirm that a person is a COVID-19 case is hereby discontinued.
+
+
+------------------------------------------------------------------------------
+
 ## Digital Quarantine Order
 	
 **Ceasing the issuance of digital Quarantine Order** (Source: [MoH Press Release on 24 February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1169))
 
 - Following the reduction of the quarantine period for COVID-19 cases and contacts which was announced in the previous Ministry of Health's Press Conference, the Ministry of Health has ceased the issuance of digital Quarantine Order on the BruHealth application commencing today. This is to facilitate the transition of people whose BruHealth code has changed from purple or red to green or yellow. Members of the public are advised to check their BruHealth colour code before leaving the house.
+	
 
 	
 ([Source Telegram Post](https://t.me/govbnofficial/2709))
