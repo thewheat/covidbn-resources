@@ -7,6 +7,21 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * *
 
+**Virtual School for 2 weeks & gathering guidelines** ([Source: MoH Press Release 4th March 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1175))
+
+
+- By command of His Majesty Sultan Haji Hassanal Bolkiah Mu`izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar `Ali Saifuddien Sa`adul Khairi Waddien, Sultan and Yang Di-Pertuan of Brunei Darussalam, the COVID-19 Steering Committee hereby informs that:
+ 
+   - The teaching and learning methods for all schools namely childcare centers, kindergartens, primary schools, secondary schools, religious schools and form six centres under the control of the Ministry of Education, the Ministry of Religious Affairs, and the Ministry of Culture, Youth and Sports will be implemented online or via online learning for two weeks starting from 7 to 19 March 2022. This transtition is to take into account the recent attendance of students which has been significantly reduced and to allow teachers to provide a more complete focus on students. Meanwhile, special consideration will be given to schools that apply to conduct face-to-face teaching and learning for the preparation of students who will sit for international examinations.
+
+      
+   - The guideline for mass gatherings is hereby updated as follows,
+     
+      - Members of the public who organise events in private homes are advised to limit the total attendance to 30 people only by doing ART tests before attending the events. In addition, health guidelines such as wearing a face mask, physical distancing, use of hand sanitizer and so on must always be complied.
+
+         
+      - For events organised in halls, the limit of 300 people is still maintained in compliance with existing health guidelines, including the use of QR codes. However, the event organizer must also ensure that each attendee undergoes an ART test before attending the event.
+
 
 **Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
 - BruHealth application now has an "ART" feature to report ART results in the BruHealth application
@@ -526,6 +541,7 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 ## COVID Health Protocol
 
 **Updated: 15 February 2022** (Source: [GOVBN Telegram Post on 15th February 2022](https://t.me/govbnofficial/4868))
+
 **Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
 
 
