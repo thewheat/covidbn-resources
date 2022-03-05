@@ -69,6 +69,7 @@ With the launch of the ART feature in the BruHealth application on 26 February 2
 - [Essential Items for Isolation / Quarantine Centre](#essential-items-for-isolation--quarantine-centre)
 - [Home Isolation Policy](#home-isolation-policy)
 - [Home Isolation Notice](#home-isolation-notice)
+- [Declaring as Close Contact](#declaring-as-close-contact)
 - [Digital Quarantine Order](#digital-quarantine-order)
     - [Primary & Secondary Contacts](#primary--secondary-contacts)
 - [AskMOH](askmoh)
@@ -713,6 +714,20 @@ The “Home Isolation Notice” feature has been introduced to replace the Digit
 
 With this new “Home Isolation Notice” feature, the short message service (SMS) previously issued to confirm that a person is a COVID-19 case is hereby discontinued.
 
+
+------------------------------------------------------------------------------
+
+## Declaring as Close Contact
+	
+(Source: [MoH Press Release on 5th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5094))
+
+Done via BruHealth app by
+- Filling in the information in the Self-Assessment Tool feature on the first day of making a self-assessment report. It only needs to be done once during the self-isolation period;
+- Reporting the status of the close contact through the Daily Self-Report feature;
+- Submitting the first ART result after knowing of having had contact with a positive COVID-19 case through the ART feature; or
+- Requesting for an ART kit through the ART feature.	
+	
+Currently, the self-isolation period for close contacts has been reduced from 14 days to 5 days.
 
 ------------------------------------------------------------------------------
 
