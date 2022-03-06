@@ -59,6 +59,7 @@ With the launch of the ART feature in the BruHealth application on 26 February 2
    - [Vaccination Side Effects](#vaccination-side-effects)
 - [Authorized Antigen Rapid Test (ART) Kits](#authorized-antigen-rapid-test-art-kits)
 - [Authorized Antigen Rapid Test (ART) Certification Centres](#authorized-antigen-rapid-test-art-certification-centres)
+- [Government Initiative Selling Authorized Antigen Rapid Test (ART) Kits](#government-initiative-selling-authorized-antigen-rapid-test-art-kits)
 - [Health Centres](#health-centres)
 - [Got Symptoms?](#got-symptoms)
 - [Swab Locations](#swab-locations)
@@ -450,6 +451,59 @@ List below based on PDF retrieved on 23rd Januaryy 2022
 
 ------------------------------------------------------------------------------
 
+## Government Initiative Selling Authorized Antigen Rapid Test (ART) Kits
+
+### Vending Machines
+
+#### Locations
+(Source: [MoH Instagram Post on 5th March](https://www.instagram.com/p/CauSs3UBwCF/))
+
+| No  | District | Location |
+| --- | --- | --- |
+|  1  | Brunei-Muara | Raja Isteri Pengiran Anak Saleha (RIPAS) Hospital - OPD shuttle Bus |
+|  2  | Brunei-Muara | Raja Isteri Pengiran Anak Saleha (RIPAS)  Hospital - Women and Children enter (WCC) shuttle bus |
+|  3  | Brunei-Muara | Raja Isteri Pengiran Anak Saleha (RIPAS)  Hospital - External Carpark |
+|  4  | Brunei-Muara | UBD - UBD Sports Complex |
+|  5  | Brunei-Muara | UBD - FOS |
+|  6  | Brunei-Muara | BIBD Connect Lambank |
+|  7  | Brunei-Muara | JPMC |
+|  8  | Brunei-Muara | PJSC |
+|  9  | Brunei-Muara | DST |
+|  10 | Brunei-Muara | Brunei International Airport - Public car park payment counter area |
+|  11 | Brunei-Muara | Taman Mahkota Jubli Emas |
+|  12 | Brunei-Muara | MOH HQ |
+|  13 | Tutong | Hua Ho Tutong |
+|  14 | Temburong | Pengiran Isteri Hajjah Mariam Hospital |
+|  15 | Belait | Suri Seri Begawan Hospital |
+
+
+(Source: [MoH Press Release on 5th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5094))
+
+- Currently only one large box of ART kits containing 25 test kits [Individual ART kits (one test kit per box) will start selling in the near future]
+- Only accept payment in cash (exact change) in denominations of $1, $5, $10 and $ 20.
+
+### Online
+
+(Source: [MoH Press Release on 5th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5094))
+
+- INCOMM https://www.incomm.com.bn - free shipping for purchases over $50 and above
+
+The list of private companies and clinics selling ART kits will be updated from time to time and more information on the sale of ART kits can be found on the Ministry of Health’s website (www.moh.gov.bn).
+
+### General / Other Info
+	
+(Source: [MoH Press Release on 3 March 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1174))
+
+    - Principally, the increase in prices in the market is due to the demand and supply factors caused by the limited supply and there is a high demand around the world. This is also partly driven by changes in Government policy such as in Brunei Darussalam which has started using ART for the confirmation of positive cases since 15 February.
+    - To ensure the continuous supply of ART at an affordable price, the Ministry of Health in collaboration with the Ministry of Finance and Economy will start selling ART via online through one of the government-linked company and private clinics.
+    - Each pack of ART kit will be sold at a price of $ 3.00 per set and delivery cost will also be charged. The supply and delivery will be conducted within three days from the date of purchase. The start date of the sale, Insya Allah, will be announced as soon as the logistical preparations are completed.
+    - Members of the public are advised not to take the opportunity to purchase excessively, but to buy the required amount for personal use or for one family only. The cooperation and patience of the public is also requested while waiting for the delivery to be made.
+    - When the sale of ART kits open in the near future, low-income families who receive monthly welfare assistance from the Ministry of Culture, Youth and Sports and the Brunei Islamic Religious Council (MUIB) through the National Welfare System can apply for the ART kit through the Department of Community Development (JAPEM) and MUIB. Each person in a family will be given 10 ART kits each without any charge for use for a period of 3 months. The distribution of these ART kits will be done through village heads, JAPEM and agents appointed by the Government.
+    The Government is also making preparations to enable ART kits to be sold through vending machines in the near future. These machines will be placed in strategic places and operated by an appointed private company. ART kits sold on these machines will be sold at a price set by the Government.
+    Meanwhile, members of the public can still buy ART kits that are available in the market. Business owners are advised not to take advantage and raise the selling price arbitrarily. The Ministry of Finance and Economy through the Department of Economic Planning and Statistics (JPES) will constantly monitor the market price for the ART kits from time to time.
+    To ensure the quality of ART kits is in accordance with the set standards, the importation and supply of ART kits must be in line with the list that has been approved by the Ministry of Health. A list of ART kits allowed for sale in Brunei Darussalam can be obtained by visiting the Ministry of Health's website (www.moh.gov.bn).
+
+------------------------------------------------------------------------------
     
 ## Health Centres
 
