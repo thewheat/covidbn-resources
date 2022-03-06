@@ -603,47 +603,98 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 ## COVID Health Protocol
 
-**Updated: 15 February 2022** (Source: [GOVBN Telegram Post on 15th February 2022](https://t.me/govbnofficial/4868))
-
+(Source: https://www.moh.gov.bn/SitePages/COVID-19%20Health%20Protocols.aspx)
+**Updated 5th March 2022**
+	
 **Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
 
 
-### PROTOCOL 1 Received a referral from a doctor to undergo a PCR test
-1. Get a PCR swab test.
-2. Self-isolate immediately from household members and others while awaiting for the PCR result.
-3. If your result is positive or your BruHealth code turns purple, wait for an SMS from the Ministry of Health and then a call from Talian Darussalam (TD) 123 for further management.
+### Protocol 1: Received a referral from a doctor to undergo a PCR test
 
-### PROTOCOL 2 If you have flu-like symptoms / PROTOCOL 3 No symptoms but tested positive on ART test
+- Step 1. Get a PCR test.
+- Step 2. Self-isolate immediately and wait for results
+   - If negative: you will receive an SMS to inform your negative result. Monitor your health condition. (No more steps)
+   - If positive: BruHealth Code turns purple (i.e. Day 1). (Continue to Step 3 and above)
+- Step 3. Inform all close contacts to undergo Protocol 4
+- Step 4. You will receive a notification to answer several questions to determine the category of your infection via BruHealth
+   - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
+   - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
+- Step 5. Perform daily health reports in HIN every day until Day 10 through BruHealth
+- Step 6. Report your ART test on Day 5 in BruHealth
+   - Negative: repeat an ART test on Day 6
+	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
+	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+   - Positive: repeat an ART test on Day 7
+	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
+	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
 
-   1. Self-isolate immediately from household members and others. 
-   2. Perform an ART test using your own ART kit. 
-   3. If your result is positive, repeat the second ART test within 24-hours. 
-   4.
-      1. If your second ART test result is positive, this means you are confirmed positive for COVID-19. Report your ART test via BruHealth "ART" feature or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
-      2. If your second ART test result is negative, you will need to go to the nearest swab centre (within 24-hours) for a PCR test, and then self-isolate at home. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management. If your PCR test result is negative, you will be notified via SMS. Make sure your number is updated in your Bru-HIMS account.
-   5. During the call from TD 123, you will be assigned with an infection category 
-      - **Category 1 and Category 2A**
-         - continue self-isolation at home and will be contacted by TD 123 throughout the period of isolation until discharge. 
-      - **Category 2B until Category 5**
-         - will receive a call from TD 123 to be transferred to a COVID-19 Isolation Centre.
+### Protocol 2: If you have flu-like symptoms
 
+- Step 1. Self-isolate immediately
+- Step 2. Perform and report the first ART into BruHealth
+- Step 3. Repeat second ART within 24-hours
+   - If both negative: No futher action required. Seek treatment if symtoms persist
+   - If one negative and one positive: Perform PCR test and follow Protocol 1
+   - If both positive: BruHealth Code turns purple (Day 1). Continue Protocol 2 Steps 4 and above 
+- Step 4. Inform all close contacts to undergo Protocol 4
+- Step 5. You will receive a notification to answer several questions to determine the category of your infection via BruHealth
+   - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
+   - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
+- Step 6. Perform daily health reports in HIN every day until Day 10 through BruHealth
+- Step 7. Report your ART test on Day 5 in BruHealth
+   - Negative: repeat an ART test on Day 6
+	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
+	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+   - Positive: repeat an ART test on Day 7
+	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
+	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
 
-### PROTOCOL 4 Identified as a close contact of a positive case
+### Protocol 3: No symptoms but tested positive on ART test
 
-   1. You will receive a call from TD 123. Self-isolate immediately from household members and others. 
-   2. Perform an ART test on the first day using your own ART or call TD 123 if you don't have an ART kit.
-   3.
-      1. If your result is positive, this means you are confirmed positive for COVID-19. Report your ART test via BruHealth "ART" feature or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
-      2. If your ART result is negative:
-         - **SCENARIO 1: have not had any symptoms for 5 days of self-isolation**
-             - Continue self-isolation for 5 days. Perform ART test on Day-5 and upload the test results of the Day-1 and Day-5 at BruHealth "ART" feature.
-            - If you need any assistance, call TD 123.
-         - **SCENARIO 2: you develop symptoms during your 5 days self-isolation period**
-             - Perform ART testing immediately. If your result is positive, this means you are confirmed positive for COVID-19.
-            - Report your ART test via BruHealth "ART" feature or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
-         -If your ART test result is negative, you will need to continue self-isolation until Day-5. Perform ART test on Day-5 and upload the test results of the Day-1 and Day-5 at BruHealth "ART" feature. If you need any assistance, call TD 123.
-         - POSITIVE ART TEST ON DAY-5
-             - This means you have tested positive for COVID-19. Report your ART test via BruHealth "ART" feature or call TD 123. Wait for an SMS from the Ministry of Health and then a call from TD 123 for further management.
+- Step 1. Self-isolate immediately after reporting a positive ART in BruHealth
+- Step 2. Repeat second ART within 24-hours
+   - If one negative and one positive: Perform PCR test and follow Protocol 1
+   - If both positive: BruHealth Code turns purple (Day 1). Continue Protocol 3 Steps 3 and above 
+- Step 3. Inform all close contacts to undergo Protocol 4
+- Step 4. You will receive a notification to answer several questions to determine the category of your infection via BruHealth
+   - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
+   - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
+- Step 5. Perform daily health reports in HIN every day until Day 10 through BruHealth
+- Step 6. Report your ART test on Day 5 in BruHealth
+   - Negative: repeat an ART test on Day 6
+	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
+	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+   - Positive: repeat an ART test on Day 7
+	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
+	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+	
+### Protocol 4: Identified as a close contact of a positive case
+
+- Step 1. Self-isolate immediately
+   - Declare yourself as a close contact using BruHealth via one of the following
+      - Self-Assessment Tool - Report only once during the isolation period
+      - Daily Self-Report
+      - ART Feature - Report ART result for the first time
+      - ART Feature - Request for ART kit
+   - BruHealth Code turns Red (Day 1)
+- Step 2. Report ART result on Day 1 in BruHealth
+   - Step 3: Positive
+      - BruHealth Code turns purple (Day 1)
+      - Go to Step 5 and above
+   - Step 4: Negative: Report & report ART on Day 5 in BruHealth
+      - Negative: You can be discharged the next day (BruHealth code turns to the original colour automatically)
+      - Positive: Go to Step 5 and above
+- Step 5. Inform all close contacts to undergo Protocol 4
+   - You will receive a notification to answer several questions to determine the category of your infection via BruHealth
+      - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
+      - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
+- Step 5. Perform daily health reports in HIN every day until Day 10 through BruHealth
+   - Negative: repeat an ART test on Day 6
+	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
+	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+   - Positive: repeat an ART test on Day 7
+	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
+	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
 
 ------------------------------------------------------------------------------
 
