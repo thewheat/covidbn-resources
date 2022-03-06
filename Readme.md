@@ -11,6 +11,10 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 With the launch of the ART feature in the BruHealth application on 26 February 2022 that allows members of the public to report their ART results or request for ART kit supplies, members of the public no longer now need to call Talian Darussalam 123 to report their ART test results or request for ART kits. Completing the self-triage in the ART feature will also allow a case to be categorized according to Categories 1, 2A or 2B.
 
+**Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
+- BruHealth application now has an "ART" feature to report ART results in the BruHealth application
+- Use of the previously used ARTreport website has been discontinued
+- Members of the public are also reminded to update their health status in the BruHealth application daily to help the Ministry of Health to monitor your health. 
 
 * * * 
 
@@ -28,12 +32,6 @@ With the launch of the ART feature in the BruHealth application on 26 February 2
 
          
       - For events organised in halls, the limit of 300 people is still maintained in compliance with existing health guidelines, including the use of QR codes. However, the event organizer must also ensure that each attendee undergoes an ART test before attending the event.
-
-
-**Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
-- BruHealth application now has an "ART" feature to report ART results in the BruHealth application
-- Use of the previously used ARTreport website has been discontinued
-- Members of the public are also reminded to update their health status in the BruHealth application daily to help the Ministry of Health to monitor your health. 
 
 
 * * *
@@ -494,14 +492,13 @@ The list of private companies and clinics selling ART kits will be updated from 
 	
 (Source: [MoH Press Release on 3 March 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1174))
 
-    - Principally, the increase in prices in the market is due to the demand and supply factors caused by the limited supply and there is a high demand around the world. This is also partly driven by changes in Government policy such as in Brunei Darussalam which has started using ART for the confirmation of positive cases since 15 February.
-    - To ensure the continuous supply of ART at an affordable price, the Ministry of Health in collaboration with the Ministry of Finance and Economy will start selling ART via online through one of the government-linked company and private clinics.
-    - Each pack of ART kit will be sold at a price of $ 3.00 per set and delivery cost will also be charged. The supply and delivery will be conducted within three days from the date of purchase. The start date of the sale, Insya Allah, will be announced as soon as the logistical preparations are completed.
-    - Members of the public are advised not to take the opportunity to purchase excessively, but to buy the required amount for personal use or for one family only. The cooperation and patience of the public is also requested while waiting for the delivery to be made.
-    - When the sale of ART kits open in the near future, low-income families who receive monthly welfare assistance from the Ministry of Culture, Youth and Sports and the Brunei Islamic Religious Council (MUIB) through the National Welfare System can apply for the ART kit through the Department of Community Development (JAPEM) and MUIB. Each person in a family will be given 10 ART kits each without any charge for use for a period of 3 months. The distribution of these ART kits will be done through village heads, JAPEM and agents appointed by the Government.
-    The Government is also making preparations to enable ART kits to be sold through vending machines in the near future. These machines will be placed in strategic places and operated by an appointed private company. ART kits sold on these machines will be sold at a price set by the Government.
-    Meanwhile, members of the public can still buy ART kits that are available in the market. Business owners are advised not to take advantage and raise the selling price arbitrarily. The Ministry of Finance and Economy through the Department of Economic Planning and Statistics (JPES) will constantly monitor the market price for the ART kits from time to time.
-    To ensure the quality of ART kits is in accordance with the set standards, the importation and supply of ART kits must be in line with the list that has been approved by the Ministry of Health. A list of ART kits allowed for sale in Brunei Darussalam can be obtained by visiting the Ministry of Health's website (www.moh.gov.bn).
+- The increase in prices in the market is due to the demand and supply factors
+- To ensure the continuous supply of ART at an affordable price, the Ministry of Health in collaboration with the Ministry of Finance and Economy will start selling ART via online through one of the government-linked company and private clinics.
+- Each pack of ART kit will be sold at a price of $ 3.00 per set and delivery cost will also be charged. The supply and delivery will be conducted within three days from the date of purchase
+- Members of the public are advised not to take the opportunity to purchase excessively, but to buy the required amount for personal use or for one family only. The cooperation and patience of the public is also requested while waiting for the delivery to be made.
+- When the sale of ART kits open in the near future, low-income families who receive monthly welfare assistance from the Ministry of Culture, Youth and Sports and the Brunei Islamic Religious Council (MUIB) through the National Welfare System can apply for the ART kit through the Department of Community Development (JAPEM) and MUIB. Each person in a family will be given 10 ART kits each without any charge for use for a period of 3 months. The distribution of these ART kits will be done through village heads, JAPEM and agents appointed by the Government.
+- Members of the public can still buy ART kits that are available in the market. Business owners are advised not to take advantage and raise the selling price arbitrarily. The Ministry of Finance and Economy through the Department of Economic Planning and Statistics (JPES) will constantly monitor the market price for the ART kits from time to time.
+- To ensure the quality of ART kits is in accordance with the set standards, the importation and supply of ART kits must be in line with the list that has been approved by the Ministry of Health. A list of ART kits allowed for sale in Brunei Darussalam can be obtained by visiting the Ministry of Health's website (www.moh.gov.bn).
 
 ------------------------------------------------------------------------------
     
@@ -613,88 +610,89 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 - Step 1. Get a PCR test.
 - Step 2. Self-isolate immediately and wait for results
-   - If negative: you will receive an SMS to inform your negative result. Monitor your health condition. (No more steps)
-   - If positive: BruHealth Code turns purple (i.e. Day 1). (Continue to Step 3 and above)
+    - If negative: you will receive an SMS to inform your negative result. Monitor your health condition. (No more steps)
+    - If positive: BruHealth Code turns purple (i.e. Day 1). (Continue to Step 3 and above)
 - Step 3. Inform all close contacts to undergo Protocol 4
 - Step 4. You will receive a notification to answer several questions to determine the category of your infection via BruHealth
-   - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
-   - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
+    - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
+    - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
 - Step 5. Perform daily health reports in HIN every day until Day 10 through BruHealth
 - Step 6. Report your ART test on Day 5 in BruHealth
-   - Negative: repeat an ART test on Day 6
-	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
-	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
-   - Positive: repeat an ART test on Day 7
-	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
-	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+    - Negative: repeat an ART test on Day 6
+        - Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
+        - Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+    - Positive: repeat an ART test on Day 7
+        - Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
+        - Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
 
 ### Protocol 2: If you have flu-like symptoms
 
 - Step 1. Self-isolate immediately
 - Step 2. Perform and report the first ART into BruHealth
 - Step 3. Repeat second ART within 24-hours
-   - If both negative: No futher action required. Seek treatment if symtoms persist
-   - If one negative and one positive: Perform PCR test and follow Protocol 1
-   - If both positive: BruHealth Code turns purple (Day 1). Continue Protocol 2 Steps 4 and above 
+    - If both negative: No futher action required. Seek treatment if symtoms persist
+    - If one negative and one positive: Perform PCR test and follow Protocol 1
+    - If both positive: BruHealth Code turns purple (Day 1). Continue Protocol 2 Steps 4 and above 
 - Step 4. Inform all close contacts to undergo Protocol 4
 - Step 5. You will receive a notification to answer several questions to determine the category of your infection via BruHealth
-   - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
-   - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
+    - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
+    - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
 - Step 6. Perform daily health reports in HIN every day until Day 10 through BruHealth
 - Step 7. Report your ART test on Day 5 in BruHealth
-   - Negative: repeat an ART test on Day 6
-	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
-	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
-   - Positive: repeat an ART test on Day 7
-	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
-	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+    - Negative: repeat an ART test on Day 6
+        - Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
+        - Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+    - Positive: repeat an ART test on Day 7
+        - Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
+        - Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
 
 ### Protocol 3: No symptoms but tested positive on ART test
 
 - Step 1. Self-isolate immediately after reporting a positive ART in BruHealth
 - Step 2. Repeat second ART within 24-hours
-   - If one negative and one positive: Perform PCR test and follow Protocol 1
-   - If both positive: BruHealth Code turns purple (Day 1). Continue Protocol 3 Steps 3 and above 
+    - If one negative and one positive: Perform PCR test and follow Protocol 1
+    - If both positive: BruHealth Code turns purple (Day 1). Continue Protocol 3 Steps 3 and above 
 - Step 3. Inform all close contacts to undergo Protocol 4
 - Step 4. You will receive a notification to answer several questions to determine the category of your infection via BruHealth
-   - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
-   - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
+    - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
+    - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
 - Step 5. Perform daily health reports in HIN every day until Day 10 through BruHealth
 - Step 6. Report your ART test on Day 5 in BruHealth
-   - Negative: repeat an ART test on Day 6
-	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
-	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
-   - Positive: repeat an ART test on Day 7
-	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
-	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+    - Negative: repeat an ART test on Day 6
+        - Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
+        - Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+    - Positive: repeat an ART test on Day 7
+        - Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
+        - Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
 	
 ### Protocol 4: Identified as a close contact of a positive case
 
 - Step 1. Self-isolate immediately
-   - Declare yourself as a close contact using BruHealth via one of the following
-      - Self-Assessment Tool - Report only once during the isolation period
-      - Daily Self-Report
-      - ART Feature - Report ART result for the first time
-      - ART Feature - Request for ART kit
-   - BruHealth Code turns Red (Day 1)
+    - Declare yourself as a close contact using BruHealth via one of the following
+        - Self-Assessment Tool - Report only once during the isolation period
+        - Daily Self-Report
+        - ART Feature - Report ART result for the first time
+        - ART Feature - Request for ART kit
+    - BruHealth Code turns Red (Day 1)
 - Step 2. Report ART result on Day 1 in BruHealth
-   - Step 3: Positive
-      - BruHealth Code turns purple (Day 1)
-      - Go to Step 5 and above
-   - Step 4: Negative: Report & report ART on Day 5 in BruHealth
-      - Negative: You can be discharged the next day (BruHealth code turns to the original colour automatically)
-      - Positive: Go to Step 5 and above
+    - Step 3: Positive
+        - BruHealth Code turns purple (Day 1)
+        - Go to Step 5 and above
+    - Step 4: Negative: Report & report ART on Day 5 in BruHealth
+        - Negative: You can be discharged the next day (BruHealth code turns to the original colour automatically)
+        - Positive: Go to Step 5 and above
 - Step 5. Inform all close contacts to undergo Protocol 4
-   - You will receive a notification to answer several questions to determine the category of your infection via BruHealth
-      - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
-      - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
-- Step 5. Perform daily health reports in HIN every day until Day 10 through BruHealth
-   - Negative: repeat an ART test on Day 6
-	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
-	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
-   - Positive: repeat an ART test on Day 7
-	- Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
-	- Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+    - You will receive a notification to answer several questions to determine the category of your infection via BruHealth
+        - If eligible, a Home Isolation Notice (HIN) will be issued through BruHealth. 
+        - If not eligible for HIN, you will receive a call by the Emas Calling Team (ECT) in the near future
+- Step 6. Perform daily health reports in HIN every day until Day 10 through BruHealth
+- Step 7. Report your ART test on Day 5
+    - Negative: repeat an ART test on Day 6
+        - Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 6)
+        - Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
+    - Positive: repeat an ART test on Day 7
+        - Negative: you will be allowed to be discharged (Please wait for the BruHealth code to change to its original color after Day 8)
+        - Positive: continue HIN until Day 10 (Please wait for the BruHealth code to change to its original color after Day 10)
 
 ------------------------------------------------------------------------------
 
