@@ -484,7 +484,8 @@ List below based on PDF retrieved on 23rd Januaryy 2022
 
 (Source: [MoH Press Release on 5th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5094))
 
-- INCOMM https://www.incomm.com.bn - free shipping for purchases over $50 and above
+- INCOMM via https://www.incomm.com.bn - free shipping for purchases over $50 and above
+- Dart Brunei via https://dartbrunei.art (Source: [MoH Press Release on 8th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5131))
 
 The list of private companies and clinics selling ART kits will be updated from time to time and more information on the sale of ART kits can be found on the Ministry of Health’s website (www.moh.gov.bn).
 
@@ -768,6 +769,13 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
    - Meanwhile, members of the public can still buy ART kits that are available in the market. Business owners are advised not to take advantage and raise the selling price arbitrarily. The Ministry of Finance and Economy through the Department of Economic Planning and Statistics (JPES) will constantly monitor the market price for the ART kits from time to time.
    - To ensure the quality of ART kits is in accordance with the set standards, the importation and supply of ART kits must be in line with the list that has been approved by the Ministry of Health. A list of ART kits allowed for sale in Brunei Darussalam can be obtained by visiting the Ministry of Health's website (www.moh.gov.bn).
 
+- (Source: [MoH Press Release on 8th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5131))
+   - BruHealth epidemic map now usinig residential addresses
+   - Context:
+      - During the first and second waves, a limited transmission of COVID-19 cases enabled accurate cluster identification
+      - As transmission becomes more prevalent during this third wave, determining the original source of infection for a single cluster becomes very difficult. 
+      - Therefore, infection chain when transmission is very high in the community is less accurate and complicates the identification of clusters
+      - To give a picture of the location of positive cases in the country, epidemic mapping has been done through the BruHealth application which is the identification of hotspots based on the residential addresses of the cases.
 
 ------------------------------------------------------------------------------
 
