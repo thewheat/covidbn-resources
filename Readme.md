@@ -5,47 +5,9 @@ This was created to serve as a source of the latest relevant information that I 
 See a problem or room for improvement? If you can fix it, [open a PR](https://github.com/thewheat/covidbn-resources/pulls), otherwise [file an issue](https://github.com/thewheat/covidbn-resources/issues)
 
 
-* * *
-
-**No longer need to call TD123 to report ART test results** (Source: [MoH Press Release on 5th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5094))
-
-With the launch of the ART feature in the BruHealth application on 26 February 2022 that allows members of the public to report their ART results or request for ART kit supplies, members of the public no longer now need to call Talian Darussalam 123 to report their ART test results or request for ART kits. Completing the self-triage in the ART feature will also allow a case to be categorized according to Categories 1, 2A or 2B.
-
-**Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
-- BruHealth application now has an "ART" feature to report ART results in the BruHealth application
-- Use of the previously used ARTreport website has been discontinued
-- Members of the public are also reminded to update their health status in the BruHealth application daily to help the Ministry of Health to monitor your health. 
-
-* * * 
-
-**Virtual School for 2 weeks & gathering guidelines** ([Source: MoH Press Release 4th March 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1175))
-
-
-- By command of His Majesty Sultan Haji Hassanal Bolkiah Mu`izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar `Ali Saifuddien Sa`adul Khairi Waddien, Sultan and Yang Di-Pertuan of Brunei Darussalam, the COVID-19 Steering Committee hereby informs that:
- 
-   - The teaching and learning methods for all schools namely childcare centers, kindergartens, primary schools, secondary schools, religious schools and form six centres under the control of the Ministry of Education, the Ministry of Religious Affairs, and the Ministry of Culture, Youth and Sports will be implemented online or via online learning for two weeks starting from 7 to 19 March 2022. This transtition is to take into account the recent attendance of students which has been significantly reduced and to allow teachers to provide a more complete focus on students. Meanwhile, special consideration will be given to schools that apply to conduct face-to-face teaching and learning for the preparation of students who will sit for international examinations.
-
-      
-   - The guideline for mass gatherings is hereby updated as follows,
-     
-      - Members of the public who organise events in private homes are advised to limit the total attendance to 30 people only by doing ART tests before attending the events. In addition, health guidelines such as wearing a face mask, physical distancing, use of hand sanitizer and so on must always be complied.
-
-         
-      - For events organised in halls, the limit of 300 people is still maintained in compliance with existing health guidelines, including the use of QR codes. However, the event organizer must also ensure that each attendee undergoes an ART test before attending the event.
-
-
-* * *
-
-**Early Endemic Phase** ([Source: GovBN Telegram Post on 12th March 2022](https://t.me/govbnofficial/5189))
-- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until Thursday, 31st March 2022.
-- The movement restriction which was implemented during “Operasi Peralihan”, that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until Thursday, 31st March 2022.
-- Details in "[Endemic Phase](#endemic-phase)" below
-
-* * *
-
-
 **Table of Contents**
 
+- [Recent/Current Highlights](#recentcurrent-highlights)
 - [Official Links](#official-links)
 - [Help Line Contacts](#help-line-contacts)
 - [Contribute / Donate](#contribute--donate)
@@ -81,7 +43,48 @@ With the launch of the ART feature in the BruHealth application on 26 February 2
     - [6. Cannot book an appointment - clicking date does not allow me to book](#6-cannot-book-an-appointment---clicking-date-does-not-allow-me-to-book)
     - [7. I forgot my BN Number](#7-i-forgot-my-bn-number)
     - [8. Other BruHealth issues](#8-other-bruhealth-issues)
-- [Medical Service related disruptions/changes](#medical-service-related-disruptions-changes)
+- [Medical Service related disruptions/changes](#medical-service-related-disruptionschanges)
+
+------------------------------------------------------------------------------
+
+## Recent/Current Highlights
+
+
+**No longer need to call TD123 to report ART test results** (Source: [MoH Press Release on 5th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5094))
+
+With the launch of the ART feature in the BruHealth application on 26 February 2022 that allows members of the public to report their ART results or request for ART kit supplies, members of the public no longer now need to call Talian Darussalam 123 to report their ART test results or request for ART kits. Completing the self-triage in the ART feature will also allow a case to be categorized according to Categories 1, 2A or 2B.
+
+**Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
+- BruHealth application now has an "ART" feature to report ART results in the BruHealth application
+- Use of the previously used ARTreport website has been discontinued
+- Members of the public are also reminded to update their health status in the BruHealth application daily to help the Ministry of Health to monitor your health. 
+
+* * * 
+
+**Virtual School for 2 weeks & gathering guidelines** ([Source: MoH Press Release 4th March 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1175))
+
+
+- By command of His Majesty Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien, Sultan and Yang Di-Pertuan of Brunei Darussalam, the COVID-19 Steering Committee hereby informs that:
+ 
+   - The teaching and learning methods for all schools namely childcare centers, kindergartens, primary schools, secondary schools, religious schools and form six centres under the control of the Ministry of Education, the Ministry of Religious Affairs, and the Ministry of Culture, Youth and Sports will be implemented online or via online learning for two weeks starting from 7 to 19 March 2022. This transtition is to take into account the recent attendance of students which has been significantly reduced and to allow teachers to provide a more complete focus on students. Meanwhile, special consideration will be given to schools that apply to conduct face-to-face teaching and learning for the preparation of students who will sit for international examinations.
+
+      
+   - The guideline for mass gatherings is hereby updated as follows,
+     
+      - Members of the public who organise events in private homes are advised to limit the total attendance to 30 people only by doing ART tests before attending the events. In addition, health guidelines such as wearing a face mask, physical distancing, use of hand sanitizer and so on must always be complied.
+
+         
+      - For events organised in halls, the limit of 300 people is still maintained in compliance with existing health guidelines, including the use of QR codes. However, the event organizer must also ensure that each attendee undergoes an ART test before attending the event.
+
+
+* * *
+
+**Early Endemic Phase** ([Source: GovBN Telegram Post on 12th March 2022](https://t.me/govbnofficial/5189))
+- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until Thursday, 31st March 2022.
+- The movement restriction which was implemented during “Operasi Peralihan”, that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until Thursday, 31st March 2022.
+- Details in "[Endemic Phase](#endemic-phase)" below
+
+
 ------------------------------------------------------------------------------
 
 ## Official Links
