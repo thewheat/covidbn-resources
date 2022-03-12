@@ -36,9 +36,9 @@ With the launch of the ART feature in the BruHealth application on 26 February 2
 
 * * *
 
-**Endemic Phase** ([Source: GovBN Telegram Post on 9th February 2022](https://t.me/govbnofficial/4786))
-- Early Endemic Phase will be extended for one (1) month, starting Tuesday, 15th February 2022 until Monday, 14th March 2022.
-- The movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until  Monday, 14th March 2022. 
+**Early Endemic Phase** ([Source: GovBN Telegram Post on 12th March 2022](https://t.me/govbnofficial/5189))
+- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until Thursday, 31st March 2022.
+- The movement restriction which was implemented during “Operasi Peralihan”, that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until Thursday, 31st March 2022.
 - Details in "[Endemic Phase](#endemic-phase)" below
 
 * * *
@@ -159,10 +159,10 @@ With the launch of the ART feature in the BruHealth application on 26 February 2
 ([Source: GovBN Telegram Post on 12th December 2021](https://t.me/govbnofficial/4193))
 ([Source: GovBN Telegram Post on 10th January 2022](https://t.me/govbnofficial/4495))
 ([Source: GovBN Telegram Post on 9th February 2022](https://t.me/govbnofficial/4786))
+([Source: GovBN Telegram Post on 12th March 2022](https://t.me/govbnofficial/5189))
 
-
-- Early Endemic Phase will be extended for one (1) month, starting Tuesday, 15th February 2022 until Monday, 14th March 2022.
-- The movement restriction which was implemented during "Operasi Peralihan", that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until  Monday, 14th March 2022. 
+- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until Thursday, 31st March 2022.
+- The movement restriction which was implemented during “Operasi Peralihan”, that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until Thursday, 31st March 2022.
 
 ### Measures or Guidelines for Early Endemic Phase
 
