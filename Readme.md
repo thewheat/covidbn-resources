@@ -443,7 +443,6 @@ List below based on last update on 19th March 2022
 | 14 |  eDiagnosis COVID-19 (SARS-CoV-2) Antigen Test Kit | Wuhan EasyDiagnosis Biomedicine Co., Ltd., China | Nasopharyngeal / Oropharyngeal | Professional use |
 | 15 |  ENCODE SARS-COV-2 Antigen Rapid Test Device | Zhuhai Encode Medical Engineering Co., Ltd., China | Oropharyngeal | Professional use |
 | 16 |  ZhongShan COVID-19 Rapid Antigen Test | ZhongShan Biotech Co. Ltd., China | Nasopharyngeal / Oropharyngeal | Professional use |
-|
  
 	
 ------------------------------------------------------------------------------
@@ -459,25 +458,28 @@ List below based on last update on 19th March 2022
 
 ### ART Certification Centres:
 
-[Source PDF](http://www.moh.gov.bn/Shared%20Documents/2019%20ncov/Pusat-pusat%20pesijilan%20ART%201%20December%202021.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
+[Source PDF](https://www.moh.gov.bn/Shared%20Documents/2019%20ncov/Pusat-pusat%20pesijilan%20ART%20Mac%202022.pdf) (via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx))
 
-List below based on PDF retrieved on 23rd Januaryy 2022
+List below based on PDF retrieved on 20th March 2022
 
-| No  | Name | Brand | Cost |
-| --- | --- | --- | --- |
-|  1  | Guardian Health and Beauty (B) Sdn Bhd | Alltest / Flowflex / Medomics / Innovita | $7.50 - $11.00 |
-|  2  | Dr Prema Clinic | Acon / Flowflex / Roche | $20.00 |
-|  3  | Vitaliv Health and Wellness Clinic | Mico Biomed Veri-Q | $15.00 |
-|  4  | Crystal Image Enterprise | Newgene / Salixium / Alltest | $20.00 |
-|  5  | M Clinic | Newgene | $20.00 |
-|  6  | ER Clinic | Flowflex | $10.00 |
-|  7  | Chua & Arif Specialist Clinic | Flowflex / Alltest | $10.00 |
-|  8  | Dr Amir Clinic | Flowflex / Newgene | $18.00 |
-|  9  | UNI Clinic | Newgene / 1copy™ | $20.00 |
-|  10 | Lee Clinic & Dispensary | Flowflex | $16.00 |
-|  11 | Kosi Clinical Lab Sdn Bhd | Alltest / Newgene | $20.00 |
-|  12 | Panaga Health Centre, Brunei Shell Co.Sdn.Bhd | Flowflex | $20.00 |
-
+| No  | Name | Location | Brand | Cost |
+| --- | --- | --- | --- | --- |
+|  1  | Guardian Health and Beauty (B) Sdn Bhd | MULAUT Unit No. 3, Ground Floor, Block A, Lot 30087, Spg. 343, Kg. Mulaut<BR><BR> KIULAP No.13, Block B, Edr BD34246, Lot 38563, Kg. Kiulap, Gadong<BR><BR> BATU BERSURAT Unit No. 5, Ground Floor, Block L, Bangunan Pg Haji Tuah Bin Pg Haji Menudi, Lot 7753, Kg. Pengkalan Gadong<BR><BR> MATA-MATA Unit No. 8, Block A, Serial No 10718, Lot 11620, Kg. Mata Mata Gadong<BR><BR> MUARA Block A, No.6, Ground Floor, Kg. Pekan Muara, Serasa<BR><BR> SUNGAI LIANG Unit A3, Block A, Bangunan Lim Kui Hong, Kg. Gana, Sg. Liang, Kuala Belait<BR><BR> SENGKURONG No. C6, Ground Floor, Block C, Bangunan Sim Kim Huat, Kg. Sengkurong<BR><BR> HUA HO BUNUT No. 4, Ground Floor, Block E, Lot 51181, Kg. Tanjung Bunut, Jalan Tutong<BR><BR> LAMBAK Unit No. 1, Ground Floor, The Commercial Building, Lot 35830, Kg. Lambak (B)<BR><BR> JALAN PRETTY, KUALA BELAIT No. 47, Ground Floor, Jalan Pretty, Kuala Belait<BR><BR> JALAN SULTAN OMAR ALI,SERIA Lot 14, Ground Floor, Jalan Sultan Omar Ali, Seria DELIMA Unit 12, Ground Floor, Block C, Delima Square, Kg. Delima Satu, Jalan Muara<BR><BR> PETANI MALL, TUTONG Unit 20, Ground Floor, Block B, Bgn. Hj Abdul Malik & Anak Anak, Petani Mall, Kg. Petani, Tutong<BR><BR> THE MALL Unit No. 26A, Ground Floor, The Mall, Abdul Razak Complex, Gadong<BR><BR> YAYASAN Lot G14A, Ground Floor, Block B, Kompleks Yayasan Sultan Haji Hassanal Bolkiah, BS8711, Bandar Seri Begawan<BR><BR> RIMBA POINT Lot 58865, Rimba Point, Kg. Rimba<BR><BR> SERI Q-LAP MALL Unit No. B2, Ground Floor, Seri Q-Lap Mall, Lot 22065, Kg. Kiulap<BR><BR> HUA HO MANGGIS Unit No. 7, Ground Floor, Hua Ho Mall, Lot 3815 & 12164, Jalan Muara, Kg. Manggis<BR><BR> ONE CITY Unit G14, Ground Floor, One City Shopping Center, Kg. Sungai Hanching<BR><BR> MID VALLEY Unit G3 & G3A, Mid Valley Shopping Centre, Spg. 58, Jalan Masjid Salambigar, Kg. Sungai Orok, Berakas B<BR><BR> ABDUL RAZAK PLAZA G-08A, G-09, G-09A & G-10, Grd Flr Plaza Abdul Razak, Jalan Laksamana Abdul Razak. Edr No. 17886, Lot 19803, Kg. Parit<BR><BR> ANNAJAT Lot No. 11, Ground Floor, Annajat Complex, Kg. Mata Mata<BR><BR> SERIA PLAZA No. 03-34B, 1st Floor, Seria Plaza, Jalan Sultan Omar Ali, Seria| Alltest / Flowflex / Medomics / Innovita | $11.50 |
+|  2  | Dr Prema Clinic | Unit 5, Hasbullah 1, Gadong, Bandar Seri Begawan Tel: 2421727 / 881 5357 | Acon / Flowflex / Roche | $20.00 |
+|  3  | Vitaliv Health and Wellness Clinic | Aman branch: Unit A6, Ground Floor, Aman Complex, Jalan Aman, Jalan Muara Tel: 2335577 / 8248315<BR><BR>Jerudong branch: C5 & C6, Ground Floor, Jerudong Centre, Simpang 461, Jalan Jerudong Tel: 2610989 / 7328577<BR><BR>KB Branch: Unit 117, First Floor, Seaview Hotel, Pandan, 3678 Jalan Maulana Tel: 3200969 / 8370969 | Mico Biomed Veri-Q | $15.00 |
+|  4  | Crystal Image Enterprise | 1st Floor, Unit 24, Bangunan Jaya Setia Square, Simpang 13, Berakas | Newgene / Salixium / Alltest | $20.00 |
+|  5  | M Clinic | Grand Seria Bowling Centre Jalan Tengah, Seria KB1110 | Newgene | $9.50 |
+|  6  | ER Clinic | Block A, Unit 5, Ground Floor, The Walk, Kg Beribi Tel: 2450870 / 8798870 | Flowflex | $8.00 |
+|  7  | Chua & Arif Specialist Clinic | Unit 1 & 2, Block F, Sempurna Complex, Kg Batu Bersurat, Gadong Tel: 2444222 / 8867666 | Flowflex / Alltest | $20.00 |
+|  8  | Dr Amir Clinic | No. 2, Block A, Spg 48, Jalan Muara, Kampung Delima Tel: 2336801 / 8621711<BR><BR> No. 204, Ground Floor, Hj Yusof Complex, Mile 1, Jalan Tutong Tel: 2222500 / 8875889<BR><BR> No. 3, Block A, Ground Floor, BGN PG Hj Ali Bersaudara, Jalan Jaya Negara, Kg Pandan, Kuala Belait Tel: 3337850 / 8255268 | Flowflex / Newgene | $18.00 |
+|  9  | UNI Clinic | No. 5, Simpang 490, Jalan Muara, Kg Sg Hanching. Tel: 2335403 | Newgene / 1copy™ | $20.00 |
+|  10 | Lee Clinic & Dispensary |  No. 1, Block C, Abdul Razak Complex, Gadong (Opposite the Centrepoint Hotel) Tel: 2428428 / 2438438<BR><BR>Unit 10, Block A, Ground Floor, Komplex Urairah, Kg Kiulap Tel: 2228338 | Flowflex | $16.00 |
+|  11 | Kosi Clinical Lab Sdn Bhd | Unit 23, 1st floor, Jaya Setia Square, Jalan Komersial Jaya Setia, Bandar Seri Begawan | Alltest / Newgene | $20.00 |
+|  12 | Panaga Health Centre, Brunei Shell Co.Sdn.Bhd | Jalan Utara, Seria, Kuala Belait Tel: 3372709 / 3373033 | Flowflex | $20.00 |
+| 13 | Jerudong Park Medical Centre Sdn Bhd | Jerudong Park Medical Centre, Jerudong Park, BG 3122 | - | $18.00 |
+ | 14 | Klinik Noor Rohaya | Unit 1, Simpang 293, Jalan Pasir Berakas, Bandar Seri Begawan BB1314 | - | $15.00 |
+ | 15 | Sutera Clinic, Jerudong Park Medical Centre Sdn Bhd | Level 2, One City Shopping Centre | - | $18.00 |
+ | 16 | Kare Medical Clinic | Unit 1, Ground floor Block D, Kiarong Complex, Lebuhraya Sultan Hassanal Bolkiah | - | $7.00 |
 ------------------------------------------------------------------------------
 
 ## Government Initiative Selling Authorized Antigen Rapid Test (ART) Kits
