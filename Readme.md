@@ -634,11 +634,71 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 ## COVID Health Protocol
 
+### Current Protocol 
+- Effective 24th March 2022 (Source: https://www.moh.gov.bn/SitePages/COVID-19%20Health%20Protocols.aspx)
+
+
+#### Positive For COVID
+- Step 1: Isolate at home
+- Step 2:
+    - If Positive via ART, report on BruHealth
+    - If Positive via PCR, no need to report
+    - BruHealth code will charge to Purple (Day 1)
+- Step 3: Inform close contact to undergo a Quarantine Order at home
+- Step 4: 
+    - BruHealth notification with questions to determine category of infection
+    - If eligible, a Home Isolation Notice (HIN) will be issued
+    - If not eligible for HIN, you will receive a call from Emas Calling Team (ECT) based on your answers
+    - Perform daily health reports in HIN every day until you are discharged
+    - Phone number registered in BruHealth should be your number so you can receive daily notifications
+    - Do ART on Day 1 and Day 6
+- Step 5:
+    - Day 6 ART
+       - If negative: Can be discharged when code changes to green
+       - If positive:
+           - Continue daily ART until negative or until Day 10
+           - Do not need to report daily ART results on BruHealth
+           - Can discharge on Day 11 or when code changes to green
+
+#### Close Contact
+
+- Step 1: 
+    - Isolate immediately and delcared yourself as a close contact in BruHealth via ART
+    - BruHealth code will charge to Red (Day 1)
+feature
+- Step 2:
+    - Report Day 1 ART result on BruHealth
+        - If Positive
+            - BruHealth code will charge to Purple (Day 1)
+            - Proceed to Step 3
+        - If Negative
+            - Repeat & report Day 5 ART on BruHealth
+                - If Negative
+                    - Discharge next day. BruHealth code will turn green
+                - If Positive
+                    - BruHealth code will charge to Purple (Day 1)
+                    - Proceed to Step 3
+    - BruHealth code will charge to Purple (Day 1)
+- Step 3: Inform close contact to undergo a Quarantine Order at home
+- Step 4: 
+    - BruHealth notification with questions to determine category of infection
+    - If eligible, a Home Isolation Notice (HIN) will be issued
+    - If not eligible for HIN, you will receive a call from Emas Calling Team (ECT) based on your answers
+    - Perform daily health reports in HIN every day until you are discharged
+    - Phone number registered in BruHealth should be your number so you can receive daily notifications
+    - Do ART on Day 1 and Day 6
+- Step 5:
+    - Day 6 ART
+        - If negative: Can be discharged when code changes to green
+        - If positive:
+            - Continue daily ART until negative or until Day 10
+            - Do not need to report daily ART results on BruHealth
+            - Can discharge on Day 11 or when code changes to green
+
+	
+### Older Protocols no longer in use
 (Source: https://www.moh.gov.bn/SitePages/COVID-19%20Health%20Protocols.aspx)
 **Updated 5th March 2022**
-	
-**Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
-
 
 ### Protocol 1: Received a referral from a doctor to undergo a PCR test
 
@@ -809,6 +869,19 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
       - As transmission becomes more prevalent during this third wave, determining the original source of infection for a single cluster becomes very difficult. 
       - Therefore, infection chain when transmission is very high in the community is less accurate and complicates the identification of clusters
       - To give a picture of the location of positive cases in the country, epidemic mapping has been done through the BruHealth application which is the identification of hotspots based on the residential addresses of the cases.
+
+- (Source: [MoH Press Release on 23th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5349))
+   - Starting from 10 pm on Thursday, 24 March 2022, as follows:
+      - **I. Recovery Certificate Feature**: This Recovery Certificate feature is a feature specifically for former COVID-19 cases to confirm that they have completed their quarantine and have recovered from the COVID-19 infection. This certificate is an official digital certificate which is a new feature in the BruHealth application that can be downloaded to be printed as a hardcopy, if required by any party who requires official proof of recovery from the Ministry of Health.
+      - **II. ART Feature with QR Code**: The currently available ART feature will be updated to integrate the scannable QR Code on ART kits supplied by
+the Ministry of Health. The purpose of this QR Code scan is to ensure that the ART kit used is unique and not used repeatedly by any party, especially for COVID-19 patients who receive the care package; civil servants; guests for official Government events; and inbound travellers. However, this ART feature can still be used to submit ART reports that do not have a QR Code.
+
+- (Source: [MoH Press Release on 24th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5369))
+   - Starting from 10 pm on Friday, 25 March 2022, as follows:
+	- **I. Update of the Health Protocol for those who test positive for COVID-19** : To make it easier for the public to follow the Health Protocol for COVID-19 cases, the Ministry of Health has summarized the existing Health Protocol as follows:
+	   - Only one positive ART is required as a confirmation for a COVID-19 case and when they upload a positive ART result to the BruHealth application, it counts as Day One;
+	   - Furthermore, positive cases who are undergoing self-isolation are required to undergo ART testing on Day Six. If the ART result is negative, they will be confirmed as recovered and allowed to end the self-isolation when their BruHealth code turns to green. However, if the ART result is still positive on Day Six, they can repeat the ART test the next day and the following days until the ART result is negative. If the ART result remains positive on Day Ten, they will be confirmed as recovered and allowed to end the self-isolation on Day Eleven automatically. Members of the public are advised to use ART kits that are approved by the Ministry of Health and to use is correctly.
+	- **II. Integration of the Overseas COVID-19 Vaccination Records**: COVID-19 vaccination records obtained overseas can now be integrated and updated into the BruHealth application. Members of the public can visit www.healthinfo.gov.bn/travel and complete the application information in the "Overseas COVID-19 Vaccination Records" function. Each application will be reviewed by the Ministry of Health prior to approval.
 
 ------------------------------------------------------------------------------
 
