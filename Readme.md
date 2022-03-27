@@ -49,20 +49,35 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**Starting 01 April 2022, Exemption of RT-PCR swab test for COVID recovered** ([Source: MoH Press Release 27th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5413))
+- Starting 01 April 2022, those entering Brunei Darussalam and had been infected with COVID-19 as well as have evidence of infection such as a Recovery Certificate where the validity period of the evidence of infection is not more than 90 days, are exempted from being required to undergo RT- PCR swab test before leaving the country of origin
+- They are only required to undergo ART testing upon arrival in Brunei Darussalam where the cost of the payment of the ART upon arrival is $20 per person. They are also exempted from undergoing mandatory self-isolation upon arrival in the country.
 
-**No longer need to call TD123 to report ART test results** (Source: [MoH Press Release on 5th March 2022 via GOVBN Telegram Post](https://t.me/govbnofficial/5094))
+* * * 
 
-With the launch of the ART feature in the BruHealth application on 26 February 2022 that allows members of the public to report their ART results or request for ART kit supplies, members of the public no longer now need to call Talian Darussalam 123 to report their ART test results or request for ART kits. Completing the self-triage in the ART feature will also allow a case to be categorized according to Categories 1, 2A or 2B.
+**Ending Movement restrictions starting 1st April 2022 & Early Endemic Phase continuation** ([Source: Borneo Bulletin 27th March 2022](https://borneobulletin.com.bn/movement-restriction-measure-ends-april-1/))
+- Starting 1st April 2022, the movement restriction directive requiring the public to stay home from midnight to 4am under Operasi Peralihan, will be dissolved
+- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until 15th April 2022.
+- Details in "[Endemic Phase](#endemic-phase)" below
 
-**Usage of Bruhealth for ART Report & Discontinuation of http://www.moh.gov.bn/ARTReport website** ([Source: MoH Press Release 26th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1170))
-- BruHealth application now has an "ART" feature to report ART results in the BruHealth application
-- Use of the previously used ARTreport website has been discontinued
-- Members of the public are also reminded to update their health status in the BruHealth application daily to help the Ministry of Health to monitor your health. 
+* * * 
+
+**Closure of isolation centres** ([Source: MoH Press Release 26th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5403))
+- Considering the COVID-19 situation in the country is currently under control in which the number of patients treated at isolation centres continue to 
+- Closure of several isolation centres namely COVID Holding Area Belait (CHABEL6) on 1 April 2022 and COVID Holding Area Mahad (CHAM) on 1 May 2022
+- Only the National Isolation Centre (NIC) is operational to accommodate COVID-19 patients
+- COVID Holding Area Tutong (CHAT) at Sufri Bolkiah Secondary School, Tutong and COVID Isolation Centre (CIC) at Program Khidmat Bakti Negara (PKBN), Temburong will continue to be kept on standby as places of preparation if the number of COVID-19 cases increases again
+- With the closure of these isolation centres, the capacity of isolation centres will be reduced from 1,846 beds at this time to 1,098 beds on 1 May 2022
+
+* * * 
+
+**Continuation of Virtual School, BCGCE and IGCSE exams in person**  ([Source: MoE Media Statement 17th March 2022](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=930))
+- Until 2nd April
+- BCGCE 'O', 'AS', 'A' levels and IGCSE May/Jun 2022 will be held in person
 
 * * * 
 
 **Virtual School for 2 weeks & gathering guidelines** ([Source: MoH Press Release 4th March 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1175))
-
 
 - By command of His Majesty Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien, Sultan and Yang Di-Pertuan of Brunei Darussalam, the COVID-19 Steering Committee hereby informs that:
  
@@ -75,14 +90,6 @@ With the launch of the ART feature in the BruHealth application on 26 February 2
 
          
       - For events organised in halls, the limit of 300 people is still maintained in compliance with existing health guidelines, including the use of QR codes. However, the event organizer must also ensure that each attendee undergoes an ART test before attending the event.
-
-
-* * *
-
-**Early Endemic Phase** ([Source: GovBN Telegram Post on 12th March 2022](https://t.me/govbnofficial/5189))
-- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until Thursday, 31st March 2022.
-- The movement restriction which was implemented during “Operasi Peralihan”, that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until Thursday, 31st March 2022.
-- Details in "[Endemic Phase](#endemic-phase)" below
 
 
 ------------------------------------------------------------------------------
@@ -163,9 +170,10 @@ With the launch of the ART feature in the BruHealth application on 26 February 2
 ([Source: GovBN Telegram Post on 10th January 2022](https://t.me/govbnofficial/4495))
 ([Source: GovBN Telegram Post on 9th February 2022](https://t.me/govbnofficial/4786))
 ([Source: GovBN Telegram Post on 12th March 2022](https://t.me/govbnofficial/5189))
+([Source: Borneo Bulletin 27th March 2022](https://borneobulletin.com.bn/movement-restriction-measure-ends-april-1/))
 
-- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until Thursday, 31st March 2022.
-- The movement restriction which was implemented during “Operasi Peralihan”, that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will also be extended until Thursday, 31st March 2022.
+- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until 15th April 2022.
+- The movement restriction which was implemented during “Operasi Peralihan”, that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will end 1st April 2022
 
 ### Measures or Guidelines for Early Endemic Phase
 
@@ -174,6 +182,9 @@ With the launch of the ART feature in the BruHealth application on 26 February 2
    - Children under 18 years old who have not received or completed their vaccinations are allowed to enter premises without the need for ART testing, provided that they are accompanied by a fully vaccinated adult.
 2. For mass and private gatherings, the venue capacity is limited to 75% of premise capacity or not more than 300 persons (whichever is the lesser number).
    - Buffet service during functions and at restaurants is not permitted, except for dome serving, although distribution of take-home packaged meals are encouraged.
+   - Members of the public who organise events in private homes are advised to limit the total attendance to 30 people only by doing ART tests before attending the events. In addition, health guidelines such as wearing a face mask, physical distancing, use of hand sanitizer and so on must always be complied. ([Source: MoH Press Release 4th March 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1175))
+   - For events organised in halls, the limit of 300 people is still maintained in compliance with existing health guidelines, including the use of QR codes. However, the event organizer must also ensure that each attendee undergoes an ART test before attending the event.
+
 3. For mosques, suraus and prayer halls: The Ministry of Religious Affairs will provide further details on the updated guidelines for this matter in due course.
 4. For government offices,
    - Open at 75% of office capacity for offices and Government service counters while maintaining their respective Business Continuity Plans (BCP). The capacity limits includes its personnel and general public;
@@ -201,13 +212,13 @@ markets and “tamu”, sports facilities and music schools:
    - Critical staff at private business offices and manufacturing and processing premises who have not completed their vaccinations are allowed to work on- site, under the condition that they have obtained negative ART test results, for which the validity period of each test result is two (2) days. The staff are also to be placed in areas that are not exposed to the public.
 
 ### School Sessions
-
-- School sessions under the purview of the Ministry of Education and Ministry of Religious Affairs will commence on Monday, 3rd January 2022, whereas international schools will resume operations according to their respective school term calendars. Only fully vaccinated students will be allowed to return to their school physically and the subsequent reopening of schools will be implemented in stages, in accordance to the provided guidelines. Further details on this matter will be announced by the Ministry of Education and the Ministry of Religious Affairs in due course.
+- Current Situation:
+  - Virtual School/Online learninig until 2nd April
+  - BCGCE 'O', 'AS', 'A' levels and IGCSE May/Jun 2022 will be held in person
+  - ([Source: MoE Media Statement 17th March 2022](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=930))([Source: MoE Media Statement 17th March 2022](https://www.moe.gov.bn/SitePages/NewsArticle.aspx?AID=930))/ ([Source: MoH Press Release 4th March 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1175))
 
 ### Cross-border activities
-The easing of restrictions on cross-border travel, that is, the resumption of
-outbound and inbound travel for non-essential travel via air transportation
-will start on Saturday, 1st January 2022. The details are as follows:
+The easing of restrictions on cross-border travel, that is, the resumption of outbound and inbound travel for non-essential travel via air transportation will start on Saturday, 1st January 2022. The details are as follows:
 
 - For exit-country travel: only citizens and residents of Brunei Darussalam who have completed two (2) vaccine doses between 14 days to six (6) months prior to the date of travel, or those who have received a booster dose beforehand, are permitted for outbound travel without exit-country approval from the Prime Minister’s Office. Currently, the booster dose vaccination programme gives priority to frontliners and individuals aged 50 and above, as well as those at high risk, and it will extended to members of the public who are eligible to receive the booster, starting Friday, 17th December, 2021, InsyaAllah.
 - Exit travel for citizens and residents of Brunei Darussalam who have not received their vaccination for health reasons for essential travel out of the country can be considered, by applying for exit travel approval from the Prime Minister’s Office beforehand.
