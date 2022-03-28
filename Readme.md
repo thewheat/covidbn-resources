@@ -594,12 +594,46 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 - Suri Seri Begawan Hospital (24hrs) (Not for Pre-Departure Swab)
 - Drive-Thru Swab Centre Bridex (Not for Pre-Departure Swab)
 - Drive-Thru Swab Centre Pusat Insani, Seria (Not for Pre-Departure Swab)
+
+### Health centres or private health clinics that offer RT-PCR swab test services for outbound from / inbound travellers into Brunei Darussalam.
+([Source: GOV.BN Telegram Post on 28th March 2022](https://t.me/govbnofficial/5428]))
 - Jerudong Park Medical Centre (JPMC)
-- Panaga Health Centre starting
-
-
-**16th February - Additional Swab locations** (Source: [MoH Press Release 16th February 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1165))
-- In addition, to facilitate the provision of services to the public, especially to individuals travelling abroad, swabs for RT-PCR test can be done at Jerudong Park Medical Centre (JPMC) commencing on Thursday, 17 February 2022 and Panaga Health Centre starting Friday, 18 February 2022. Swab services performed at such centres will incur appropriate charges, which will likely include administration charges.
+   - Jerudong Park Medical Centre, Jerudong Park, BG3122
+   - Monday - Thursday: 8.00 AM - 4.00 PM, Friday: 8.00 AM - 11.30 AM, 2.00 PM - 4.00 PM, Saturday: 8.00 AM - 12.00 PM
+   - +673 2611433 (ask to transfer to swab centre)
+   - swab.request@jpmc.com.bn
+- Panaga Health Centre
+   - Jalan Utara, Panaga, Seria KB2933
+   - Monday - Friday: 2.00 PM - 3.30 PM
+   - +673 8876454 (whatsapp for bookings)
+   - phc@bsp-shell.bn
+   - Instagram: panagahealth
+- Lee Clinic and Dispensary
+   - C-1, Abdul Razak Complex Gadong Centrepoint
+   - Monday - Thursday: 8.00 AM - 4.30 PM, 6.30 PM - 8.30 PM, Friday: 8.00 AM - 11.30 AM, 2.00 PM - 4.30 PM, 6.30 PM 8.30 PM, Saturday: 8.00 AM - 4.30 PM, 6.30 PM - 8.30 PM, Sunday: 8.30 AM - 11.30 AM
+   - +673 2428428 / +673 8128128
+   - leeclinic_gdg@yahoo.com	
+- Klinik Dr Amir
+   - KlinikDrAmir.pcr@gmail.com
+   - Serusop Branch
+      - Monday - Thursday & Saturday: 8.15 AM - 9.00 PM, Friday: 8.15 AM - 9.00 PM (Closed 12.00 PM - 2.15 PM), Sunday: 8.30 AM - 11.00 AM, 7.00 PM - 9.00 PM	
+      - +673 2336801
+   - Batu Satu Branch
+      - Monday - Thursday & Saturday: 8.15 AM - 12.00 PM, 2.00 PM - 5.00 PM, Friday: 8.15 AM - 5.00 PM (Closed 12.00 PM - 2.15 PM)
+      - +673 2222500
+   - KB Branch
+      - Monday - Thursday & Saturday: 8.15 AM - 12.00 PM, 2.00 PM - 5.00 PM, Friday: 8.15 AM - 5.00 PM (Closed 12.00 PM - 2.15 PM)
+      - +673 3337850
+- UNI Clinic
+    - No. 5, Simpang 490 Jalan Muara, Kg. Sg. Hanching, BC2115
+    - Monday - Thursday: 8.00 AM - 8.00 PM, Friday: 8.00 AM - 11.30 AM, 2.30 PM - 5.00 PM, Saturday: 8.00 AM - 4.00 PM, Sunday: 10.00 AM - 2.00 PM
+    - +673 2335403 / +673 7325403
+    - 2uniclinic@gmail.com
+    - Facebook / Instagram: 2uniclinic
+- Klinik Noor Rohaya
+    - No. 1, Simpang 293, Jalan Pasir Berakas
+    - Monday - Saturday: 9.00 AM - 5.00 PM
+    - +673 2390282 / +673 8240282
 
 ------------------------------------------------------------------------------
 
