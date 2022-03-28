@@ -49,6 +49,15 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**Vaccination for children aged 5-11 years** ([Source: MoH Press Release 28th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5438))
+- COVID-19 vaccine for children from the Pfizer Company has safely arrived in the country on Thursday, March 24, 2022;
+- COVID-19 vaccination for children aged 5-11 years will be opened voluntarily at the request and consent of parents or guardians themselves where parents or guardians will be invited to bring their children to get the COVID-19 vaccine to the exisiting vaccination centres via walk-in or booking the vaccination slots through the BruHealth application
+- Commencement date of the COVID-19 vaccination for children aged 5-11 years will be announced in the near future;
+- The administration of COVID-19 vaccine to children is intended to provide protection to the children from the adverse effects of the COVID-19 infection and will not be a condition for children to enter any premises or engage in any activity;
+- Findings from studies so far recommend that children to be given only two doses of the vaccine
+- Ministry of Health will continue to monitor and investigate any cases that report any occurrence of side effects, whether mild or severe to ensure the safety of the use of the vaccine continues to be guaranteed.
+
+
 **Starting 01 April 2022, Exemption of RT-PCR swab test for COVID recovered** ([Source: MoH Press Release 27th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5413))
 - Starting 01 April 2022, those entering Brunei Darussalam and had been infected with COVID-19 as well as have evidence of infection such as a Recovery Certificate where the validity period of the evidence of infection is not more than 90 days, are exempted from being required to undergo RT- PCR swab test before leaving the country of origin
 - They are only required to undergo ART testing upon arrival in Brunei Darussalam where the cost of the payment of the ART upon arrival is $20 per person. They are also exempted from undergoing mandatory self-isolation upon arrival in the country.
@@ -314,6 +323,15 @@ every 2 weeks, for:
    - Third dose via walk-in is still open only to the elderly, pregnant mothers and differently-abled persons (Source: [GOV.BN Post on 21st December 2021](https://t.me/govbnofficial/4301)
 - Those who have not been vaccinated with the COVID-19 vaccine due to the unavailability of the BruHealth application, these individuals are advised to immediately proceed to get the COVID-19 vaccine injection at vaccination centres via walk-in.  However, they are required to return to their respective homes as soon as they have been vaccinated. The vaccination card can be shown to enforcement officers as vaccination verification, if required. (Source: [MoH Press Release 4th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1088))
 
+**Vaccination for children aged 5-11 years** ([Source: MoH Press Release 28th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5438))
+- COVID-19 vaccine for children from the Pfizer Company has safely arrived in the country on Thursday, March 24, 2022;
+- COVID-19 vaccination for children aged 5-11 years will be opened voluntarily at the request and consent of parents or guardians themselves where parents or guardians will be invited to bring their children to get the COVID-19 vaccine to the exisiting vaccination centres via walk-in or booking the vaccination slots through the BruHealth application
+- Commencement date of the COVID-19 vaccination for children aged 5-11 years will be announced in the near future;
+- The administration of COVID-19 vaccine to children is intended to provide protection to the children from the adverse effects of the COVID-19 infection and will not be a condition for children to enter any premises or engage in any activity;
+- Findings from studies so far recommend that children to be given only two doses of the vaccine
+- Ministry of Health will continue to monitor and investigate any cases that report any occurrence of side effects, whether mild or severe to ensure the safety of the use of the vaccine continues to be guaranteed.
+
+	
 * * *
 
 **Operating Hours of Vaccination Centers**
