@@ -49,6 +49,11 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**Face to Face Learning Resumnig 4th / 5th April** ([Source: MoE Press Release 28th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5445))
+
+- Face to face learning will resume 4th/5th April (dependinig on 1 Ramadhan 1443) for all Public, Private and International Educational Institutions under the control of the Ministry of Education, Ministry of Religious Affairs and Ministry of Culture, Youth and Sports [ie Child Care Centers, Special Centers, Kindergarten, Pre-School to Year 6 (only for Primary Schools with a crowd of less than 50 students), Secondary Level, Colleges and Form Six Centers ie Year 7 to Year 13] 
+- The Ministry of Education and the Ministry of Religious Affairs to give special consideration to any Educational Institution applying to operate using the online learning method or Home Based Learning (HBL). 
+
 **Vaccination for children aged 5-11 years** ([Source: MoH Press Release 28th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5438))
 - COVID-19 vaccine for children from the Pfizer Company has safely arrived in the country on Thursday, March 24, 2022;
 - COVID-19 vaccination for children aged 5-11 years will be opened voluntarily at the request and consent of parents or guardians themselves where parents or guardians will be invited to bring their children to get the COVID-19 vaccine to the exisiting vaccination centres via walk-in or booking the vaccination slots through the BruHealth application
