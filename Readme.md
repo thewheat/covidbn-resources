@@ -380,6 +380,10 @@ every 2 weeks, for:
 * * *
 
 **Operating Hours of Vaccination Centers**
+	
+- **Operating Hours for swab test centres, vaccination centres and Talian Harapan 145 during Ramadhan** (Source: [MoH Press Info on 2nd April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1207))
+   - Monday - Thursday and Saturday (closed Fridays, Sundays and public holidays)
+   - 08:30a – 01:00pm
 - (Source: [GOVBN Telegram Post on 18th December 2021](https://t.me/govbnofficial/4271))
 - UBD COVID-19 Vaccination Center has been put on hold effective 31st December 2021 (Source: [GOVBN Telegram Post on 2nd January 2022](https://t.me/govbnofficial/4412))
            
