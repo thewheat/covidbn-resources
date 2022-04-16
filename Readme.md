@@ -49,6 +49,46 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**Closure of Pusat Insani Swab Centre** (Source: [MoH Press Release on 11 April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1213))
+- Pusat Insani Swab Centre, Seria has been closed starting Saturday, 9 April 2022
+- Members of the public in the Belait District who require RT-PCR swab tests can obtain it at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait or any private health clinic that has been given approval to perform the test.
+
+**Operating Hours for swab test centres, vaccination centres and Talian Harapan 145 during Ramadhan** (Source: [MoH Press Info on 2nd April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1207))
+- Swab Centres
+   - Swab Center, Sports Center, Hospital Raja Isteri Pengiran Anak Saleha
+      - Daily (including public holidays)
+         - 08:00am - 2:00pm
+         - 07:30pm - 10:00 pm
+      - Closed Fridays 12:00noon - 2:00pm
+   - Drive-Thru Bridex, Jerudong
+      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
+      - 08:00am - 02:00pm
+   - Berakas Health Centre
+      - Monday - Thursday, Saturday
+         - 08:00am - 2:00pm
+         - 07:30pm - 10:00 pm
+      - Fridays, Sundays and public holidays
+         - 02:00pm - 04:00pm
+         - 07:30pm - 10:30pm
+   - Pengkalan Batu Health Centre
+      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
+      - 08:00am - 2:00pm
+   - SARI 2 Centre, Hospital Suri Seri Begawan
+      - Daily (including public holidays)
+      - 09:00am – 01:00pm
+      - 08:30pm – 11:00pm  
+   - Sungai Kelugos Health Centre
+      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
+      - 08:00am – 02:00pm 
+- Vaccination Centres
+   - Monday - Thursday and Saturday (closed Fridays, Sundays and public holidays)
+   - 08:30a – 01:00pm 
+- Hope Line 145:
+   - Daily 
+   - 8:00 am – 5:30 pm
+   - 7:30 pm – 10:00 pm
+
+
 **Face to Face Learning Resumnig 4th / 5th April** ([Source: MoE Press Release 28th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5445))
 
 - Face to face learning will resume 4th/5th April (dependinig on 1 Ramadhan 1443) for all Public, Private and International Educational Institutions under the control of the Ministry of Education, Ministry of Religious Affairs and Ministry of Culture, Youth and Sports [ie Child Care Centers, Special Centers, Kindergarten, Pre-School to Year 6 (only for Primary Schools with a crowd of less than 50 students), Secondary Level, Colleges and Form Six Centers ie Year 7 to Year 13] 
@@ -613,10 +653,53 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 (Source: [BruHealth app -> Epidemic Map -> Medical Resources](https://www.healthinfo.gov.bn/) & [HAL 148](#contacts))
 
+*** 
+
+[MoH Press Release on 11 April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1213)
+- Pusat Insani Swab Centre, Seria has been closed starting Saturday, 9 April 2022
+- Members of the public in the Belait District who require RT-PCR swab tests can obtain it at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait or any private health clinic that has been given approval to perform the test.
+
+
+**Operating Hours for swab test centres, vaccination centres and Talian Harapan 145 during Ramadhan** (Source: [MoH Press Info on 2nd April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1207))
+- Swab Centres
+   - Swab Center, Sports Center, Hospital Raja Isteri Pengiran Anak Saleha
+      - Daily (including public holidays)
+         - 08:00am - 2:00pm
+         - 07:30pm - 10:00 pm
+      - Closed Fridays 12:00noon - 2:00pm
+   - Drive-Thru Bridex, Jerudong
+      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
+      - 08:00am - 02:00pm
+   - Berakas Health Centre
+      - Monday - Thursday, Saturday
+         - 08:00am - 2:00pm
+         - 07:30pm - 10:00 pm
+      - Fridays, Sundays and public holidays
+         - 02:00pm - 04:00pm
+         - 07:30pm - 10:30pm
+   - Pengkalan Batu Health Centre
+      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
+      - 08:00am - 2:00pm
+   - SARI 2 Centre, Hospital Suri Seri Begawan
+      - Daily (including public holidays)
+      - 09:00am – 01:00pm
+      - 08:30pm – 11:00pm  
+   - Sungai Kelugos Health Centre
+      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
+      - 08:00am – 02:00pm 
+- Vaccination Centres
+   - Monday - Thursday and Saturday (closed Fridays, Sundays and public holidays)
+   - 08:30a – 01:00pm 
+- Hope Line 145:
+   - Daily 
+   - 8:00 am – 5:30 pm
+   - 7:30 pm – 10:00 pm
+
+*** 
+	
 - Sports Complex Screening Centre, RIPAS Hospital (8am-8pm starting 16th October 2021) (Source: [MoH Press Release on 15 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1066)
 - Suri Seri Begawan Hospital (24hrs) (Not for Pre-Departure Swab)
 - Drive-Thru Swab Centre Bridex (Not for Pre-Departure Swab)
-- Drive-Thru Swab Centre Pusat Insani, Seria (Not for Pre-Departure Swab)
 
 ### Health centres or private health clinics that offer RT-PCR swab test services for outbound from / inbound travellers into Brunei Darussalam.
 ([Source: GOV.BN Telegram Post on 28th March 2022](https://t.me/govbnofficial/5428]))
@@ -664,15 +747,26 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 [Source - MoH 29th Aug 2021 press release](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1010)
 
+***
+	
+[MoH Press Release on 11 April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1213)
+- Pusat Insani Swab Centre, Seria has been closed starting Saturday, 9 April 2022
+- Members of the public in the Belait District who require RT-PCR swab tests can obtain it at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait or any private health clinic that has been given approval to perform the test.
+
+***
+	
 - Locations
     - Bridex Drive-Thru Swab Centre, Jerudong
-    - The Pusat Insani, Seria Drive-Thru Swab Centre
 - Hours
+   - **Operating Hours for swab test centres, vaccination centres and Talian Harapan 145 during Ramadhan** (Source: [MoH Press Info on 2nd April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1207))
+      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
+      - 08:00am - 02:00pm
     - Monday to Thursday and Saturday, from 8:00 am to 8:00 pm.
     - Bridex Drive-Thru updated hours ([Source - MoH 7th Feb 2022 press release](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1159))
        - Monday to Thursday and Saturday: 8:00 AM until 7:15 PM
        - Friday: 8:00 AM until 11:00 AM, 2:15 PM until 7:15 PM
        - Sunday: 8:00 AM until 5:00 PM
+    
 - Book via QueUp app ([Android](https://play.google.com/store/apps/details?id=bn.com.dotroot.queueup) / [iOS](https://apps.apple.com/bn/app/queup/id1267313350))
 - Guidelines:
     - This service is only for individuals who have a **valid Bru-HIMS number**;
