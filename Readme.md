@@ -53,6 +53,15 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - Pusat Insani Swab Centre, Seria has been closed starting Saturday, 9 April 2022
 - Members of the public in the Belait District who require RT-PCR swab tests can obtain it at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait or any private health clinic that has been given approval to perform the test.
 
+* * *
+
+**3rd dose for adolescents aged 12 to 17 years starts 16th April 2022**
+- ([Source: MoH Press Release 10th Apriil 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1212))
+   - Third dose for children and adolescents aged 12 to 17 years old will begin on Saturday, 16 April 2022 at all vaccination centres nationwide. 
+   - Children and adolescents aged 12 to 17 years old who have received the second dose of the COVID-19 vaccination of at least in the past three months can book for a third dose vaccination slot through the BruHealth application which will start opening on Friday, 15 April 2022 at 12 noon.
+
+* * *
+
 **Operating Hours for swab test centres, vaccination centres and Talian Harapan 145 during Ramadhan** (Source: [MoH Press Info on 2nd April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1207))
 - Swab Centres
    - Swab Center, Sports Center, Hospital Raja Isteri Pengiran Anak Saleha
@@ -88,6 +97,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
    - 8:00 am – 5:30 pm
    - 7:30 pm – 10:00 pm
 
+* * * 
 
 **Face to Face Learning Resumnig 4th / 5th April** ([Source: MoE Press Release 28th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5445))
 
@@ -102,6 +112,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - Findings from studies so far recommend that children to be given only two doses of the vaccine
 - Ministry of Health will continue to monitor and investigate any cases that report any occurrence of side effects, whether mild or severe to ensure the safety of the use of the vaccine continues to be guaranteed.
 
+* * *
 
 **Starting 01 April 2022, Exemption of RT-PCR swab test for COVID recovered** ([Source: MoH Press Release 27th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5413))
 - Starting 01 April 2022, those entering Brunei Darussalam and had been infected with COVID-19 as well as have evidence of infection such as a Recovery Certificate where the validity period of the evidence of infection is not more than 90 days, are exempted from being required to undergo RT- PCR swab test before leaving the country of origin
@@ -367,7 +378,10 @@ every 2 weeks, for:
    - given to individuals aged 18 years and above, and have completed two doses of vaccination provided a period of 3 months has elapsed since the second dose was received, regardless of the type of vaccine that has been received  (Source: [GOV.BN Post on 21st December 2021](https://t.me/govbnofficial/4301))
    - Third dose via walk-in is still open only to the elderly, pregnant mothers and differently-abled persons (Source: [GOV.BN Post on 21st December 2021](https://t.me/govbnofficial/4301)
 - Those who have not been vaccinated with the COVID-19 vaccine due to the unavailability of the BruHealth application, these individuals are advised to immediately proceed to get the COVID-19 vaccine injection at vaccination centres via walk-in.  However, they are required to return to their respective homes as soon as they have been vaccinated. The vaccination card can be shown to enforcement officers as vaccination verification, if required. (Source: [MoH Press Release 4th November 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1088))
-
+- ([Source: MoH Press Release 10th Apriil 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1212))
+   - Third dose for children and adolescents aged 12 to 17 years old will begin on Saturday, 16 April 2022 at all vaccination centres nationwide. 
+   - Children and adolescents aged 12 to 17 years old who have received the second dose of the COVID-19 vaccination of at least in the past three months can book for a third dose vaccination slot through the BruHealth application which will start opening on Friday, 15 April 2022 at 12 noon.
+	
 **Vaccination for children aged 5-11 years** ([Source: MoH Press Release 28th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5438))
 - COVID-19 vaccine for children from the Pfizer Company has safely arrived in the country on Thursday, March 24, 2022;
 - COVID-19 vaccination for children aged 5-11 years will be opened voluntarily at the request and consent of parents or guardians themselves where parents or guardians will be invited to bring their children to get the COVID-19 vaccine to the exisiting vaccination centres via walk-in or booking the vaccination slots through the BruHealth application
