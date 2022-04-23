@@ -1291,7 +1291,10 @@ Attach along with your screenshot error in BruHealth, add photo of IC for verifi
 
 
 ### Opening of dental services
-- Source: [MoH Press Info 11th April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1214)
+- Sources: [MoH Press Info 21st April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1224) / [MoH Press Info 11th April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1214)
+- Dental Clinic at Pengira Anak Puteri Hajah Rashidah Saadatul Bolkiah (PAPRSB) Health Centre, Sungai Asamm
+   - Opens: 21.04.2022	
+   - 8am - 2pm
 - Dental Clinic at Pengiran Anak Puteri Hajah Muta-Wakillah Hayatul Bolkiah (PAPHMHB) Health Centre, Gadong
    - Opens: 13.04.2022	
    - 8am - 2pm
