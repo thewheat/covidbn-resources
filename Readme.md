@@ -49,6 +49,13 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**Early Endemic Phase extended until 31t May 2022** ([Source: GOV.BN Telegram Post on 22nd April 2022](https://t.me/govbnofficial/5696))
+- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended for one (1) month, from Sunday, 1st May 2022 until Tuesday, 31st May 2022.
+- Details in "[Endemic Phase](#endemic-phase)" below
+
+* * * 
+
+
 **Closure of Pusat Insani Swab Centre** (Source: [MoH Press Release on 11 April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1213))
 - Pusat Insani Swab Centre, Seria has been closed starting Saturday, 9 April 2022
 - Members of the public in the Belait District who require RT-PCR swab tests can obtain it at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait or any private health clinic that has been given approval to perform the test.
@@ -117,13 +124,6 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 **Starting 01 April 2022, Exemption of RT-PCR swab test for COVID recovered** ([Source: MoH Press Release 27th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5413))
 - Starting 01 April 2022, those entering Brunei Darussalam and had been infected with COVID-19 as well as have evidence of infection such as a Recovery Certificate where the validity period of the evidence of infection is not more than 90 days, are exempted from being required to undergo RT- PCR swab test before leaving the country of origin
 - They are only required to undergo ART testing upon arrival in Brunei Darussalam where the cost of the payment of the ART upon arrival is $20 per person. They are also exempted from undergoing mandatory self-isolation upon arrival in the country.
-
-* * * 
-
-**Ending Movement restrictions starting 1st April 2022 & Early Endemic Phase continuation** ([Source: Borneo Bulletin 27th March 2022](https://borneobulletin.com.bn/movement-restriction-measure-ends-april-1/))
-- Starting 1st April 2022, the movement restriction directive requiring the public to stay home from midnight to 4am under Operasi Peralihan, will be dissolved
-- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until 15th April 2022.
-- Details in "[Endemic Phase](#endemic-phase)" below
 
 * * * 
 
@@ -236,12 +236,47 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 ([Source: GovBN Telegram Post on 9th February 2022](https://t.me/govbnofficial/4786))
 ([Source: GovBN Telegram Post on 12th March 2022](https://t.me/govbnofficial/5189))
 ([Source: Borneo Bulletin 27th March 2022](https://borneobulletin.com.bn/movement-restriction-measure-ends-april-1/))
+([Source: GovBN Telegram Post on 12th Apriil 2022](https://t.me/govbnofficial/5617))
+([Source: GovBN Telegram Post on 22nd April 2022](https://t.me/govbnofficial/5696))
 
-- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until 15th April 2022.
-- The movement restriction which was implemented during “Operasi Peralihan”, that is, the instruction to stay at home from 12.00 a.m. till 4.00 a.m. will end 1st April 2022
+- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until 31st May 2022.
+- There are currently no movement restrictions
+   - Previous restrictions (stay at home from 12.00 a.m. till 4.00 a.m) implemented during “Operasi Peralihan” ended 1st April 2022
 
 ### Measures or Guidelines for Early Endemic Phase
 
+**Updates from 22nd April 2022**
+
+1. **All officers and staff of the Government of His Majesty the Sultan and Yang Di-Pertuan of Brunei Darussalam** including those working at service counters and as frontliners – **regardless of their vaccination status – (except those with a purple BruHealth code)** are required to **return to work physically at their respective offices, starting Monday, 25th April 2022.<BR><BR>**Further details on this matter will be conveyed tomorrow through the Prime Minister’s Office Circular.**<BR><BR>Therefore, the private sector is also encouraged to carry out this guideline and further consideration is subject to respective employers;
+
+2. **Day Pass Protocol – which is provided for Government officers and staff under red code to replace the requirement for quarantine with negative Antigen Rapid Test (ART) for five (5) days – will be extended to the public**, whereby those under red code will be required to report and verify their negative ART result daily for five (5) days through the BruHealth application to allow them to enter premises each day. This measure will be implemented starting **Friday, 6th May 2022**;
+
+3.  On cross-border matters:
+  - i. **The exit-country guideline, that is, w requirement to be fully vaccinated with a third dose (booster dose) for citizens and residents of Brunei Darussalam and those who intend to return to the country is extended to individuals aged 12 to 17** who intend to travel out of the country. This requirement will be implemented for outbound travels starting from **Sunday, 15th May 2022.**
+
+  - ii. Taking into consideration the effectiveness of ART testing in detecting active infections amongst individuals, as shown by data analysis (concordance and Negative Predictive Value), local statistics have shown that there is no difference in infection risk between those arriving from countries under the Travel Green List (TGL) and those arriving from non-TGL countries, as well as the coordination of health protocols in the country, whereupon cross-border travel protocols will be updated and subsequently implemented starting Friday, 6th May 2022, as follows:
+   
+    - (i) Non-essential entry travel into Brunei Darussalam via air is **permitted for those who have completed their COVID-19 vaccinations from any country** without Entry Travel Pass (ETP) applications;
+    - (ii) The definition for full vaccination is amended from only having two (2) doses of COVID-19 vaccine to **having a booster dose or if booster dose is not yet received, individuals without a booster dose are required to have two (2) doses of COVID-19 vaccinations, of which the second dose has to be obtained not more than three (3) months prior to date of entry into the country;**
+    - (iii) **Removal of categorization** of TGL and non-TGL countries;
+    - (iv) The difference in health protocols for those entering the country is based on their vaccination status only, whereby the health protocols for those who are not fully vaccinated are the same as those who have arrived from non-TGL countries;
+    - (v) Fully-vaccinated individuals who are entering the country are required to **perform ART three (3) times after their arrival in the country**, that is, on day of arrival (D1), day two and day three. This means that undergoing RT-PCR test upon arrival and self-isolation are no longer required, only if the ART results are negative. **A $40 charge will be imposed for the three (3) ART kits.**
+    - (vi) Individuals who are **not yet fully-vaccinated** are only permitted to enter the country if they can verify that they are medically exempted from receiving COVID-19 vaccinations, and are required to **undergo ART upon arrival and RT-PCR test on the third day after arrival**. They are also required to undergo self-isolation until RT-PCR results are obtained. **The $100 charge for both ART and RT-PCR still remains.**
+
+  - iii. Cross-border activities through land and sea control posts are still not permitted, except for essential purposes only. However, citizens and permanent residents of Brunei Darussalam returning to the country via land or sea from **essential travel** are allowed to undergo self-isolation at home or at hotels;
+
+4. On the upcoming Hari Raya Aidilfitri celebrations:
+   - i. Private events at home are allowed for close family members only in accordance to the current capacity permitted for mass gatherings, that is, a maximum of 30 guests (not including the host) or 300 people for events held in halls, while also observing health guidelines as follows:-
+      - (i) Performing ART before leaving the house to visit close family members. Those with a positive result are required to report to the BruHealth application and self-isolate at home;
+      - (ii) Wearing mask except when eating and drinking;
+      - (v) Frequent washing of hands or use of hand sanitizer; and
+      - (vi) Visiting in groups as well as shaking hands are not encouraged.
+
+      The public is reminded to take precautionary steps in protecting each other, especially for high-risk individuals such as the elderly. Therefore, people are advised to be extra careful and to stay at home if they feel unwell.
+
+5. Registered domestic runners under the Ministry of Transport and Infocommunications (MTIC) are required to perform **ART twice (2) a week and upload ART results to the BruHealth application**. Domestic runners are no longer required to undergo RT-PCR every fortnight, similar to the requirement for transporters which was announced previously in a Media Statement by the COVID-19 Steering Committee.
+
+* * * 
 1. All individuals are allowed to enter government and private premises, or attend events, regardless of their vaccination status. This is the general requirement for entry into any premises. However,
    - Unvaccinated individuals are required to undergo Antigen Rapid Test (ART), for which the validity period of the test result is two (2) days.
    - Children under 18 years old who have not received or completed their vaccinations are allowed to enter premises without the need for ART testing, provided that they are accompanied by a fully vaccinated adult.
