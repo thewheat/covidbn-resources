@@ -1,3 +1,4 @@
+
 # Unofficial 🇧🇳 Brunei COVID 🦠 Resources
 
 This was created to serve as a source of the latest relevant information that I would want access to as I found it a struggle to find the most up to date information. Sources will be listed to verify information
@@ -33,21 +34,28 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - [Declaring as Close Contact](#declaring-as-close-contact)
 - [Digital Quarantine Order](#digital-quarantine-order)
     - [Primary & Secondary Contacts](#primary--secondary-contacts)
-- [AskMOH](askmoh)
-- [Bruhealth Support Email Guideline / Information](#bruhealth-support-email-guideline--information)
-    - [1. Digital QO Related](#1-digital-qo-related)
-    - [2. Healthcode (Red/Yellow) Issues](#2-healthcode-redyellow-issues)
-    - [3. Invalid BN Issues/ Verification failed. Please input correct BN Number](#3-invalid-bn-issues-verification-failed-please-input-correct-bn-number)
-    - [4. IC is invalid / Authentication Failed](#4-ic-is-invalid--authentication-failed)
-    - [5. Birth Certificate is invalid](#5-birth-certificate-is-invalid)
-    - [6. Cannot book an appointment - clicking date does not allow me to book](#6-cannot-book-an-appointment---clicking-date-does-not-allow-me-to-book)
-    - [7. I forgot my BN Number](#7-i-forgot-my-bn-number)
-    - [8. Other BruHealth issues](#8-other-bruhealth-issues)
 - [Medical Service related disruptions/changes](#medical-service-related-disruptionschanges)
 
 ------------------------------------------------------------------------------
 
 ## Recent/Current Highlights
+
+**Updated Guidelines** (Source: [GOV.BN Telegram Post on 28th April 2022](https://t.me/govbnofficial/5737))
+1. In reference to the Media Statement by the COVID-19 Steering Committee which was announced on Friday, 22nd April 2022, Hari Raya Aidilfitri celebrations for the year 1443 Hijrah at private residences are allowed for close family members only in accordance to the current capacity permitted for mass gathering, that is, a maximum 30 guests (excluding the host).
+<BR>
+    This matter has been re-evaluated and further aligned to current risk assessments, as follows:
+
+      - Hari Raya Aidlfitri celebrations at private residences are allowed for close family members at a maximum capacity of 30 guests for events held indoors or 200 guests for events held at outdoor areas of the residence (excluding the host);
+      - The maximum capacity for events held at event halls is maintained at 300.
+
+   As announced previously, the public is reminded to undergo Antigen Rapid Test (ART) prior to leaving the house to visit relatives, to wear face masks except when eating and drinking, avoid shaking hands as well as visiting in groups, to be extra cautious and to stay at home if they feel unwell.
+
+2. Meanwhile, the guideline on the use of face masks has also been updated, as follows:
+
+     - Members of the public are still required to wear face masks while in public buildings (indoors); and
+     - The use of face masks outdoors is encouraged, especially in crowded places and during mass gatherings.
+
+* * * 
 
 **Early Endemic Phase extended until 31t May 2022** ([Source: GOV.BN Telegram Post on 22nd April 2022](https://t.me/govbnofficial/5696))
 - Early Endemic Phase under the National COVID-19 Recovery Framework will be extended for one (1) month, from Sunday, 1st May 2022 until Tuesday, 31st May 2022.
@@ -66,43 +74,6 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 - ([Source: MoH Press Release 10th Apriil 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1212))
    - Third dose for children and adolescents aged 12 to 17 years old will begin on Saturday, 16 April 2022 at all vaccination centres nationwide. 
    - Children and adolescents aged 12 to 17 years old who have received the second dose of the COVID-19 vaccination of at least in the past three months can book for a third dose vaccination slot through the BruHealth application which will start opening on Friday, 15 April 2022 at 12 noon.
-
-* * *
-
-**Operating Hours for swab test centres, vaccination centres and Talian Harapan 145 during Ramadhan** (Source: [MoH Press Info on 2nd April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1207))
-- Swab Centres
-   - Swab Center, Sports Center, Hospital Raja Isteri Pengiran Anak Saleha
-      - Daily (including public holidays)
-         - 08:00am - 2:00pm
-         - 07:30pm - 10:00 pm
-      - Closed Fridays 12:00noon - 2:00pm
-   - Drive-Thru Bridex, Jerudong
-      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
-      - 08:00am - 02:00pm
-   - Berakas Health Centre
-      - Monday - Thursday, Saturday
-         - 08:00am - 2:00pm
-         - 07:30pm - 10:00 pm
-      - Fridays, Sundays and public holidays
-         - 02:00pm - 04:00pm
-         - 07:30pm - 10:30pm
-   - Pengkalan Batu Health Centre
-      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
-      - 08:00am - 2:00pm
-   - SARI 2 Centre, Hospital Suri Seri Begawan
-      - Daily (including public holidays)
-      - 09:00am – 01:00pm
-      - 08:30pm – 11:00pm  
-   - Sungai Kelugos Health Centre
-      - Monday - Thursday, Saturday (closed Fridays, Sundays and public holidays)
-      - 08:00am – 02:00pm 
-- Vaccination Centres
-   - Monday - Thursday and Saturday (closed Fridays, Sundays and public holidays)
-   - 08:30a – 01:00pm 
-- Hope Line 145:
-   - Daily 
-   - 8:00 am – 5:30 pm
-   - 7:30 pm – 10:00 pm
 
 * * * 
 
@@ -430,19 +401,14 @@ every 2 weeks, for:
 
 **Operating Hours of Vaccination Centers**
 	
-- **Operating Hours for swab test centres, vaccination centres and Talian Harapan 145 during Ramadhan** (Source: [MoH Press Info on 2nd April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1207))
-   - Monday - Thursday and Saturday (closed Fridays, Sundays and public holidays)
-   - 08:30a – 01:00pm
 - (Source: [GOVBN Telegram Post on 18th December 2021](https://t.me/govbnofficial/4271))
 - UBD COVID-19 Vaccination Center has been put on hold effective 31st December 2021 (Source: [GOVBN Telegram Post on 2nd January 2022](https://t.me/govbnofficial/4412))
-           
-**Temporary Closure of Jubli Emas Bunut Health Centre extended from 1st March 2022 until 14 March 2022 - services transfered to Indoor Stadium** (Source: [MoH 28th Februrary 2022 press info](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1171))
-           
+                      
 
 Vaccination Centres | Operating hours | Available for Walk-In
 --------------------|-----------------|----------------------
 Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday: 2:30pm - 5:00pm.|Yes
-Jubli Emas Bunut Health Centre|**Closed from 1st March 2022 - 14th March 2022**<BR>Monday - Thursday + Saturday: 8:00am - 3:00pm|Yes
+Jubli Emas Bunut Health Centre|Monday - Thursday + Saturday: 8:00am - 3:00pm|Yes
 Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:00am - 12:00noon, 2:00pm - 5:00pm|Yes
 Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
 Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
@@ -1198,127 +1164,6 @@ Currently, the self-isolation period for close contacts has been reduced from 14
     - An individual who has been in close contact with a primary contact and shares the same household
     - The secondary household contact is not required to take a swab test
 
-   
-------------------------------------------------------------------------------
-
-## AskMOH
-
-### What is the purpose of the Ministry of Health updating the current Health Protocols?
-[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4948)
-- When we first started having COVID we didn't really know what it was about
-- As we go along they evolve so the disease profile changes
-- Now with Omicron, it is more infectious but mild symptoms and it happens in a short time
-- With these changes it allowed us to review all the measures in place so we can lessen quarantine period and use new technology (like ART kits) so it can lessen the burden of the public
-- Changes based on what is seen in other countries and scientific findings
-
-### When should members of the public get a PCR test if ART testing is now the default detection tool for COVID-19?
-[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4949)
-- PCR is part of Protocol 1: only for specific groups of people e.g.
-   - travelling to a place that requires PCR
-   - referred by a doctor (e.g. going for medical procedure thtat requires PCR)
-- PCR also for equivocal results e.g. first ART test positive but second one negative. PCR will be the final say if person is COVID positive or not
-
-	
-### Are ART test effective in detecting COVID-19?
-[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4950)
-- Before decidinig tot use ART as thte default testing tool made sure backed by scientific evidences
-- ART kit is very powerful and certainly the most practical so do not have to queue in line as results come out in a short time
-- ART will catch you at the time you are infectious
-- PCR can detect small amounts but it may be segments of virus that are no longer infectious
-	
-### What are the Ministry of Health’s efforts in resolving the change of red code issue for close contacts who are allowed to be discharged?
-[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4951)
-- Context: for close contacts who have had 2 negative ART tests and are discharged but Bruhealth code is still red
-- Changing code is done manually
-- There is a list that is being processed and there is a backlog
-- Working with vendor to automate to clear backlog
-- Hopefully to be done by end of the week
-	
-### What should the management of a premise do if they found their staff to be positive for COVID-19?
-[Source: GOVBN Telegram Post on 20th February 2022](https://t.me/govbnofficial/4955)
-- Do not panic
-- Do not send all workers for PCR, follow new protocols
-   - COVID Positive: self-isolate, do ART
-   - Close contacts: do ART, segregrate if needed
-- Follow definition of close contacts
-- Not necessary to 
-   - close shop
-   - do fogging (using normal disinfection home products is sufficient)
-   
-	
-
-	   
-------------------------------------------------------------------------------
-
-	
-## BruHealth Support Email Guideline / Information
-
-Details below based on auto response when sending an email to the BruHealth Support email: [bruhealth.support@moh.gov.bn](mailto:bruhealth.support@moh.gov.bn)
-
-**To ensure that your email is attended/replied between 3-5 working days, please read the following carefully. If there is no details or screenshot error, your email will not be processed.**
-
-### 1. Digital QO Related
-
-- Quarantine Dates inconsistent from physical issued - To follow the Digital QO issued date
-- Received SMS for swab test but no Digital QO - To go for a swab test
-- NO swab results yet (it has been few days) - Kindly wait for the results sent via sms
-
-For other issues related to Digital QO please contact [Help Advice Line 148](#contacts)
-
-### 2. Healthcode (Red/Yellow) Issues
-
-Please call [Help Advice Line 148](#contacts)
-
-### 3. Invalid BN Issues/ Verification failed. Please input correct BN Number
-
-Attach along with your screenshot error in BruHealth, add photo of IC for verification and the following details:
-
-    - Full Name:
-    - Date Of Birth:
-    - IC Number:
-    - BN Number:
-    - Issue: Invalid BN OR Verification Failed (Pick one)
-
-
-### 4. IC is invalid / Authentication Failed
-
-If your IC is faulty or not accepted by BruHealth, your only option is to register to e-Darussalam. https://nam.gov.bn/edregister/user/RegisterUser/
-
-**Kindly be informed that you can still register as long as you have your IC number and email address.**
-
-### 5. Birth Certificate is invalid
-
-Attach along with your screenshot error in BruHealth, a photo of your child's birth certificate and the following details:
-
-    - Child's Name:
-    - Date Of Birth:
-    - Birth Certificate No:
-    - Mother's IC Number:
-    - BN Number:
-    - Issue: Invalid Birth Certificate
-
-
-### 6. Cannot book an appointment - clicking date does not allow me to book
-
-This means that date is fully booked.
-
-To reschedule or change vaccination site - The app doesn't allow you to change your 2nd dose vaccination site.
-
-Kindly adhere to your 2nd dose appointment date and time.
-
-### 7. I forgot my BN Number
-
-Email to [bru-hims@moh.gov.bn](mailto:bru-hims@moh.gov.bn) directly.
-
-### 8. Other BruHealth issues
-
-Attach along with your screenshot error in BruHealth, add photo of IC for verification and the following details:
-
-    - Full Name:
-    - Date Of Birth:
-    - IC Number:
-    - BN Number:
-    - Issue: Invalid BN
 
 ------------------------------------------------------------------------------
 
