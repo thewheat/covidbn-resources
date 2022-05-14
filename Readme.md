@@ -41,7 +41,13 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 ## Recent/Current Highlights
 
 
-     
+**Changes to the SARS-CoV-2 test performed upon arrival in Brunei Darussalam at the Brunei International Airport** (Source: [MoH Press Release - 10 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1244))
+- Starting on 06 May 2022, the Ministry of Health has reviewed the handling of ART for all passengers which starting this afternoon, ART on arrival will be done by the passengers themselves when they arrive at their respective homes or hotels
+- Each passenger will be given 3 ART kits upon arrival to be used on the day of arrival, on Day 2 and Day 3 after arrival and the results of each ART test must be uploaded to the BruHealth application. 
+- The BruHealth color code for each new passenger arriving in the country will automatically change to red. However, passengers who upload negative ART test results will be given a day pass for the day through their respective BruHealth application which allows them to enter any premises in the country. This directive is in accordance with the provisions under Section 62(A) of the Infectious Diseases Act Chapter 204 whereby failure to comply may result in legal action.
+
+* * * 
+
 **Closure of Swabs Centres** (Source: [MoH Press Release - 06 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1237))
 - Startiing Saturday, 07 May 2022, several swab centres in the Brunei & Muara District and Tutong District will be closed
 - Members of the public in these two districts who require the service can obtain it at the Sports Complex Swab Centre, Raja Isteri Pengiran Anak Saleh Hospital
@@ -51,6 +57,8 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
   - Pengkalan Batu Health Centre Swab Centre; and
   - Sg Kelugos Health Centre Swab Centre.
 - Swab testing for those who wish to exit Brunei Darussalam and those who have just arrived in the country (inbound and outbound travelers) will be fully implemented by accredited private clinics, starting, Saturday, 07 May 2022 and will no longer be conducted at Government swab centres. The list of the accredited private clinics is as currently shown on the screen and this list is also available on the Ministry of Health's website.
+
+* * * 
 
 **Updated Guidelines** (Source: [GOV.BN Telegram Post on 28th April 2022](https://t.me/govbnofficial/5737))
 1. In reference to the Media Statement by the COVID-19 Steering Committee which was announced on Friday, 22nd April 2022, Hari Raya Aidilfitri celebrations for the year 1443 Hijrah at private residences are allowed for close family members only in accordance to the current capacity permitted for mass gathering, that is, a maximum 30 guests (excluding the host).
