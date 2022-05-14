@@ -1125,6 +1125,68 @@ Currently, the self-isolation period for close contacts has been reduced from 14
 
 ## Medical Service related disruptions/changes
 
+### REINSTATEMENT of several services in health centres
+	
+- Source: [MoH Press Info 8th May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1238)
+- Reinstatement of several services in health centres which will commence on Monday, 08 Syawal 1443 / 09 May 2022.
+- The reinstatement and return of operations of several services that were temporarily relocated previously are as follows:
+- **Healh Centres**
+    - Pengiran Anak Puteri Hajah Muta-Wakillah Hayatul Bolkiah Health Centre, Rimba
+    - Muara Health Centre
+    - Jubli Perak Sengkurong Health Centre
+    - Pengkalan Batu Health Centre
+    - Pengiran Anak Puteri Hajah Rashidah Sa'adatul Bolkiah Health Centre, Kg Sg Asam
+    - Pekan Tutong Health Centre
+    - Sg Kelugos Health Centre
+    - Lamunin Health Centre
+    - Telisai Health Centre
+    - Sg Liang Health Centre
+    - Seria Health Centre
+- **Services**
+    - Primary Health Care Services:
+    - Chronic Diseases Clinic
+    - General Clinic
+    - Flu Clinic
+    - Maternal Health Care Services
+    - Child Health Care Services
+    - Phlebotomy Services
+    - Pharmacy Services
+    - Community Nutrition Services
+    - Community Clinical Psychology Services
+    - Dental Services
+    - Community Eye Clinic Services
+    - National Health Screening Programme
+    - Nurse-Led Clinic
+- **Hours**
+    - Monday to Thursday & Saturday: 07.45 AM - 12.15 noon and 1.30 PM - 4.30 PM
+
+- For Berakas Health Centre, the following are the services provided:
+    - **Services**
+        - Primary Health Care Services:
+            - Chronic Diseases Clinic
+            - General Clinic
+            - Flu Clinic 
+        - Phlebotomy Services
+        - Pharmacy Services
+        - Community Nutrition Services
+        - Community Clinical Psychology Services
+        - Dental Services
+        - Community Eye Clinic Services
+        - National Health Screening Programme
+        - Nurse-Led Clinic
+    - **Hours**: Monday to Thursday & Saturday: 07.45 AM - 12.15 noon and 1.30 PM - 4.30 PM
+    - **After Hours Clinic Services**
+        - Monday to Thursday & Saturday: 6.00 PM - 9.00 PM
+        - Friday, Sunday & Public Holidays: 2.00 PM - 9.00 PM
+
+- Maternal and Child Health Clinic Services for Berakas Health Centre is temporarily maintained at the following location:
+    - **Location**: Level 5, Block 2G, Ong Sum Ping Condominium, Jalan Ong Sum Ping
+    - **Hours**: Monday to Thursday & Saturday (except during public holidays) 7:45 AM – 12:15 noon and 1:30 PM – 4:30 PM
+- In addition, the Primary Health Care Services at Belait Health Centre is still suspended at this time until a date that is to be announced in the near future.
+
+ 
+* * * 
+
 ### Opening of dental services
 - Sources: [MoH Press Info 9th May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1242) / [MoH Press Info 21st April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1224) / [MoH Press Info 11th April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1214)
 - Dental Clinic at Pengira Anak Puteri Hajah Rashidah Saadatul Bolkiah (PAPRSB) Health Centre, Sungai Asamm
