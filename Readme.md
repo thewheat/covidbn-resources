@@ -1,4 +1,3 @@
-
 # Unofficial 🇧🇳 Brunei COVID 🦠 Resources
 
 This was created to serve as a source of the latest relevant information that I would want access to as I found it a struggle to find the most up to date information. Sources will be listed to verify information
@@ -692,47 +691,52 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
 
 (Source: [BruHealth app -> Epidemic Map -> Medical Resources](https://www.healthinfo.gov.bn/) & [HAL 148](#contacts))
 
+- Sports Complex Screening Centre, RIPAS Hospital [MoH Press Release on 14 May 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5883)
+    - Monday to Thursday, Saturday and Sunday: 8:00 AM until 1:00 PM; and 2:00 PM until 8:00 PM. (Note: 1:00 PM to 2:00 PM is closed for disinfection work)
+    - Whereas on Friday, SPOC opens from: 8:00 AM until 12:00 noon; and 2:00 PM until 8:00 PM.
+    - Not for Pre-Departure Swab
+- SARI Centre, Suri Seri Begawan Hospital
+   - Not for Pre-Departure Swab
+- **Closure of Swabs Centres** 
+   - [MoH Press Release - 06 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1237)
+      - Startiing Saturday, 07 May 2022, several swab centres in the Brunei & Muara District and Tutong District will be closed
+      - Members of the public in these two districts who require the service can obtain it at the Sports Complex Swab Centre, Raja Isteri Pengiran Anak Saleh Hospital
+      - The swab centres to be closed are:
+        - Bridex Drive-Thru Swab Centre;
+        - Berakas Health Centre Swab Centre;
+        - Pengkalan Batu Health Centre Swab Centre; and
+        - Sg Kelugos Health Centre Swab Centre.
+      - Swab testing for those who wish to exit Brunei Darussalam and those who have just arrived in the country (inbound and outbound travelers) will be fully implemented by accredited private clinics, starting, Saturday, 07 May 2022 and will no longer be conducted at Government swab centres. The list of the accredited private clinics is as currently shown on the screen and this list is also available on the Ministry of Health's website.
+    - [MoH Press Release on 11 April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1213)
+      - Pusat Insani Swab Centre, Seria has been closed starting Saturday, 9 April 2022
+      - Members of the public in the Belait District who require RT-PCR swab tests can obtain it at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait or any private health clinic that has been given approval to perform the test.
+
 *** 
-
-**Closure of Swabs Centres** (Source: [MoH Press Release - 06 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1237))
-- Startiing Saturday, 07 May 2022, several swab centres in the Brunei & Muara District and Tutong District will be closed
-- Members of the public in these two districts who require the service can obtain it at the Sports Complex Swab Centre, Raja Isteri Pengiran Anak Saleh Hospital
-- The swab centres to be closed are:
-  - Bridex Drive-Thru Swab Centre;
-  - Berakas Health Centre Swab Centre;
-  - Pengkalan Batu Health Centre Swab Centre; and
-  - Sg Kelugos Health Centre Swab Centre.
-- Swab testing for those who wish to exit Brunei Darussalam and those who have just arrived in the country (inbound and outbound travelers) will be fully implemented by accredited private clinics, starting, Saturday, 07 May 2022 and will no longer be conducted at Government swab centres. The list of the accredited private clinics is as currently shown on the screen and this list is also available on the Ministry of Health's website.
-
-[MoH Press Release on 11 April 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1213)
-- Pusat Insani Swab Centre, Seria has been closed starting Saturday, 9 April 2022
-- Members of the public in the Belait District who require RT-PCR swab tests can obtain it at SARI Centre, Suri Seri Begawan Hospital, Kuala Belait or any private health clinic that has been given approval to perform the test.
-
-
-*** 
-	
-- Sports Complex Screening Centre, RIPAS Hospital (8am-8pm starting 16th October 2021) (Source: [MoH Press Release on 15 October 2021](http://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1066)
-- Suri Seri Begawan Hospital (24hrs) (Not for Pre-Departure Swab)
 
 ### Health centres or private health clinics that offer RT-PCR swab test services for outbound from / inbound travellers into Brunei Darussalam.
-([Source: GOV.BN Telegram Post on 28th March 2022](https://t.me/govbnofficial/5428]))
+
+- [Source PDF updated 27th April 2022](https://www.moh.gov.bn/Shared%20Documents/2019%20ncov/Senarai%20Pusat-Pusat%20yang%20memberikan%20perkhidmatan%20RT-PCR%20dan%20ART.pdf) via [MoH COVID-19 Page](http://www.moh.gov.bn/SitePages/COVID-19.aspx) / [GOV.BN Telegram Post on 28th March 2022](https://t.me/govbnofficial/5428])
 - Jerudong Park Medical Centre (JPMC)
+   - Appointment only
    - Jerudong Park Medical Centre, Jerudong Park, BG3122
    - Monday - Thursday: 8.00 AM - 4.00 PM, Friday: 8.00 AM - 11.30 AM, 2.00 PM - 4.00 PM, Saturday: 8.00 AM - 12.00 PM
    - +673 2611433 (ask to transfer to swab centre)
    - swab.request@jpmc.com.bn
 - Panaga Health Centre
+   - Appointment only
    - Jalan Utara, Panaga, Seria KB2933
    - Monday - Friday: 2.00 PM - 3.30 PM
    - +673 8876454 (whatsapp for bookings)
    - phc@bsp-shell.bn
    - Instagram: panagahealth
 - Lee Clinic and Dispensary
+   - Appointment only
    - C-1, Abdul Razak Complex Gadong Centrepoint
    - Monday - Thursday: 8.00 AM - 4.30 PM, 6.30 PM - 8.30 PM, Friday: 8.00 AM - 11.30 AM, 2.00 PM - 4.30 PM, 6.30 PM 8.30 PM, Saturday: 8.00 AM - 4.30 PM, 6.30 PM - 8.30 PM, Sunday: 8.30 AM - 11.30 AM
    - +673 2428428 / +673 8128128
    - leeclinic_gdg@yahoo.com	
 - Klinik Dr Amir
+   - Appointment only
    - KlinikDrAmir.pcr@gmail.com
    - Serusop Branch
       - Monday - Thursday & Saturday: 8.15 AM - 9.00 PM, Friday: 8.15 AM - 9.00 PM (Closed 12.00 PM - 2.15 PM), Sunday: 8.30 AM - 11.00 AM, 7.00 PM - 9.00 PM	
@@ -744,15 +748,29 @@ _Please visit if you have the following symptoms: fever, cough, running nose, so
       - Monday - Thursday & Saturday: 8.15 AM - 12.00 PM, 2.00 PM - 5.00 PM, Friday: 8.15 AM - 5.00 PM (Closed 12.00 PM - 2.15 PM)
       - +673 3337850
 - UNI Clinic
-    - No. 5, Simpang 490 Jalan Muara, Kg. Sg. Hanching, BC2115
-    - Monday - Thursday: 8.00 AM - 8.00 PM, Friday: 8.00 AM - 11.30 AM, 2.30 PM - 5.00 PM, Saturday: 8.00 AM - 4.00 PM, Sunday: 10.00 AM - 2.00 PM
-    - +673 2335403 / +673 7325403
-    - 2uniclinic@gmail.com
-    - Facebook / Instagram: 2uniclinic
+   - Appointment only
+   - No. 5, Simpang 490 Jalan Muara, Kg. Sg. Hanching, BC2115
+   - Monday - Thursday: 8.00 AM - 8.00 PM, Friday: 8.00 AM - 11.30 AM, 2.30 PM - 5.00 PM, Saturday: 8.00 AM - 4.00 PM, Sunday: 10.00 AM - 2.00 PM
+   - +673 2335403 / +673 7325403
+   - 2uniclinic@gmail.com
+   - Facebook / Instagram: 2uniclinic
 - Klinik Noor Rohaya
-    - No. 1, Simpang 293, Jalan Pasir Berakas
-    - Monday - Saturday: 9.00 AM - 5.00 PM
-    - +673 2390282 / +673 8240282
+   - Appointment only
+   - No. 1, Simpang 293, Jalan Pasir Berakas
+   - Monday - Saturday: 9.00 AM - 5.00 PM
+   - +673 2390282 / +673 8240282
+- Yong Clinic & Dispensary
+   - Appointment only
+   - No 27, Grnd Flr Muhibbah Complex II, Jalan Gadong, BE3919
+   - +673 2424301
+- Kare Medical Clinic
+   - Appointment only
+   - Ground Floor, Block D, Unit 1, Kiarong Complex, Lebuhraya Sultan Hassanal Bolkiah, Kiarong BE1318
+   - +673 2455021 / +673 7305973 (whatsap)
+- C.Y.Lim Clinic
+   - Appointment only
+   - Block J, No. 16 Grnd Flr, Abdul Razak Complex Gadong, BE3519
+   - +673 2449488 / +673 8913468
 
 ------------------------------------------------------------------------------
 
