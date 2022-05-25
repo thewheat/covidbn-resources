@@ -39,6 +39,22 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**Closure of the Jubli Emas Bunut Health Centre** (Source: [MoH Press Release 21 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1257))
+- Closure of the Jubli Emas Bunut Health Centre starting on Monday, 23 May 2022. For those who have booked their vaccinations at the Jubli Emas Bunut Health Centre will be given a new vaccinatoin appointment at the Indoor Stadium Vaccination Centre. This move has been made to restore reopening of services at the Jubli Emas Bunut Health Centre. 
+- Jubli Emas Bunut Health Centre will resume operations on Wednesday 1st June 2022
+  - Services
+    - Primary Health Care Services:
+      - Chronic Diseases Clinic
+      - General Clinic
+      - Flu Clinic
+    - Maternal Care Services
+    - Child Health Care Services
+    - Pharmacy Services
+    - Nurse-Led Clinic
+    - National Health Screening Programme
+    - Community Nutrition Services
+  - Operating Hours
+    - Monday to Thursday & Saturday: 07.45 am – 12.15 pm, 1.30 pm - 4.30 pm
 
 **Changes to the SARS-CoV-2 test performed upon arrival in Brunei Darussalam at the Brunei International Airport** (Source: [MoH Press Release - 10 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1244))
 - Starting on 06 May 2022, the Ministry of Health has reviewed the handling of ART for all passengers which starting this afternoon, ART on arrival will be done by the passengers themselves when they arrive at their respective homes or hotels
@@ -422,12 +438,13 @@ every 2 weeks, for:
 	
 - (Source: [GOVBN Telegram Post on 18th December 2021](https://t.me/govbnofficial/4271))
 - UBD COVID-19 Vaccination Center has been put on hold effective 31st December 2021 (Source: [GOVBN Telegram Post on 2nd January 2022](https://t.me/govbnofficial/4412))
+- Closure of the Jubli Emas Bunut Health Centre starting on Monday, 23 May 2022. (Source: [MoH Press Release 21 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1257))
+  - For those who have booked their vaccinations at the Jubli Emas Bunut Health Centre will be given a new vaccinatoin appointment at the Indoor Stadium Vaccination Centre. This move has been made to restore reopening of services at the Jubli Emas Bunut Health Centre. 
                       
 
 Vaccination Centres | Operating hours | Available for Walk-In
 --------------------|-----------------|----------------------
 Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday: 2:30pm - 5:00pm.|Yes
-Jubli Emas Bunut Health Centre|Monday - Thursday + Saturday: 8:00am - 3:00pm|Yes
 Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:00am - 12:00noon, 2:00pm - 5:00pm|Yes
 Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
 Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
@@ -1152,7 +1169,23 @@ Currently, the self-isolation period for close contacts has been reduced from 14
 ## Medical Service related disruptions/changes
 
 ### REINSTATEMENT of several services in health centres
-	
+
+- Source: [MoH Press Release 21 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1257)
+  - Jubli Emas Bunut Health Centre will resume operations on Wednesday 1st June 2022
+  - **Services**
+    - Primary Health Care Services:
+      - Chronic Diseases Clinic
+      - General Clinic
+      - Flu Clinic
+    - Maternal Care Services
+    - Child Health Care Services
+    - Pharmacy Services
+    - Nurse-Led Clinic
+    - National Health Screening Programme
+    - Community Nutrition Services
+  - **Operating Hours**
+    - Monday to Thursday & Saturday: 07.45 am – 12.15 pm, 1.30 pm - 4.30 pm
+
 - Source: [MoH Press Info 8th May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1238)
 - Reinstatement of several services in health centres which will commence on Monday, 08 Syawal 1443 / 09 May 2022.
 - The reinstatement and return of operations of several services that were temporarily relocated previously are as follows:
