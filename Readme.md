@@ -39,6 +39,22 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+
+**Ending of Early Endemic Phase** (Source: [GOV.BN Telegram Post on 24th May 2022](https://t.me/govbnofficial/5960))
+
+- Early Endemic Phase will cease after 31st May 2022
+- From Wednesday, 1st June 2022, the guidelines for COVID-19 control measures will be updated as follows:
+  1. No limitation on the capacity of mass gatherings (regardless of location, i.e. either at home or halls);
+  2. All sporting activities including competitions or matches are allowed with no limitation on the number of spectators;
+  3. Food preparation for any event at any premises is allowed without any restrictions including buffet meals;
+  4. No age restriction for all congregations at mosques to perform the Friday prayer and five-time fardhu prayers. Therefore, children under 12 years old are allowed to   attend. However, the condition to use their own prayer mats for Friday prayer and five-time fardhu prayers is maintained;
+  5. Health advice is updated as follows:
+    - Face masks should be worn in public buildings;
+    - The use of face masks outdoors is encouraged especially in crowded places;
+    - The use of ART testing is encouraged prior to attending events and when not feeling well/symptomatic; and
+    - Body temperature checks to enter premises is no longer required.
+- Details in "[Endemic Phase](#endemic-phase)" below
+
 **Closure of the Jubli Emas Bunut Health Centre** (Source: [MoH Press Release 21 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1257))
 - Closure of the Jubli Emas Bunut Health Centre starting on Monday, 23 May 2022. For those who have booked their vaccinations at the Jubli Emas Bunut Health Centre will be given a new vaccinatoin appointment at the Indoor Stadium Vaccination Centre. This move has been made to restore reopening of services at the Jubli Emas Bunut Health Centre. 
 - Jubli Emas Bunut Health Centre will resume operations on Wednesday 1st June 2022
@@ -89,12 +105,6 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
      - Members of the public are still required to wear face masks while in public buildings (indoors); and
      - The use of face masks outdoors is encouraged, especially in crowded places and during mass gatherings.
-
-* * * 
-
-**Early Endemic Phase extended until 31t May 2022** ([Source: GOV.BN Telegram Post on 22nd April 2022](https://t.me/govbnofficial/5696))
-- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended for one (1) month, from Sunday, 1st May 2022 until Tuesday, 31st May 2022.
-- Details in "[Endemic Phase](#endemic-phase)" below
 
 * * * 
 
@@ -244,8 +254,22 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 ([Source: Borneo Bulletin 27th March 2022](https://borneobulletin.com.bn/movement-restriction-measure-ends-april-1/))
 ([Source: GovBN Telegram Post on 12th Apriil 2022](https://t.me/govbnofficial/5617))
 ([Source: GovBN Telegram Post on 22nd April 2022](https://t.me/govbnofficial/5696))
+([Source: GOV.BN Telegram Post on 24th May 2022](https://t.me/govbnofficial/5960))
 
-- Early Endemic Phase under the National COVID-19 Recovery Framework will be extended until 31st May 2022.
+**Ending of Early Endemic Phase** 
+
+- Early Endemic Phase will cease after 31st May 2022
+- From Wednesday, 1st June 2022, the guidelines for COVID-19 control measures will be updated as follows:
+  1. No limitation on the capacity of mass gatherings (regardless of location, i.e. either at home or halls);
+  2. All sporting activities including competitions or matches are allowed with no limitation on the number of spectators;
+  3. Food preparation for any event at any premises is allowed without any restrictions including buffet meals;
+  4. No age restriction for all congregations at mosques to perform the Friday prayer and five-time fardhu prayers. Therefore, children under 12 years old are allowed to   attend. However, the condition to use their own prayer mats for Friday prayer and five-time fardhu prayers is maintained;
+  5. Health advice is updated as follows:
+    - Face masks should be worn in public buildings;
+    - The use of face masks outdoors is encouraged especially in crowded places;
+    - The use of ART testing is encouraged prior to attending events and when not feeling well/symptomatic; and
+    - Body temperature checks to enter premises is no longer required.
+	
 - There are currently no movement restrictions
    - Previous restrictions (stay at home from 12.00 a.m. till 4.00 a.m) implemented during “Operasi Peralihan” ended 1st April 2022
 
