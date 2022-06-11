@@ -40,6 +40,37 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 ## Recent/Current Highlights
 
 
+**Closure of Vaccination Centre at the Community Hall, Temburong District** (Source: [MoH Press Release on 10th June 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1275))
+- Closure of the Vaccination Centre at the Community Hall, Temburong District will commence on Monday, 13 June 2022
+- The COVID-19 Vaccination Program for the residents of the Temburong District will be continued at the Pengiran Isteri Hajjah Mariam Hospital, Temburong starting Monday, 13 Zulkaedah 1443 / 13 June 2022
+- The public is advised to make reservations in advance to get the COVID-19 vaccination at the aforementioned health facility during its operational hours:
+   - Monday - Thursday & Saturday:
+      - 08:15 am – 12:00 pm
+      - 1:00 pm – 3:30 pm
+
+* * * 
+
+**Random Selection for RT-PCR laboratory tests** (Source: [MoH Press Release on 10th June 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1272))
+
+- Furthermore, The Ministry of Health would like to inform the public that as part of the ongoing monitoring and surveillance measures against respiratory infections including COVID-19 that occur in the country, the Ministry will randomly invite patients that is being treated in flu clinics especially those with Influenza-like illness (ILI) to undergo RT-PCR laboratory test
+- In addition, COVID-19 positive cases through ART reported in the BruHealth app will also be randomly contacted by the Ministry of Health to undergo RT-PCR laboratory testing. 
+- This measure will enable the Ministry to obtain information on the type of infection that occurs. If the virus detected is the SARS-CoV-2 virus, genome sequencing tests will also be performed to identify the variants present in the country. 
+- The public who are invited to undergo swab test for surveillance purposes are welcome to take part in the initiative to enable the ministry to continue to conduct quality surveillance activities for the safety and well-being of the people and residents of this country.
+
+* * * 
+
+**Closure of Community Isolation Center (CIC) and Community Isolation Center (CIC) and Brunei Covid-19 Airlab BRIDEX Jerudong (BCAL)** (Source: [MoH Press Release on 4th June 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1270))
+
+- Community Isolation Center (CIC) located at the National Youth Service Program Training Camp (PKBN), Temburong and Brunei Covid-19 Airlab BRIDEX Jerudong (BCAL) will both be officially closed starting Monday, 06 June 2022 and on Wednesday, 15 June 2022 respectively. Meanwhile, sample analysis for RT-PCR SARS-C0V-2 tests will be tested by the National Virology Reference Laboratory, Kampong Sumbiling.
+
+* * * 
+
+* **Closure of COVID Holding Area Tutong** (Source: [MoH Press Release on 2nd June 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1268)
+
+- The Ministry of Health would like to inform the public that considering the number of daily COVID-19 cases in the country continues to be at a stable and controlled level, especially for individuals who require hospital treatment in categories 4 and 5, COVID Holding Area Tutong (CHAT) will officially close on 2 June 2022. 
+
+* * * 
+
 **Ending of Early Endemic Phase** (Source: [GOV.BN Telegram Post on 24th May 2022](https://t.me/govbnofficial/5960))
 
 - Early Endemic Phase will cease after 31st May 2022
@@ -464,6 +495,13 @@ every 2 weeks, for:
 - UBD COVID-19 Vaccination Center has been put on hold effective 31st December 2021 (Source: [GOVBN Telegram Post on 2nd January 2022](https://t.me/govbnofficial/4412))
 - Closure of the Jubli Emas Bunut Health Centre starting on Monday, 23 May 2022. (Source: [MoH Press Release 21 May 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1257))
   - For those who have booked their vaccinations at the Jubli Emas Bunut Health Centre will be given a new vaccinatoin appointment at the Indoor Stadium Vaccination Centre. This move has been made to restore reopening of services at the Jubli Emas Bunut Health Centre. 
+- Closure of Vaccination Centre at the Community Hall, Temburong District** (Source: [MoH Press Release on 10th June 2022]([https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1268](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1275))
+   - Closure of the Vaccination Centre at the Community Hall, Temburong District will commence on Monday, 13 June 2022
+   - The COVID-19 Vaccination Program for the residents of the Temburong District will be continued at the Pengiran Isteri Hajjah Mariam Hospital, Temburong starting Monday, 13 Zulkaedah 1443 / 13 June 2022
+   - The public is advised to make reservations in advance to get the COVID-19 vaccination at the aforementioned health facility during its operational hours:
+      - Monday - Thursday & Saturday:
+         - 08:15 am – 12:00 pm
+         - 1:00 pm – 3:30 pm
                       
 
 Vaccination Centres | Operating hours | Available for Walk-In
@@ -471,9 +509,9 @@ Vaccination Centres | Operating hours | Available for Walk-In
 Indoor Stadium, Hassanal Bolkiah National Sports Complex|Monday - Thursday + Saturday + Sunday: 8:00am - 12:00noon, 2:00pm - 5:00pm<BR>Friday: 2:30pm - 5:00pm.|Yes
 Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + Saturday: 8:00am - 12:00noon, 2:00pm - 5:00pm|Yes
 Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
-Belalong Community Hall, Temburong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
+Pengiran Isteri Hajjah Mariam Hospital, Temburong|Monday - Thursday + Saturday: 8:15am - 12:00nn, 1:00pm - 3:30pm|?
 Medical Reception Station, Bolkiah Garison|Monday - Thursday: 8:00am - 12:00noon, 1:00pm - 5:00pm<BR>Friday 2:00pm - 8:00pm<BR>Saturday + Sunday: 8:00am - 12:00noon|No
-   
+
 * * * 
 
 ### Vaccination Notes
@@ -1086,6 +1124,14 @@ the Ministry of Health. The purpose of this QR Code scan is to ensure that the A
 	   - Only one positive ART is required as a confirmation for a COVID-19 case and when they upload a positive ART result to the BruHealth application, it counts as Day One;
 	   - Furthermore, positive cases who are undergoing self-isolation are required to undergo ART testing on Day Six. If the ART result is negative, they will be confirmed as recovered and allowed to end the self-isolation when their BruHealth code turns to green. However, if the ART result is still positive on Day Six, they can repeat the ART test the next day and the following days until the ART result is negative. If the ART result remains positive on Day Ten, they will be confirmed as recovered and allowed to end the self-isolation on Day Eleven automatically. Members of the public are advised to use ART kits that are approved by the Ministry of Health and to use is correctly.
 	- **II. Integration of the Overseas COVID-19 Vaccination Records**: COVID-19 vaccination records obtained overseas can now be integrated and updated into the BruHealth application. Members of the public can visit www.healthinfo.gov.bn/travel and complete the application information in the "Overseas COVID-19 Vaccination Records" function. Each application will be reviewed by the Ministry of Health prior to approval.
+
+	
+- **Random Selection for RT-PCR laboratory tests** (Source: [MoH Press Release on 10th June 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1272))
+
+   - Furthermore, The Ministry of Health would like to inform the public that as part of the ongoing monitoring and surveillance measures against respiratory infections including COVID-19 that occur in the country, the Ministry will randomly invite patients that is being treated in flu clinics especially those with Influenza-like illness (ILI) to undergo RT-PCR laboratory test
+   - In addition, COVID-19 positive cases through ART reported in the BruHealth app will also be randomly contacted by the Ministry of Health to undergo RT-PCR laboratory testing. 
+   - This measure will enable the Ministry to obtain information on the type of infection that occurs. If the virus detected is the SARS-CoV-2 virus, genome sequencing tests will also be performed to identify the variants present in the country. 
+- The public who are invited to undergo swab test for surveillance purposes are welcome to take part in the initiative to enable the ministry to continue to conduct quality surveillance activities for the safety and well-being of the people and residents of this country.
 
 ------------------------------------------------------------------------------
 
