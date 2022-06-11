@@ -59,6 +59,38 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 * * * 
 
+**Update on COVID-19 Control Measures** (Source: [GOV.BN Telegram Post on 9th June 2022](https://t.me/govbnofficial/6074))
+
+Updates to COVID-19 control measures which will commence on Wednesday, 15th June 2022, as follows:
+
+- i- The scanning of BruHealth QR codes – which waspreviously required prior to entering any premises toassist the Ministry of Health in contact tracing for COVID-19positive cases – will no longer be required. However, the management of premises or event organisers may ask members of the public or event attendees to scan the BruHealth QR code before entering premises. In this regard, the COVID-19 Steering Committee also wishes to inform that as the BruHealth application has begun to be developed as a health management application for long-term use that is not limited to times of pandemic only, BruHealth application code scanning features will continue to be used for healthy lifestyle programs or other programs available in the application. To this end, the use of the BruHealth app in the country, including QR code scanning will not be completely discontinued and will be adapted for other uses.
+
+- ii- Scheduled Antigen Rapid Test (ART) in offices and workplaces will also be ceased. However, ART testing is required for symptomatic individuals, close contacts to a positive case and other circumstances where required (for example before attending an event). However, the public are advised to do their own ART from time to time. Meanwhile, scheduled ART in schools will be continued for the time being and will be reviewed from time to time.
+
+- In view of the opening up of borders via air travel on 6 th May 2022, the COVID-19 Steering Committee would like to inform the public on the easing of cross-border travel restrictions and the updates of control measures which will also commence on Wednesday, 15th June 2022, as follows:
+
+   - i. Pre-departure swab test (either RT-PCR or ART test) for inbound travellers is no longer required, regardless of vaccination status;
+   - ii. Fully vaccinated travellers are no longer required to undergo ART testing and self-isolation upon arrival in the country;
+   - iii. Travellers who have not completed the COVID-19 vaccination are required to undergo ART testing upon arrival, three (3) days self-isolation and will only be allowed to end their self-isolation if tested negative RT-PCR on day three; and
+   - iv. The minimum travel insurance coverage for COVID-19 treatment that is required for any individual wishing to exit or enter Brunei Darussalam is now updated to a minimum coverage of BND20,000, that is for air, land or sea travel. This requirement is for citizens and permanent residents of Brunei Darussalam who wish to travel abroad as well as foreigners who wish to enter the country. However, officers of the Government of His Majesty the Sultan and Yang Di-Pertuan of Brunei Darussalam travelling abroad for official reasons or on duty are exempted from this requirement, and are also subject to entry requirements of their intended travel destination;
+   - v. Transport operators are no longer required to undergo scheduled ART testing. However, they are advised to do their own ART tests from time to time, and if they have symptoms or signs of infection or become a close contact to a positive case.
+
+   - Also commencing 15th June 2022, cross-border travel through land and seaports will be permitted for essential travel as listed below:
+      - For the purpose of work or school – and is also extended to commute travels for the aforementioned purposes; 
+      - Transit travel; and
+      - Local and foreign-registered transport operators for the purpose of essential import and export supply deliveries. 
+   - Approval application for essential travel needs to be submitted to the Prime Minister's Office via website www.pmo.gov.bn/travelportal. However, COVID-19 vaccination status is not required for categorised- essential travels. Cross-border travel via land and sea is planned to fully open beginning Monday, 1st August 2022, subject to the current COVID-19 situation in the country and regionally, as well as the operational readiness of control posts. Therefore, non-essential travel via land and sea is still not permitted until Sunday, 31 st July 2022.
+
+- In addition, the COVID-19 Steering Committee also wishes to inform the public on a few updates, which are as follows:
+   - i- Taking into account the changes to the health protocol that currently allow those with a red QR code on the BruHealth app to leave home provided they have a negative ART test result and have uploaded the result to the BruHealth app, food rations will be given to COVID-19 positive cases who have a purple BruHealth code and for those who apply for food assistance only.
+   - ii- Meanwhile, with the cessation of Early Endemic Phase in the country on 31 st May 2022 and the situation of COVID-19 infections in this country which has become stable, that is,
+      - The COVID-19 Relief Fund will be closed beginning Wednesday, 15th June 2022;
+      - The COVID-19 allowance to frontliners is hereby discontinued starting Wednesday, 1st June 2022. However, the allowance is still provided for volunteers.
+      - The daily Ministry of Health’s Press Conferences will be conducted weekly, which is set to be held every Monday beginning on 13th June 2022. Meanwhile, an information dashboard on the COVID-19 situation will be publicised daily on the Ministry of Health’s website or any other platforms to continue to provide up-to-date information to the public.
+
+* * * 
+
+
 **Closure of Community Isolation Center (CIC) and Community Isolation Center (CIC) and Brunei Covid-19 Airlab BRIDEX Jerudong (BCAL)** (Source: [MoH Press Release on 4th June 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1270))
 
 - Community Isolation Center (CIC) located at the National Youth Service Program Training Camp (PKBN), Temburong and Brunei Covid-19 Airlab BRIDEX Jerudong (BCAL) will both be officially closed starting Monday, 06 June 2022 and on Wednesday, 15 June 2022 respectively. Meanwhile, sample analysis for RT-PCR SARS-C0V-2 tests will be tested by the National Virology Reference Laboratory, Kampong Sumbiling.
@@ -262,6 +294,8 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 ------------------------------------------------------------------------------
 
 ## Contribute / Donate
+	
+**The COVID-19 Relief Fund will be closed beginning Wednesday, 15th June 2022** (Source: [GOV.BN Telegram Post on 9th June 2022](https://t.me/govbnofficial/6074))
 
 - [BIBD COVID Relief Fund](http://www.bibd.com.bn/media-centre/covid-19-awareness/)
 - [Baiduri COVID Relief Fund](https://www.mofe.gov.bn/Press%20Room/Press%20Release%2007.09.2021%20[Malay]%20-%20Pembukaan%20Akaun%20COVID-19%20Relief%20Fund%20di%20Bank%20Baiduri.pdf) (via [MoFE Press Releases](https://www.mofe.gov.bn/Sitepages/Press-Releases.aspx))
@@ -288,7 +322,7 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 ([Source: GOV.BN Telegram Post on 24th May 2022](https://t.me/govbnofficial/5960))
 
 **Ending of Early Endemic Phase** 
-
+	
 - Early Endemic Phase will cease after 31st May 2022
 - From Wednesday, 1st June 2022, the guidelines for COVID-19 control measures will be updated as follows:
   1. No limitation on the capacity of mass gatherings (regardless of location, i.e. either at home or halls);
@@ -305,6 +339,35 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
    - Previous restrictions (stay at home from 12.00 a.m. till 4.00 a.m) implemented during “Operasi Peralihan” ended 1st April 2022
 
 ### Measures or Guidelines for Early Endemic Phase
+
+
+**Updates from 15th June 2022** (Source: [GOV.BN Telegram Post on 9th June 2022](https://t.me/govbnofficial/6074))
+
+
+- i- The scanning of BruHealth QR codes – which waspreviously required prior to entering any premises toassist the Ministry of Health in contact tracing for COVID-19positive cases – will no longer be required. However, the management of premises or event organisers may ask members of the public or event attendees to scan the BruHealth QR code before entering premises. In this regard, the COVID-19 Steering Committee also wishes to inform that as the BruHealth application has begun to be developed as a health management application for long-term use that is not limited to times of pandemic only, BruHealth application code scanning features will continue to be used for healthy lifestyle programs or other programs available in the application. To this end, the use of the BruHealth app in the country, including QR code scanning will not be completely discontinued and will be adapted for other uses.
+
+- ii- Scheduled Antigen Rapid Test (ART) in offices and workplaces will also be ceased. However, ART testing is required for symptomatic individuals, close contacts to a positive case and other circumstances where required (for example before attending an event). However, the public are advised to do their own ART from time to time. Meanwhile, scheduled ART in schools will be continued for the time being and will be reviewed from time to time.
+
+- In view of the opening up of borders via air travel on 6 th May 2022, the COVID-19 Steering Committee would like to inform the public on the easing of cross-border travel restrictions and the updates of control measures which will also commence on Wednesday, 15th June 2022, as follows:
+
+   - i. Pre-departure swab test (either RT-PCR or ART test) for inbound travellers is no longer required, regardless of vaccination status;
+   - ii. Fully vaccinated travellers are no longer required to undergo ART testing and self-isolation upon arrival in the country;
+   - iii. Travellers who have not completed the COVID-19 vaccination are required to undergo ART testing upon arrival, three (3) days self-isolation and will only be allowed to end their self-isolation if tested negative RT-PCR on day three; and
+   - iv. The minimum travel insurance coverage for COVID-19 treatment that is required for any individual wishing to exit or enter Brunei Darussalam is now updated to a minimum coverage of BND20,000, that is for air, land or sea travel. This requirement is for citizens and permanent residents of Brunei Darussalam who wish to travel abroad as well as foreigners who wish to enter the country. However, officers of the Government of His Majesty the Sultan and Yang Di-Pertuan of Brunei Darussalam travelling abroad for official reasons or on duty are exempted from this requirement, and are also subject to entry requirements of their intended travel destination;
+   - v. Transport operators are no longer required to undergo scheduled ART testing. However, they are advised to do their own ART tests from time to time, and if they have symptoms or signs of infection or become a close contact to a positive case.
+
+   - Also commencing 15th June 2022, cross-border travel through land and seaports will be permitted for essential travel as listed below:
+      - For the purpose of work or school – and is also extended to commute travels for the aforementioned purposes; 
+      - Transit travel; and
+      - Local and foreign-registered transport operators for the purpose of essential import and export supply deliveries. 
+   - Approval application for essential travel needs to be submitted to the Prime Minister's Office via website www.pmo.gov.bn/travelportal. However, COVID-19 vaccination status is not required for categorised- essential travels. Cross-border travel via land and sea is planned to fully open beginning Monday, 1st August 2022, subject to the current COVID-19 situation in the country and regionally, as well as the operational readiness of control posts. Therefore, non-essential travel via land and sea is still not permitted until Sunday, 31 st July 2022.
+
+- In addition, the COVID-19 Steering Committee also wishes to inform the public on a few updates, which are as follows:
+   - i- Taking into account the changes to the health protocol that currently allow those with a red QR code on the BruHealth app to leave home provided they have a negative ART test result and have uploaded the result to the BruHealth app, food rations will be given to COVID-19 positive cases who have a purple BruHealth code and for those who apply for food assistance only.
+   - ii- Meanwhile, with the cessation of Early Endemic Phase in the country on 31 st May 2022 and the situation of COVID-19 infections in this country which has become stable, that is,
+      - The COVID-19 Relief Fund will be closed beginning Wednesday, 15th June 2022;
+      - The COVID-19 allowance to frontliners is hereby discontinued starting Wednesday, 1st June 2022. However, the allowance is still provided for volunteers.
+      - The daily Ministry of Health’s Press Conferences will be conducted weekly, which is set to be held every Monday beginning on 13th June 2022. Meanwhile, an information dashboard on the COVID-19 situation will be publicised daily on the Ministry of Health’s website or any other platforms to continue to provide up-to-date information to the public.
 
 **Updates from 22nd April 2022**
 
