@@ -39,6 +39,17 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**2nd booster shot** ([MoH Press Release on 13th June 2022 via GOV.BN Telegram Post on 13th June 2022](https://t.me/govbnofficial/6099))
+
+- Second COVID-19 booster vaccination is now open voluntarily starting 15 June 2022 for those in the following categories:
+   - Adults aged 80 years above;
+   - Adults aged 60 years above and with chronic diseases;
+   - Those who are aged 18 above with immunocompromised conditions; and
+   - Healthcare workers and frontliners who are exposed to high risk infection.
+- The administration of the second booster dose of COVID-19 will be available at vaccination centres and will only be administered five months after the first booster dose of COVID-19. Individuals who meet the above criteria are welcome to get this extra dose.
+
+
+* * * 
 
 **Closure of Vaccination Centre at the Community Hall, Temburong District** (Source: [MoH Press Release on 10th June 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1275))
 - Closure of the Vaccination Centre at the Community Hall, Temburong District will commence on Monday, 13 June 2022
@@ -540,6 +551,17 @@ every 2 weeks, for:
 - ([Source: MoH Press Release 10th Apriil 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1212))
    - Third dose for children and adolescents aged 12 to 17 years old will begin on Saturday, 16 April 2022 at all vaccination centres nationwide. 
    - Children and adolescents aged 12 to 17 years old who have received the second dose of the COVID-19 vaccination of at least in the past three months can book for a third dose vaccination slot through the BruHealth application which will start opening on Friday, 15 April 2022 at 12 noon.
+
+	
+**2nd booster shot** ([MoH Press Release on 13th June 2022 via GOV.BN Telegram Post on 13th June 2022](https://t.me/govbnofficial/6099))
+
+- Second COVID-19 booster vaccination is now open voluntarily starting 15 June 2022 for those in the following categories:
+   - Adults aged 80 years above;
+   - Adults aged 60 years above and with chronic diseases;
+   - Those who are aged 18 above with immunocompromised conditions; and
+   - Healthcare workers and frontliners who are exposed to high risk infection.
+- The administration of the second booster dose of COVID-19 will be available at vaccination centres and will only be administered five months after the first booster dose of COVID-19. Individuals who meet the above criteria are welcome to get this extra dose.
+
 	
 **Vaccination for children aged 5-11 years** ([Source: MoH Press Release 28th March 2022 via GOV.BN Telegram Post](https://t.me/govbnofficial/5438))
 - COVID-19 vaccine for children from the Pfizer Company has safely arrived in the country on Thursday, March 24, 2022;
