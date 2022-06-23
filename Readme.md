@@ -39,6 +39,18 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**Closure of Indoor Stadium Vaccination Centre** ([MoH Press Release on 22nd June 2022 via GOV.BN Telegram Post on 22nd June 2022](https://t.me/govbnofficial/6147))
+-  Indoor Stadium Vaccination Centre located at the Indoor Stadium will be officially closed starting on Friday, 1 July 2022
+-  Vaccination will continue at several Health Centres.
+   - Beginning 2 July 2022, COVID-19 vaccinations will be available at the Berakas Health Centre, Lambak Kanan National Housing Scheme
+      - Every Monday – Thursday and Saturday: 8.00 am – 11.30 am, 1.45 pm – 4.00 pm
+      - Additional Operational Hours: Every Friday and Sunday: 2.00 pm – 8.00 pm
+      - *Closed during public holidays*
+   - Starting 4 July 2022, COVID-19 vaccinations will also be available at Pengkalan Batu Health Centre and Pengiran Anak Puteri Hajah Rashidah Sa’adatul Bolkiah Health Centre (PAPRSB), Kg Sg Asam
+      - Every Monday – Thursday and Saturday: 8.00 am - 11.30 am, 1.45 pm - 4.00 pm
+
+* * * 
+
 **2nd booster shot** ([MoH Press Release on 13th June 2022 via GOV.BN Telegram Post on 13th June 2022](https://t.me/govbnofficial/6099))
 
 - Second COVID-19 booster vaccination is now open voluntarily starting 15 June 2022 for those in the following categories:
@@ -587,7 +599,16 @@ every 2 weeks, for:
       - Monday - Thursday & Saturday:
          - 08:15 am – 12:00 pm
          - 1:00 pm – 3:30 pm
-                      
+- Closure of Indoor Stadium Vaccination Centre** ([MoH Press Release on 22nd June 2022 via GOV.BN Telegram Post on 22nd June 2022](https://t.me/govbnofficial/6147))
+   -  Indoor Stadium Vaccination Centre located at the Indoor Stadium will be officially closed starting on Friday, 1 July 2022
+   -  Vaccination will continue at several Health Centres.
+      - Beginning 2 July 2022, COVID-19 vaccinations will be available at the Berakas Health Centre, Lambak Kanan National Housing Scheme
+         - Every Monday – Thursday and Saturday: 8.00 am – 11.30 am, 1.45 pm – 4.00 pm
+         - Additional Operational Hours: Every Friday and Sunday: 2.00 pm – 8.00 pm
+         - *Closed during public holidays*
+      - Starting 4 July 2022, COVID-19 vaccinations will also be available at Pengkalan Batu Health Centre and Pengiran Anak Puteri Hajah Rashidah Sa’adatul Bolkiah Health Centre (PAPRSB), Kg Sg Asam
+         - Every Monday – Thursday and Saturday: 8.00 am - 11.30 am, 1.45 pm - 4.00 pm
+	
 
 Vaccination Centres | Operating hours | Available for Walk-In
 --------------------|-----------------|----------------------
@@ -596,7 +617,9 @@ Learning and Development Centre, Suri Seri Begawan Hospital|Monday - Thursday + 
 Seri Kenangan Hall, Pekan Tutong|Monday - Thursday + Saturday: 8:15am - 11:30am, 1:45pm - 3:30pm|Yes
 Pengiran Isteri Hajjah Mariam Hospital, Temburong|Monday - Thursday + Saturday: 8:15am - 12:00nn, 1:00pm - 3:30pm|?
 Medical Reception Station, Bolkiah Garison|Monday - Thursday: 8:00am - 12:00noon, 1:00pm - 5:00pm<BR>Friday 2:00pm - 8:00pm<BR>Saturday + Sunday: 8:00am - 12:00noon|No
-
+Berakas Health Centre, Lambak Kanan National Housing Scheme (Starting 2nd July) |Monday – Thursday and Saturday: 8.00 am – 11.30 am, 1.45 pm – 4.00 pm<BR>Additional Operational Hours: Every Friday and Sunday: 2.00 pm – 8.00 pm<BR>*Closed during public holidays*|?
+Pengkalan Batu Health Centre (Starting 4 July 2022)|Monday – Thursday and Saturday: 8.00 am - 11.30 am, 1.45 pm - 4.00 pm|?
+Pengiran Anak Puteri Hajah Rashidah Sa’adatul Bolkiah Health Centre (PAPRSB), Kg Sg Asam (Starting 4 July 2022)|Monday – Thursday and Saturday: 8.00 am - 11.30 am, 1.45 pm - 4.00 pm|?
 * * * 
 
 ### Vaccination Notes
