@@ -39,6 +39,37 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+
+
+**Updates on relaxation of cross-border activities which will commence on Monday, 1st August 2022** (Source: [GOV.BN Telegram Post 14th July 2022](https://t.me/govbnofficial/6255))
+- A. "Fully Vaccinated" foreign nationals for inbound and outbound for any type of travel (whether air, land or sea) is defined as those who have at least two (2) doses of vaccines.
+
+  However, foreigners who wish to enter the country are encouraged to obtain a booster dose to preserve the safety, security and well-being of all parties.
+
+  B. Meanwhile, the definition of "fully vaccinated" for citizens and permanent residents of Brunei Darussalam who wish to exit and enter the country via air, land or sea is to have at least three (3) doses of vaccinations or if they have not received the third dose, they have obtained their second dose of vaccination no more than three (3) months prior to the date of departure from the country.
+
+  To this end, for those who have not been vaccinated or have not completed their vaccinations yet including booster doses, it is advisable to do so immediately to avoid more severe symptoms.
+
+- Exit-country and entry travel via land and seaports are to be aligned with existing air travel guidelines, such as being fully vaccinated, to obtain Travel Medical Insurance with coverage of COVID-19 treatment prior to exiting the country (for citizens and permanent residents of Brunei Darussalam) and completing the Arrival Declaration Form (ADF) before entering or returning to the country.
+
+The COVID-19 Steering Committee will continue to monitor the current situation of the COVID-19 in the country while ensuring that any control measures imposed are appropriate, in order to maintain the safety, security and well-being of the citizens and residents of Brunei Darussalam. Any changes and updates will be announced immediately to the public.
+
+For further information and details, please visit our website at www.pmo.gov.bn/travelportal or contact our operators at the travel hotline 120 during working hours or via e-mail at travelapplication@jpm.gov.bn.
+
+* * * 
+
+**Updated Hospital Guidelines** (Source: [MoH Press Release 12 July 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1314))
+- Following the current situation of the COVID-19 infection, the policy on visit to Government Hospitals is updated as follows:
+    - Only two visitors are allowed per patient per day.
+    - Each visitor is required to have a negative ART test result on the same day.
+    - Visitors categorized as close contacts or those with signs of infection are not allowed to visit even if their ART test result is negative.
+    - Each caregiver or patient companion should have a negative ART test result on the same day.
+    - Anyone categorized as a close contact or those with signs of infection are not allowed to be the patient's caregiver or companion even if their ART test result is negative.
+    - Mothers who are about to give birth are allowed to have one guardian or companion.
+    - Special permission can be given to immediate family members for critically ill patients through the administration in the respective wards.
+
+* * * 
+
 **Closure of Indoor Stadium Vaccination Centre** ([MoH Press Release on 22nd June 2022 via GOV.BN Telegram Post on 22nd June 2022](https://t.me/govbnofficial/6147))
 -  Indoor Stadium Vaccination Centre located at the Indoor Stadium will be officially closed starting on Friday, 1 July 2022
 -  Vaccination will continue at several Health Centres.
@@ -343,9 +374,24 @@ Updates to COVID-19 control measures which will commence on Wednesday, 15th June
 ([Source: GovBN Telegram Post on 12th Apriil 2022](https://t.me/govbnofficial/5617))
 ([Source: GovBN Telegram Post on 22nd April 2022](https://t.me/govbnofficial/5696))
 ([Source: GOV.BN Telegram Post on 24th May 2022](https://t.me/govbnofficial/5960))
+(Source: [GOV.BN Telegram Post 14th July 2022](https://t.me/govbnofficial/6255)
 
+**Updates on relaxation of cross-border activities which will commence on Monday, 1st August 2022** (Source: [GOV.BN Telegram Post 14th July 2022](https://t.me/govbnofficial/6255))
+- A. "Fully Vaccinated" foreign nationals for inbound and outbound for any type of travel (whether air, land or sea) is defined as those who have at least two (2) doses of vaccines.
+
+  However, foreigners who wish to enter the country are encouraged to obtain a booster dose to preserve the safety, security and well-being of all parties.
+
+  B. Meanwhile, the definition of "fully vaccinated" for citizens and permanent residents of Brunei Darussalam who wish to exit and enter the country via air, land or sea is to have at least three (3) doses of vaccinations or if they have not received the third dose, they have obtained their second dose of vaccination no more than three (3) months prior to the date of departure from the country.
+
+  To this end, for those who have not been vaccinated or have not completed their vaccinations yet including booster doses, it is advisable to do so immediately to avoid more severe symptoms.
+
+- Exit-country and entry travel via land and seaports are to be aligned with existing air travel guidelines, such as being fully vaccinated, to obtain Travel Medical Insurance with coverage of COVID-19 treatment prior to exiting the country (for citizens and permanent residents of Brunei Darussalam) and completing the Arrival Declaration Form (ADF) before entering or returning to the country.
+
+The COVID-19 Steering Committee will continue to monitor the current situation of the COVID-19 in the country while ensuring that any control measures imposed are appropriate, in order to maintain the safety, security and well-being of the citizens and residents of Brunei Darussalam. Any changes and updates will be announced immediately to the public.
+
+For further information and details, please visit our website at www.pmo.gov.bn/travelportal or contact our operators at the travel hotline 120 during working hours or via e-mail at travelapplication@jpm.gov.bn.
 **Ending of Early Endemic Phase** 
-	
+
 - Early Endemic Phase will cease after 31st May 2022
 - From Wednesday, 1st June 2022, the guidelines for COVID-19 control measures will be updated as follows:
   1. No limitation on the capacity of mass gatherings (regardless of location, i.e. either at home or halls);
@@ -1345,6 +1391,18 @@ Currently, the self-isolation period for close contacts has been reduced from 14
 ------------------------------------------------------------------------------
 
 ## Medical Service related disruptions/changes
+
+
+**Updated Hospital Guidelines** (Source: [MoH Press Release 12 July 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1314))
+- Following the current situation of the COVID-19 infection, the policy on visit to Government Hospitals is updated as follows:
+    - Only two visitors are allowed per patient per day.
+    - Each visitor is required to have a negative ART test result on the same day.
+    - Visitors categorized as close contacts or those with signs of infection are not allowed to visit even if their ART test result is negative.
+    - Each caregiver or patient companion should have a negative ART test result on the same day.
+    - Anyone categorized as a close contact or those with signs of infection are not allowed to be the patient's caregiver or companion even if their ART test result is negative.
+    - Mothers who are about to give birth are allowed to have one guardian or companion.
+    - Special permission can be given to immediate family members for critically ill patients through the administration in the respective wards.
+
 
 ### REINSTATEMENT of several services in health centres
 
