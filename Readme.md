@@ -39,7 +39,101 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**Updates to COVID-19 control measures which will commence on Wednesday, 15th February 2023** (Source: [GOV.BN Telegram Post 12th February 2023](https://t.me/govbnofficial/7264)
 
+1. Infectious Diseases Act Cap 204 will no longer be the basis for mandatory isolation for positive cases of COVID-19.
+This is taking into consideration that Brunei Darussalam has entered the Endemic Phase about a year ago and the people of this country have high level of immunity for collective protection which was achieved through vaccination and natural infection (hybrid immunity). This is also in line with the guidelines of the World Health Organization (WHO).
+With these amendments:
+
+   - i) Anyone with a positive Antigen Rapid Test (ART) are encouraged to upload their ART results to the BruHealth app. However, Quarantine Order will no longer be issued and is replaced with Self Isolation Advice.
+
+   - ii) The use of the purple code in the BruHealth app will be maintained. However, its usage will only be for verification and as a Medical Certificate, and not for mandatory self-isolation.
+
+   - iii) Currently, positive cases are required to undergo mandatory self- isolation for five to ten days, which is subject to ART results after the fifth day.
+   Therefore, with these changes, COVID-19 positive cases are only advised to undergo self-isolation for a period of three to five days only. Those who opt to self-isolate can end their self-isolation after the fifth day or at any time after they are tested negative after the third day.
+
+2. Close contacts of COVID-19 cases are no longer required to undergo self- isolation and as such, the red code on the BruHealth app will no longer be in use. However, anyone with symptoms are advised to do their ART.
+
+3. Physicaldistancingaccordingtothewidthofprayermats(largesize)forFardhu prayers in conggregation and Friday prayer at the mosques is no longer required and the use of own prayer mats is not mandatory.
+
+4. With these changes, the term “COVID-19 Health Protocols” will be replaced by “COVID-19 Health Advisory”.
+
+5. Meanwhile, the Ministry of Health will update and implement control measures at hospitals and clinics (including private hospitals and clinics) as follows:
+   - i) Visitors are no longer required to do an ART before visiting inpatients in the wards;
+   - ii) The use of face masks are only mandatory in clinical areas; while
+   - iii) Other control measures are still maintained as follows:
+      - ART will still be done for patients being admitted to the hospital for treatment;
+      - Patients with COVID-19 will be treated in designated isolation wards.
+6. Ministry of Health’s Weekly Press Conference will only be held if and when required and will no longer be held regularly every week. However, specific information on COVID-19 will continue to be shared through mass media.
+
+**Updates on Exit & Entry Charges starting Monday, 12th August 2022** (Source: [GOV.BN Telegram Post 12th December 2022](https://t.me/govbnofficial/7037)
+
+1. With the consent of His Majesty Sultan Haji Hassanal Bolkiah Mu’izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar ‘Ali Saifuddien Sa’adul Khairi Waddien, Sultan and Yang Di-Pertuan of Brunei Darussalam, the COVID-19 Steering Committee has informed that the Ministry of Finance and Economy through the Royal Customs and Excise Department will be amending the rates of the Exit and Entry Charges, which is currently charged at BND3.00 per person for a one-way trip, for those travelling through any of the land border control posts in Brunei Darussalam.
+2. Commencing Monday, 12th November 2022, the Exit and Entry Charges will instead be charged on every vehicle travelling through any of the land border control posts in Brunei Darussalam, according to the following rates:
+i) Vehicles with a passenger capacity of not exceeding seven (7) people including the driver, will be charged BND3.00 per vehicle one-way;
+ii) Vehicles with a passenger capacity of more than seven (7) people and up to 25 people including the driver, such as a van or minibus, will be charged BND6.00 per vehicle one-way;
+iii) Vehicles with a passenger capacity of more than 25 people including the driver, such as a bus, will be charged BND10.00 per vehicle one-way;
+iv) Commercial vehicles that do not require to be inspected through the x-ray machine will be charged BND6.00 per vehicle one-way; and
+1
+  v) Commercial vehicles that require inspection through the x-ray machine will be charged BND10.00 per vehicle one-way.
+3. The Exit and Entry Charges will be charged on every vehicle that will be passing through any of the land border control posts in Brunei Darussalam, regardless of whether it is locally registered in Brunei Darussalam or a foreign registered vehicle.
+4. The Exit and Entry Charges will be exempted for pedestrians, and for vehicles listed as follows: -
+(i) Bicycles;
+(ii) Motorcycles;
+(iii) Vehicles owned by the Government of Brunei Darussalam or foreign governments to carry out official duties;
+(iv) Vehicles owned by an officer of the Government of Brunei Darussalam or foreign governments to carry out official duties;
+(v) Vehicles owned by the Royal Brunei Armed Forces;
+(vi) Vehicles such as ambulances, fire engines, police vehicles and vehicles used for funerals; and
+(vii) Vehicles used by any persons under Diplomatic Privileges (Vienna Convention) Act (Chapter 117) and Consular Relations Act (Chapter 118)
+5. For members of the public who had planned to cross the borders on or after Monday, 12th November 2022 and had paid their Exit and Entry Charges in advance through the Exit and Entry System (EES), the payment will be refunded by the Royal Customs and Excise Department.
+2
+
+  6. To ensure a smooth travel across the land border control posts, members of the public are advised to:
+i) Register, apply and pay the Exit and Entry Charges through the EES ( https://login.bdnsw.gov.bn/ees/user/login ) and obtain a QR code in advance, before the trip; and
+ii) Ensure that they hold valid travel documents with a validity of at least three (3) months before the date of expiry when travelling across the land border control posts, as required by the Department of Immigration and National Registration.
+7. For further enquiries, kindly contact the Royal Customs and Excise Department through their hotline 2382361 or 8323741 during office hours or via email to info@customs.gov.bn.
+
+**Updates to COVID-19 control measures which will commence on Thursday, 1st December 2022** (Source: [GOV.BN Telegram Post 28th November 2022](https://t.me/govbnofficial/6982)
+
+1. Citizens and residents of Brunei Darussalam including foreign nationals who wish to exit and enter the country via land, sea and air will no longer be required to possess a travel medical insurance with COVID-19 coverage. However, travellers who wish to obtain such insurance for their own peace of mind are welcomed to do so. Such insurance should cover any medical or treatment costs that may be incurred following any unexpected incident whilst overseas i.e. not limited to COVID-19 infections alone.
+Citizens of Brunei Darussalam who are travelling overseas are also encouraged to inform the Ministry of Foreign Affairs of their travel details by submitting them via the MFA e-Register on the Ministry’s website. Registration of these details will enable the Ministry to identify Brunei citizens who are overseas in the event of an emergency incident occuring in a particular country.
+
+2. Operating hours for land control posts, namely Sungai Tujoh, Labu, Ujong Jalan and Kuala Lurah Immigration Control Posts, which are currently operating from 6.00 a.m. to 8.00 p.m., will be amended to 6.00 a.m. to 10.00 p.m. Meanwhile, sea control posts at Serasa Terminal Ferry, Serasa Vehicle Ferry, Muara Port and Kuala Belait Wharf will continue to operate from 6.00 a.m. to 8.00 p.m.
+
+3. Also commencing on the same date, food distribution for COVID-19 cases will be discontinued. However, the Government of His Majesty the Sultan and Yang Di-Pertuan of Brunei Darussalam through the Ministry of Culture, Youth and Sports will continue to provide assistance to those in need, similar to the situation prior to COVID-19 Pandemic.
+
+**Updates to COVID-19 control measures and travel guidelines which will commence on 15th September 2022** (Source: [GOV.BN Telegram Post 12th September 2022](https://t.me/govbnofficial/6591)
+
+1. Use of face masks indoors or outdoors will be optional and no longer be made mandatory. However, the use of face masks is still
+compulsory for:
+
+   - i) Individuals with symptoms (symptomatics) who may need to leave their house for any purposes;
+   - ii) In health facilities, either government or private facilities (including hospitals, clinics, ambulances, swab centres and vaccination centres);
+   - iii) If required by event organisers; and
+   - iv) To ensure good food handling practices, food handlers involved in food preparation in restaurants, eateries, food stalls are also required to wear face masks while working
+
+2. The requirement for prayer mat-width distancing (using large-sized prayer mats) for daily congregational Fardhu prayers and Friday prayers in mosques is retained and the use of personal prayer mats is encouraged (not mandatory).
+
+3. Antigen rapid tests (ART) in schools and educational institutions as well as training institutions under the Ministry of Education, the Ministry of Religious Affairs and the Ministry of Culture, Youth and Sports is streamlined to Standard Operating Procedures (SOP) for ART surveillance for Civil Service i.e. will no longer be conducted according to any schedule and are only required for symptomatic individuals or if required by schools such as prior to sitting for an examination or attending an event. However, parents or guardians may also decide to be responsible for their own ART surveillance at home.
+
+4. As school examinations including public exams will be starting in October in Brunei Darussalam, candidates with red and purple BruHealth code will be allowed to sit for the exams physically in exam centres, according to relevant health SOPs. Candidates with red or purple BruHealth code prior to any examination are advised to contact their school as soon as possible.
+
+5. Childcare centres will be opened fully according to relevant health SOP.
+
+6. The provision of food rations and care packages which include simple medication and ART kits for positive cases will be discontinued, except for the provision of food rations for positive cases who are recipients of Government welfare assistance. Relevant agencies will identify eligible recipients through existing registries.
+
+
+Meanwhile, updated travel guidelines that will also commence on Thursday, 15th September 2022 are as follows:
+
+1. As Brunei Darussalam is estimated to have a high immunity rate following high COVID-19 vaccination rates and high proportion of residents have been infected by COVID-19, complete COVID-19 vaccination will no longer be an entry or exit requirement for Brunei Darussalam. This is based on the assessment that travel no longer has significant impact to the spread of infection in the country.
+
+2. The public i.e. citizens and residents of Brunei Darussalam as well as foreigners entering the country are no longer required to complete the Arrival Declaration Form (ADF).
+
+3. Citizens and Permanent Residents of Brunei Darussalam who are exiting the country as well as foreigners who are entering the country are still required to possess valid travel insurance that include COVID- 19 treatment coverage.
+
+4. Meanwhile,citizens of Brunei Darussalam who are exiting the country are also required to register their outbound travel information on the MFA e-Register through the Ministry of Foreign Affair’s website.
+
+5. Operating times at Brunei Darussalam’s land control posts will by extended by 2 hours i.e. will be opened from 06.00am to 08.00pm.
 
 **Updates on relaxation of cross-border activities which will commence on Monday, 1st August 2022** (Source: [GOV.BN Telegram Post 14th July 2022](https://t.me/govbnofficial/6255))
 - A. "Fully Vaccinated" foreign nationals for inbound and outbound for any type of travel (whether air, land or sea) is defined as those who have at least two (2) doses of vaccines.
@@ -1392,8 +1486,83 @@ Currently, the self-isolation period for close contacts has been reduced from 14
 
 ## Medical Service related disruptions/changes
 
+### Updated Hospital Guidelines
+(Source: [MoH Press Release 15 February 2023](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1357))
 
-**Updated Hospital Guidelines** (Source: [MoH Press Release 12 July 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1314))
+The Ministry of Health would like to inform the public about the patients and visitors policy update for government and private hospitals, health centres and health facilities.
+
+**Use of face mask**
+
+- The use of face mask is only **mandatory** in clinical areas when in the premises of a hospital, health centre or health facility.
+
+- _Definition of clinical areas_
+   - Clinical areas are areas where encounters between healthcare workers and patients occur, and such encounters include medical procedures, treatments, consultations, and obtaining medication.
+   - For example, the Emergency Department, registration counters, wards, clinics, pharmacies, operating theatre, radiology and adjacent waiting areas and corridors close to wards or where medical procedures, treatment, consultation are performed and others.
+   - This does not include areas such as canteen or restaurant/cafe, pantries or rest areas for health workers, surau, office, lecture theaters and meeting rooms.
+
+**Antigen Rapid Test (ART)**
+- Visitors are **no longer required** to do an ART before visiting inpatients in the wards. However, ART is still encouraged.
+- ART will still be done for patients being admitted to the hospital for treatment. Patients with COVID-19 will be treated in designated isolation wards.
+- However, there are areas or clinics that may have a need for patients to do an ART.
+ART is required for outpatients receiving treatment or procedures, such as:
+   1. Emergency Department: patients with severe / serious pain and will likely require admission to the hospital, as well as patients with influenza like-illness (ILI) such as flu and cough.
+   2. Endoscopy
+   3. Dental procedures
+   4. Surgery or Operating theatre
+   5. High risk areas such as Chemotherapy Unit and Hematology Unit
+   6. Flu Clinic
+
+**VISITORS TO THE WARD**
+- To avoid the risk of infection and to ensure that patients admitted to the ward get adequate rest and receive timely care and treatment:
+
+    1. Only **two (2) designated visitors** (not including carer) are allowed per patient per visiting session during visiting hours.
+    2. Children under the age of 12 years old are not allowed to enter the ward/unit.
+    3. Visitors are only allowed to visit patients in low risk zone wards (cold zone wards).
+    4. Visitors are not allowed to visit patients in holding wards, isolation wards or any wards with restricted access.
+    5. Visitors are allowed with patient's permission to do video calls with family but are not allowed to do video recordings of staff, other patients or the wards.
+
+    Only **one (1) visitor** allowed to accompany patient for appointment/medicine collection.
+
+    All visitors must ensure they:
+
+    1. Wear face masks at all times.
+    2. Keep their voices down and avoid making loud noises.
+    3. Wash their hands with soap and water or use the hand sanitizer before and after visit.
+    4. Keep their mobile phones switched off or on silent mode.
+    5. Do not visit patients if they are unwell or sick.
+    6. Respect the privacy of other patients.
+    7. Refraining from eating and drinking in the ward.
+
+**CARER**
+
+- Only **one (1) carer** per patient is allowed.
+
+   1. Change of carer for each patient is allowed on the condition that the replacement needs to do an ART.
+   2. The carer must ensure to:
+        1. Wear face mask at all times.
+        2. Keep their voices down and avoid making loud noises
+        3. Wash hands with soap and water or use the hand sanitizer regularly.
+        4. Keep mobile phone switched off or on silent mode.
+        5. Respect the privacy of other patients.
+
+**COVID-19 Patients**
+
+- COVID-19 patients are not allowed to receive routine procedures such as dental procedures.
+
+- However, COVID-19 patients who are experiencing worsening symptoms can seek treatment at the hospital or nearby health centres and should inform healthcare staff that they are positive for COVID-19.
+
+For more information, members of the public can call Talian Darussalam 123 or visit the website www.moh.gov.bn or follow MOH's social media: @mohbrunei.
+
+### Reinstatement of MCH Services for Berakas Health Centre
+(Source: [MoH Press Release 31 December 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1345))
+
+-  Reinstatement of services for Klinik Kesihatan Ibu dan Anak (Maternal and Child Health Clinic) that operated at Tingkat 5, Blok 2G, Kondominium Ong Sum Ping, will be moved to Pusat Kesihatan Berakas (Berakas Health Centre) Jalan 10 Selatan, Rancangan Perumahan Negara Lambak Kanan starting Tuesday 3 January 2023.
+- **Operating Hours**
+   - Monday to Thursday & Saturday: 07.45 am – 12.15 pm, 1.30 pm - 4.30 pm
+
+
+### Updated Hospital Guidelines
+(Source: [MoH Press Release 12 July 2022](https://www.moh.gov.bn/Lists/Latest%20news/NewDispForm.aspx?ID=1314))
 - Following the current situation of the COVID-19 infection, the policy on visit to Government Hospitals is updated as follows:
     - Only two visitors are allowed per patient per day.
     - Each visitor is required to have a negative ART test result on the same day.
