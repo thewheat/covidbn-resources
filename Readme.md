@@ -39,6 +39,83 @@ See a problem or room for improvement? If you can fix it, [open a PR](https://gi
 
 ## Recent/Current Highlights
 
+**COVID-19 no longer a global emergency. Ministry of Health will no longer share information related to COVID-19 starting 9th May 2023** (Source: [MoH Media Statement 8th May 2023 via GOV.BN Telegram Post 8th May 2023](https://t.me/govbnofficial/7576))
+
+- On this occasion, the Ministry of Health would like to inform the public on the statement issued by the World Health Organization (WHO) on Friday, 5 May 2023, regarding the outcome of the 15th Meeting of the International Health Regulations (IHR) Emergency Committee which took place on 4 May 2023 where the COVID-19 infection is no longer constituted as a Public Health Emergency of International Concern (PHEIC). This means that the WHO no longer considers the infection situation as a global emergency.
+- Therefore, the Ministry of Health will no longer share information related to COVID-19 to the public starting tomorrow, Tuesday, 9 May 2023
+- The Ministry of Health will continue to monitor the situation concerning the COVID-19 infection as part of the ongoing monitoring of infectious diseases in the country and will inform the public of any developments regarding any infectious diseases according to current needs.
+- Meanwhile, the public is advised to continue practicing good personal hygiene and proper cough and sneeze etiquette. Individuals aged 18 years old and above, especially those suffering from chronic diseases and the elderly are also encouraged to get a booster dose of the vaccine (the bivalent vaccine type). A booster dose can be obtained 6 months from the last dose received or from the previous COVID-19 infection, whichever is later.
+
+Reminder of current protocols effective since 15 February 2023 (Source: [GOV.BN Telegram Post 10th May 2023](https://t.me/govbnofficial/7583))
+
+**COVID-19 positive procedure**
+- self-isolation is NOT MANDATORY
+- You are ALLOWED TO LEAVE THE HOUSE and go to public areas (offices, schools, shopping malls etc. However it is advised not to attend any public gatherings.
+- If you WISH TO SELF-ISOLATE, you may UPLOAD YOUR POSITIVE ART RESULT TO THE BRUHEALTH APP. YOUr Brutealth code will change to PURPLE and can be used as a MEDICAL CERTIFICATE. The Brutealth Code will change to GREEN (after 5 days) or until you get a NEGATIVE ART result (if your ART result is negatif before day 5).
+
+
+**Use of face mask**
+
+- The use of face mask is only **mandatory** in clinical areas when in the premises of a hospital, health centre or health facility.
+
+- _Definition of clinical areas_
+   - Clinical areas are areas where encounters between healthcare workers and patients occur, and such encounters include medical procedures, treatments, consultations, and obtaining medication.
+   - For example, the Emergency Department, registration counters, wards, clinics, pharmacies, operating theatre, radiology and adjacent waiting areas and corridors close to wards or where medical procedures, treatment, consultation are performed and others.
+   - This does not include areas such as canteen or restaurant/cafe, pantries or rest areas for health workers, surau, office, lecture theaters and meeting rooms.
+
+**Antigen Rapid Test (ART)**
+- Visitors are **no longer required** to do an ART before visiting inpatients in the wards. However, ART is still encouraged.
+- ART will still be done for patients being admitted to the hospital for treatment. Patients with COVID-19 will be treated in designated isolation wards.
+- However, there are areas or clinics that may have a need for patients to do an ART.
+ART is required for outpatients receiving treatment or procedures, such as:
+   1. Emergency Department: patients with severe / serious pain and will likely require admission to the hospital, as well as patients with influenza like-illness (ILI) such as flu and cough.
+   2. Endoscopy
+   3. Dental procedures
+   4. Surgery or Operating theatre
+   5. High risk areas such as Chemotherapy Unit and Hematology Unit
+   6. Flu Clinic
+
+**VISITORS TO THE WARD**
+- To avoid the risk of infection and to ensure that patients admitted to the ward get adequate rest and receive timely care and treatment:
+
+    1. Only **two (2) designated visitors** (not including carer) are allowed per patient per visiting session during visiting hours.
+    2. Children under the age of 12 years old are not allowed to enter the ward/unit.
+    3. Visitors are only allowed to visit patients in low risk zone wards (cold zone wards).
+    4. Visitors are not allowed to visit patients in holding wards, isolation wards or any wards with restricted access.
+    5. Visitors are allowed with patient's permission to do video calls with family but are not allowed to do video recordings of staff, other patients or the wards.
+
+    Only **one (1) visitor** allowed to accompany patient for appointment/medicine collection.
+
+    All visitors must ensure they:
+
+    1. Wear face masks at all times.
+    2. Keep their voices down and avoid making loud noises.
+    3. Wash their hands with soap and water or use the hand sanitizer before and after visit.
+    4. Keep their mobile phones switched off or on silent mode.
+    5. Do not visit patients if they are unwell or sick.
+    6. Respect the privacy of other patients.
+    7. Refraining from eating and drinking in the ward.
+
+**CARER**
+
+- Only **one (1) carer** per patient is allowed.
+
+   1. Change of carer for each patient is allowed on the condition that the replacement needs to do an ART.
+   2. The carer must ensure to:
+        1. Wear face mask at all times.
+        2. Keep their voices down and avoid making loud noises
+        3. Wash hands with soap and water or use the hand sanitizer regularly.
+        4. Keep mobile phone switched off or on silent mode.
+        5. Respect the privacy of other patients.
+
+**COVID-19 Patients**
+
+- COVID-19 patients are not allowed to receive routine procedures such as dental procedures.
+
+- However, COVID-19 patients who are experiencing worsening symptoms can seek treatment at the hospital or nearby health centres and should inform healthcare staff that they are positive for COVID-19.
+
+* * * 
+
 **Updates to COVID-19 control measures which will commence on Wednesday, 15th February 2023** (Source: [GOV.BN Telegram Post 12th February 2023](https://t.me/govbnofficial/7264)
 
 1. Infectious Diseases Act Cap 204 will no longer be the basis for mandatory isolation for positive cases of COVID-19.
